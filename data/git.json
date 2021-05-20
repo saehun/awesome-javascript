@@ -258,5 +258,35 @@
     "name": "dir-glob",
     "stars": 41,
     "description": "Convert directories to glob compatible strings"
+  },
+  "voidcosmos/npkill": {
+    "repo": "npkill",
+    "owner": "voidcosmos",
+    "topics": [
+      "npm",
+      "typescript",
+      "cli",
+      "node",
+      "module",
+      "developer-tools",
+      "tool",
+      "nodejs"
+    ],
+    "size": 5623,
+    "keywords": [
+      "cli",
+      "free up space",
+      "npm",
+      "node",
+      "modules",
+      "clean",
+      "tool",
+      "delete",
+      "find",
+      "interactive"
+    ],
+    "name": "npkill",
+    "stars": 4578,
+    "description": "List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space."
   }
 }
