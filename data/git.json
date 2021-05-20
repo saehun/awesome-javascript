@@ -324,5 +324,23 @@
     "name": "dependency-cruiser",
     "stars": 1835,
     "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD."
+  },
+  "textlint/textlint": {
+    "repo": "textlint",
+    "owner": "textlint",
+    "topics": [
+      "javascript",
+      "natural-language",
+      "markdown",
+      "linter",
+      "lint",
+      "textlint",
+      "nlp"
+    ],
+    "size": 14928,
+    "keywords": [],
+    "name": "root",
+    "stars": 1995,
+    "description": "The pluggable natural language linter for text and markdown."
   }
 }
