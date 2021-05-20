@@ -506,5 +506,34 @@
     "name": "debug",
     "stars": 9536,
     "description": "A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers"
+  },
+  "lukeed/mri": {
+    "repo": "mri",
+    "owner": "lukeed",
+    "topics": [
+      "cli-flags",
+      "cli",
+      "argv",
+      "parser",
+      "minimist",
+      "yargs",
+      "command-line",
+      "flags",
+      "args"
+    ],
+    "size": 47,
+    "keywords": [
+      "argv",
+      "arguments",
+      "cli",
+      "minimist",
+      "options",
+      "optimist",
+      "parser",
+      "args"
+    ],
+    "name": "mri",
+    "stars": 396,
+    "description": "Quickly scan for CLI flags and arguments"
   }
 }
