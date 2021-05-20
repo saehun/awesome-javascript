@@ -535,5 +535,34 @@
     "name": "mri",
     "stars": 396,
     "description": "Quickly scan for CLI flags and arguments"
+  },
+  "moleculerjs/moleculer": {
+    "repo": "moleculer",
+    "owner": "moleculerjs",
+    "topics": [
+      "microservices",
+      "microservice",
+      "nodejs",
+      "distributed-systems",
+      "moleculer",
+      "microservice-framework"
+    ],
+    "size": 25037,
+    "keywords": [
+      "microservice",
+      "microservices",
+      "framework",
+      "backend",
+      "messagebus",
+      "rpc",
+      "services",
+      "micro",
+      "pubsub",
+      "scalable",
+      "distributed"
+    ],
+    "name": "moleculer",
+    "stars": 4377,
+    "description": ":rocket: Progressive microservices framework for Node.js"
   }
 }
