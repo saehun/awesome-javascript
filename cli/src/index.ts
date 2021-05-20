@@ -4,6 +4,8 @@ import { fetchRepo } from './fetch';
 import { commit } from './git';
 import { saveReadme } from './saveReadme';
 import { getInputURL } from './utils';
+import * as rimraf from 'rimraf';
+import { env } from './env';
 
 export async function handleNpm() {
   throw new Error('Not implemented');
@@ -29,6 +31,7 @@ export async function handleGithub() {
     description: description || '',
   });
 
+  rimraf.sync(env().REPO_PATH + '/tags');
   await saveReadme(exportMarkdown(infoMap));
   await commit(`add ${owner}/${repo}`);
   // await push();
