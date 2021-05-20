@@ -484,5 +484,27 @@
     "name": "agent-base",
     "stars": 41,
     "description": "Turn a function into an `http.Agent` instance"
+  },
+  "visionmedia/debug": {
+    "repo": "debug",
+    "owner": "visionmedia",
+    "topics": [
+      "javascript",
+      "logging",
+      "browser",
+      "debug",
+      "debugging",
+      "node",
+      "node-js"
+    ],
+    "size": 396,
+    "keywords": [
+      "debug",
+      "log",
+      "debugger"
+    ],
+    "name": "debug",
+    "stars": 9536,
+    "description": "A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers"
   }
 }
