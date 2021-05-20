@@ -6,6 +6,7 @@ const Header = `
 	<br>
 </div>
 
+> This list do not contain major project e.g. React, Express, Axios.. etc.
 
 ## Related
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.

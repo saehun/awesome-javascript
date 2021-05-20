@@ -87,5 +87,31 @@
     "name": "yallist",
     "stars": 153,
     "description": "Yet Another Linked List"
+  },
+  "sindresorhus/type-fest": {
+    "repo": "type-fest",
+    "owner": "sindresorhus",
+    "topics": [
+      "typescript-definitions",
+      "typescript",
+      "types",
+      "utilities",
+      "npm-package"
+    ],
+    "size": 1218,
+    "keywords": [
+      "typescript",
+      "ts",
+      "types",
+      "utility",
+      "util",
+      "utilities",
+      "omit",
+      "merge",
+      "json"
+    ],
+    "name": "type-fest",
+    "stars": 4848,
+    "description": "A collection of essential TypeScript types"
   }
 }

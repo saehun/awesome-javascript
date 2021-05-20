@@ -1,4 +1,3 @@
-## util
+## json
 
-- [@sindresorhus/is](https://github.com/sindresorhus/is) Type check values
 - [type-fest](https://github.com/sindresorhus/type-fest) A collection of essential TypeScript types
