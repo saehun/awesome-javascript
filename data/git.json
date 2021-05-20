@@ -904,5 +904,26 @@
     "name": "rfdc",
     "stars": 400,
     "description": "Really Fast Deep Clone"
+  },
+  "delvedor/find-my-way": {
+    "repo": "find-my-way",
+    "owner": "delvedor",
+    "topics": [
+      "router",
+      "http",
+      "speed",
+      "radix-tree"
+    ],
+    "size": 328,
+    "keywords": [
+      "http",
+      "router",
+      "radix",
+      "fast",
+      "speed"
+    ],
+    "name": "find-my-way",
+    "stars": 823,
+    "description": "A crazy fast HTTP router"
   }
 }
