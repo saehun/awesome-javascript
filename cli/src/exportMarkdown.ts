@@ -25,6 +25,8 @@ const TagHeader = `
 ## Tags
 `;
 
+const MINIMUM_TAG_COUNT = 2;
+
 /**
  * Export data to markdown.
  */
@@ -43,7 +45,9 @@ export function exportMarkdown(data: Record<string, Info>): Array<[string, strin
 
   return [
     toMarkdownIndex(list, tagIndex),
-    ...Object.entries(tagIndex).map(([tag, infoList]) => toMarkdownTag(tag, infoList)),
+    ...Object.entries(tagIndex)
+      .filter(([, infoList]) => infoList.length >= MINIMUM_TAG_COUNT)
+      .map(([tag, infoList]) => toMarkdownTag(tag, infoList)),
   ];
 
   function appendTagIndex(tag: string, info: Info) {
@@ -60,6 +64,7 @@ function toMarkdownIndex(infoList: Info[], tagIndex: Record<string, Info[]>): [p
 
 function convertToTagSection(tagIndex: Record<string, Info[]>) {
   return Object.entries(tagIndex)
+    .filter(([, infoList]) => infoList.length >= MINIMUM_TAG_COUNT)
     .sort((a, b) => a[1].length - b[1].length)
     .map(([tag, infoList]) => `[${tag}(${infoList.length})](tags/${tag}/README.md)`)
     .join(' ');
@@ -120,7 +125,8 @@ const sanitizeTable: Record<string, string> = {
 
 function sanitizeTags(tags: string[]) {
   const tagSet = new Set<string>();
-  for (const tag of tags) {
+  for (let tag of tags) {
+    tag = tag.replace(/\s/g, '-');
     if (tag in sanitizeTable) {
       tagSet.add(sanitizeTable[tag]);
     } else {

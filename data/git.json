@@ -564,5 +564,31 @@
     "name": "moleculer",
     "stars": 4377,
     "description": ":rocket: Progressive microservices framework for Node.js"
+  },
+  "marcelklehr/toposort": {
+    "repo": "toposort",
+    "owner": "marcelklehr",
+    "topics": [
+      "toposort",
+      "directed-edges",
+      "javascript",
+      "vertices",
+      "edges"
+    ],
+    "size": 173,
+    "keywords": [
+      "topological",
+      "sort",
+      "sorting",
+      "graphs",
+      "graph",
+      "dependency",
+      "list",
+      "dependencies",
+      "acyclic"
+    ],
+    "name": "toposort",
+    "stars": 242,
+    "description": "Topologically sort directed acyclic graphs (such as dependency lists) in javascript"
   }
 }
