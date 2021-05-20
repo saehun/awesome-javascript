@@ -437,5 +437,15 @@
     "name": "linkinator",
     "stars": 596,
     "description": "🐿 Scurry around your site and find all those broken links. "
+  },
+  "tapjs/foreground-child": {
+    "repo": "foreground-child",
+    "owner": "tapjs",
+    "topics": [],
+    "size": 284,
+    "keywords": [],
+    "name": "foreground-child",
+    "stars": 33,
+    "description": "Run a child as if it's the foreground process.  Give it stdio.  Exit when it exits."
   }
 }
