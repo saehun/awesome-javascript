@@ -1,6 +1,8 @@
 import { appendJsonAndSave } from './appendJsonAndSave';
 import { exportMarkdown } from './exportMarkdown';
 import { fetchRepo } from './fetch';
+import { commit } from './git';
+import { saveReadme } from './saveReadme';
 import { getInputURL } from './utils';
 
 export async function handleNpm() {
