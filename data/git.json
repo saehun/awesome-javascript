@@ -411,5 +411,31 @@
     "name": "update-notifier",
     "stars": 1543,
     "description": "Update notifications for your CLI app"
+  },
+  "JustinBeckwith/linkinator": {
+    "repo": "linkinator",
+    "owner": "JustinBeckwith",
+    "topics": [
+      "link-checker",
+      "typescript",
+      "broken-links",
+      "404"
+    ],
+    "size": 2127,
+    "keywords": [
+      "404",
+      "html",
+      "hyperlink",
+      "links",
+      "seo",
+      "url",
+      "broken link checker",
+      "broken",
+      "link",
+      "checker"
+    ],
+    "name": "linkinator",
+    "stars": 596,
+    "description": "🐿 Scurry around your site and find all those broken links. "
   }
 }
