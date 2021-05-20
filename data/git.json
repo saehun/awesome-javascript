@@ -381,5 +381,35 @@
     "name": "ast-query",
     "stars": 227,
     "description": "Tentative to a simple JavaScript AST modification library"
+  },
+  "yeoman/update-notifier": {
+    "repo": "update-notifier",
+    "owner": "yeoman",
+    "topics": [
+      "update-notifier",
+      "update-chec",
+      "updater",
+      "notifications",
+      "command-line-utility",
+      "node-module",
+      "npm-package"
+    ],
+    "size": 193,
+    "keywords": [
+      "npm",
+      "update",
+      "updater",
+      "notify",
+      "notifier",
+      "check",
+      "checker",
+      "cli",
+      "module",
+      "package",
+      "version"
+    ],
+    "name": "update-notifier",
+    "stars": 1543,
+    "description": "Update notifications for your CLI app"
   }
 }
