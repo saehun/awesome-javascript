@@ -288,5 +288,41 @@
     "name": "npkill",
     "stars": 4578,
     "description": "List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space."
+  },
+  "sverweij/dependency-cruiser": {
+    "repo": "dependency-cruiser",
+    "owner": "sverweij",
+    "topics": [
+      "dependency-cruiser",
+      "typescript",
+      "javascript",
+      "static-analysis",
+      "dependency-analysis",
+      "dependency-graph",
+      "circular-dependencies",
+      "jsx",
+      "tsx",
+      "dependencies",
+      "architecture-diagram",
+      "vue"
+    ],
+    "size": 51146,
+    "keywords": [
+      "static analysis",
+      "circular",
+      "dependencies",
+      "typescript",
+      "javascript",
+      "coffeescript",
+      "ES6",
+      "ES2015",
+      "AMD",
+      "CommonJS",
+      "validation",
+      "spelunking"
+    ],
+    "name": "dependency-cruiser",
+    "stars": 1835,
+    "description": "Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD."
   }
 }
