@@ -235,5 +235,28 @@
     "name": "globby",
     "stars": 1676,
     "description": "User-friendly glob matching"
+  },
+  "kevva/dir-glob": {
+    "repo": "dir-glob",
+    "owner": "kevva",
+    "topics": [
+      "glob",
+      "pattern",
+      "matching",
+      "directories",
+      "nodejs",
+      "globbing"
+    ],
+    "size": 20,
+    "keywords": [
+      "convert",
+      "directory",
+      "extensions",
+      "files",
+      "glob"
+    ],
+    "name": "dir-glob",
+    "stars": 41,
+    "description": "Convert directories to glob compatible strings"
   }
 }
