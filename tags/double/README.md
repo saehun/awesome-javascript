@@ -1,4 +1,3 @@
-## queue
+## double
 
-- [bull](https://github.com/OptimalBits/bull) Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [denque](https://github.com/invertase/denque) The fastest javascript implementation of a double-ended queue. Used by the official Redis, MongoDB, MariaDB & MySQL libraries for Node.js and many other libraries.
