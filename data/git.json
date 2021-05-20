@@ -77,5 +77,15 @@
     "name": "signal-exit",
     "stars": 141,
     "description": "when you want to fire an event no matter how a process exits."
+  },
+  "isaacs/yallist": {
+    "repo": "yallist",
+    "owner": "isaacs",
+    "topics": [],
+    "size": 94,
+    "keywords": [],
+    "name": "yallist",
+    "stars": 153,
+    "description": "Yet Another Linked List"
   }
 }

@@ -2,6 +2,7 @@ import axios from 'axios';
 import { Octokit } from 'octokit';
 import { env } from './env';
 import { URL } from 'url';
+import * as chalk from 'chalk';
 
 /**
  * Fetch target package informantion
@@ -11,6 +12,8 @@ export async function fetchRepo(url: URL) {
   const octokt = new Octokit({
     auth: env().GITHUB_TOKEN,
   });
+
+  console.info(`${chalk.yellowBright('fetch')} - ${owner}/${repo}`);
 
   const { data: gitMeta } = await octokt.rest.repos.get({
     owner,

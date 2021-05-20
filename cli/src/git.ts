@@ -6,3 +6,7 @@ export async function commit(message: string) {
   await run('git add .');
   return await run(`git commit -m '${message}'`);
 }
+
+export async function push() {
+  return await run('git push origin master');
+}

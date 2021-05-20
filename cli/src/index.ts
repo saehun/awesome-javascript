@@ -1,11 +1,12 @@
 import { appendJsonAndSave } from './appendJsonAndSave';
 import { exportMarkdown } from './exportMarkdown';
 import { fetchRepo } from './fetch';
-import { commit } from './git';
+import { commit, push } from './git';
 import { saveReadme } from './saveReadme';
 import { getInputURL } from './utils';
 import * as rimraf from 'rimraf';
 import { env } from './env';
+import * as chalk from 'chalk';
 
 export async function handleNpm() {
   throw new Error('Not implemented');
@@ -20,7 +21,7 @@ export async function handleGithub() {
     pkgJson: { name, keywords = [] },
   } = await fetchRepo(getInputURL());
 
-  const infoMap = await appendJsonAndSave({
+  const newInfo = {
     repo,
     owner,
     topics,
@@ -29,12 +30,18 @@ export async function handleGithub() {
     name: name ?? repo,
     stars: stargazers_count,
     description: description || '',
-  });
+  };
 
+  console.info(`${chalk.yellowBright('found')} - \n`, newInfo);
+
+  const infoMap = await appendJsonAndSave(newInfo);
   rimraf.sync(env().REPO_PATH + '/tags');
   await saveReadme(exportMarkdown(infoMap));
+
+  console.info(`${chalk.yellowBright('convert and save')}`);
+
   await commit(`add ${owner}/${repo}`);
-  // await push();
+  await push();
 }
 
 /**
