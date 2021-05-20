@@ -154,5 +154,35 @@
     "name": "markdownlint",
     "stars": 2511,
     "description": "A Node.js style checker and lint tool for Markdown/CommonMark files."
+  },
+  "okonet/lint-staged": {
+    "repo": "lint-staged",
+    "owner": "okonet",
+    "topics": [
+      "stage-files",
+      "linter",
+      "stylelint",
+      "eslint",
+      "git",
+      "developer-experience",
+      "workflow"
+    ],
+    "size": 5129,
+    "keywords": [
+      "lint",
+      "git",
+      "staged",
+      "eslint",
+      "prettier",
+      "stylelint",
+      "code",
+      "quality",
+      "check",
+      "format",
+      "validate"
+    ],
+    "name": "lint-staged",
+    "stars": 8530,
+    "description": "🚫💩 — Run linters on git staged files"
   }
 }
