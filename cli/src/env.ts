@@ -1,7 +1,7 @@
-require('dotenv').config();
 import * as path from 'path';
 import * as yup from 'yup';
 import { memo } from './utils';
+require('dotenv').config({ path: path.join(__dirname, '..', '.env') });
 
 export const env = memo((environment = process.env) => {
   const schema = yup.object().shape({

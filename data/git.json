@@ -64,5 +64,18 @@
     "name": "@sindresorhus/is",
     "stars": 1054,
     "description": "Type check values"
+  },
+  "tapjs/signal-exit": {
+    "repo": "signal-exit",
+    "owner": "tapjs",
+    "topics": [],
+    "size": 355,
+    "keywords": [
+      "signal",
+      "exit"
+    ],
+    "name": "signal-exit",
+    "stars": 141,
+    "description": "when you want to fire an event no matter how a process exits."
   }
 }
