@@ -606,5 +606,27 @@
     "name": "nanoclone",
     "stars": 67,
     "description": "Tiny util to deep clone JavaScript objects"
+  },
+  "sindresorhus/dot-prop": {
+    "repo": "dot-prop",
+    "owner": "sindresorhus",
+    "topics": [],
+    "size": 69,
+    "keywords": [
+      "object",
+      "prop",
+      "property",
+      "dot",
+      "path",
+      "get",
+      "set",
+      "delete",
+      "access",
+      "notation",
+      "dotty"
+    ],
+    "name": "dot-prop",
+    "stars": 526,
+    "description": "Get, set, or delete a property from a nested object using a dot path"
   }
 }
