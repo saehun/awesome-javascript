@@ -925,5 +925,20 @@
     "name": "find-my-way",
     "stars": 823,
     "description": "A crazy fast HTTP router"
+  },
+  "fastify/avvio": {
+    "repo": "avvio",
+    "owner": "fastify",
+    "topics": [],
+    "size": 294,
+    "keywords": [
+      "async",
+      "boot",
+      "delayed",
+      "open"
+    ],
+    "name": "avvio",
+    "stars": 203,
+    "description": "Asynchronous bootstrapping of Node applications"
   }
 }
