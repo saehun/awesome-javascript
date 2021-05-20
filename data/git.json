@@ -1,0 +1,68 @@
+{
+  "OptimalBits/bull": {
+    "repo": "bull",
+    "owner": "OptimalBits",
+    "topics": [
+      "nodejs",
+      "message-queue",
+      "job-queue",
+      "queue",
+      "job",
+      "message",
+      "priority",
+      "scheduler",
+      "rate-limiter"
+    ],
+    "size": 3566,
+    "keywords": [
+      "job",
+      "queue",
+      "task",
+      "parallel"
+    ],
+    "name": "bull",
+    "stars": 10599,
+    "description": "Premium Queue package for handling distributed jobs and messages in NodeJS."
+  },
+  "sindresorhus/is": {
+    "repo": "is",
+    "owner": "sindresorhus",
+    "topics": [
+      "type-detection",
+      "type-check",
+      "is",
+      "assertions",
+      "typescript",
+      "node-module",
+      "npm-package"
+    ],
+    "size": 1100,
+    "keywords": [
+      "type",
+      "types",
+      "is",
+      "check",
+      "checking",
+      "validate",
+      "validation",
+      "utility",
+      "util",
+      "typeof",
+      "instanceof",
+      "object",
+      "assert",
+      "assertion",
+      "test",
+      "kind",
+      "primitive",
+      "verify",
+      "compare",
+      "typescript",
+      "typeguards",
+      "types"
+    ],
+    "name": "@sindresorhus/is",
+    "stars": 1054,
+    "description": "Type check values"
+  }
+}
