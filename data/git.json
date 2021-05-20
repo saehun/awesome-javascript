@@ -956,5 +956,20 @@
     "name": "archy",
     "stars": 196,
     "description": "render nested hierarchies `npm ls` style with unicode pipes"
+  },
+  "mcollina/fastq": {
+    "repo": "fastq",
+    "owner": "mcollina",
+    "topics": [],
+    "size": 61,
+    "keywords": [
+      "fast",
+      "queue",
+      "async",
+      "worker"
+    ],
+    "name": "fastq",
+    "stars": 312,
+    "description": "Fast, in memory work queue"
   }
 }
