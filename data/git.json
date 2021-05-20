@@ -869,5 +869,40 @@
     "name": "file-type",
     "stars": 2030,
     "description": "Detect the file type of a Buffer/Uint8Array/ArrayBuffer"
+  },
+  "davidmarkclements/rfdc": {
+    "repo": "rfdc",
+    "owner": "davidmarkclements",
+    "topics": [],
+    "size": 63,
+    "keywords": [
+      "object",
+      "obj",
+      "properties",
+      "clone",
+      "copy",
+      "deep",
+      "recursive",
+      "key",
+      "keys",
+      "values",
+      "prop",
+      "deep-clone",
+      "deepclone",
+      "deep-copy",
+      "deepcopy",
+      "fast",
+      "performance",
+      "performant",
+      "fastclone",
+      "fastcopy",
+      "fast-clone",
+      "fast-deep-clone",
+      "fast-copy",
+      "fast-deep-copy"
+    ],
+    "name": "rfdc",
+    "stars": 400,
+    "description": "Really Fast Deep Clone"
   }
 }
