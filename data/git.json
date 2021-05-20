@@ -342,5 +342,23 @@
     "name": "root",
     "stars": 1995,
     "description": "The pluggable natural language linter for text and markdown."
+  },
+  "substack/js-traverse": {
+    "repo": "js-traverse",
+    "owner": "substack",
+    "topics": [],
+    "size": 761,
+    "keywords": [
+      "traverse",
+      "walk",
+      "recursive",
+      "map",
+      "forEach",
+      "deep",
+      "clone"
+    ],
+    "name": "traverse",
+    "stars": 957,
+    "description": "Traverse and transform objects by visiting every node on a recursive walk."
   }
 }
