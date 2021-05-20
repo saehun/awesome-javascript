@@ -590,5 +590,21 @@
     "name": "toposort",
     "stars": 242,
     "description": "Topologically sort directed acyclic graphs (such as dependency lists) in javascript"
+  },
+  "kelin2025/nanoclone": {
+    "repo": "nanoclone",
+    "owner": "kelin2025",
+    "topics": [],
+    "size": 148,
+    "keywords": [
+      "clone",
+      "deep",
+      "nano",
+      "nanoclone",
+      "deepclone"
+    ],
+    "name": "nanoclone",
+    "stars": 67,
+    "description": "Tiny util to deep clone JavaScript objects"
   }
 }

@@ -65,7 +65,7 @@ function toMarkdownIndex(infoList: Info[], tagIndex: Record<string, Info[]>): [p
 function convertToTagSection(tagIndex: Record<string, Info[]>) {
   return Object.entries(tagIndex)
     .filter(([, infoList]) => infoList.length >= MINIMUM_TAG_COUNT)
-    .sort((a, b) => a[1].length - b[1].length)
+    .sort((a, b) => b[1].length - a[1].length)
     .map(([tag, infoList]) => `[${tag}(${infoList.length})](tags/${tag}/README.md)`)
     .join(' ');
 }
