@@ -1,4 +1,5 @@
-import { env, getInputURL, toURL } from '../index';
+import { env } from '../env';
+import { getInputURL, toURL } from '../utils';
 
 describe('', () => {
   it('env', () => {
