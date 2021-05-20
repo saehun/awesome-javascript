@@ -360,5 +360,26 @@
     "name": "traverse",
     "stars": 957,
     "description": "Traverse and transform objects by visiting every node on a recursive walk."
+  },
+  "SBoudrias/AST-query": {
+    "repo": "AST-query",
+    "owner": "SBoudrias",
+    "topics": [
+      "ast-tree",
+      "ast",
+      "javascript",
+      "nodejs"
+    ],
+    "size": 118,
+    "keywords": [
+      "AST",
+      "source",
+      "traversal",
+      "syntax",
+      "tree"
+    ],
+    "name": "ast-query",
+    "stars": 227,
+    "description": "Tentative to a simple JavaScript AST modification library"
   }
 }
