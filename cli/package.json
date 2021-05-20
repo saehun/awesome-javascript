@@ -1,7 +1,7 @@
 {
   "name": "awesome-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "A curated list of awesome JavaScript frameworks, libraries and software.",
   "license": "MIT",
   "main": "dist/index.js",
   "repository": "minidonut/awesome-javascript",
@@ -28,5 +28,8 @@
     "ts-jest": "^26.5.2",
     "ts-node": "^9.1.1",
     "typescript": "^4.2.2"
+  },
+  "bin": {
+    "awesome-javascript": "dist/index.js"
   }
 }
