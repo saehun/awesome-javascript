@@ -468,5 +468,21 @@
     "name": "before-after-hook",
     "stars": 49,
     "description": "wrap methods with before/after hooks"
+  },
+  "TooTallNate/node-agent-base": {
+    "repo": "node-agent-base",
+    "owner": "TooTallNate",
+    "topics": [],
+    "size": 137,
+    "keywords": [
+      "http",
+      "agent",
+      "base",
+      "barebones",
+      "https"
+    ],
+    "name": "agent-base",
+    "stars": 41,
+    "description": "Turn a function into an `http.Agent` instance"
   }
 }
