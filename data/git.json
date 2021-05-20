@@ -447,5 +447,26 @@
     "name": "foreground-child",
     "stars": 33,
     "description": "Run a child as if it's the foreground process.  Give it stdio.  Exit when it exits."
+  },
+  "gr2m/before-after-hook": {
+    "repo": "before-after-hook",
+    "owner": "gr2m",
+    "topics": [
+      "promise",
+      "hooks",
+      "api",
+      "async",
+      "events",
+      "asynchronous"
+    ],
+    "size": 1245,
+    "keywords": [
+      "hook",
+      "hooks",
+      "api"
+    ],
+    "name": "before-after-hook",
+    "stars": 49,
+    "description": "wrap methods with before/after hooks"
   }
 }
