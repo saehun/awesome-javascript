@@ -628,5 +628,34 @@
     "name": "dot-prop",
     "stars": 526,
     "description": "Get, set, or delete a property from a nested object using a dot path"
+  },
+  "sindresorhus/find-up": {
+    "repo": "find-up",
+    "owner": "sindresorhus",
+    "topics": [],
+    "size": 50,
+    "keywords": [
+      "find",
+      "up",
+      "find-up",
+      "findup",
+      "look-up",
+      "look",
+      "file",
+      "search",
+      "match",
+      "package",
+      "resolve",
+      "parent",
+      "parents",
+      "folder",
+      "directory",
+      "walk",
+      "walking",
+      "path"
+    ],
+    "name": "find-up",
+    "stars": 351,
+    "description": "Find a file or directory by walking up parent directories"
   }
 }
