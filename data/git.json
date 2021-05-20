@@ -657,5 +657,39 @@
     "name": "find-up",
     "stars": 351,
     "description": "Find a file or directory by walking up parent directories"
+  },
+  "sindresorhus/open-editor": {
+    "repo": "open-editor",
+    "owner": "sindresorhus",
+    "topics": [],
+    "size": 17,
+    "keywords": [
+      "open",
+      "editor",
+      "launch",
+      "files",
+      "file",
+      "line",
+      "column",
+      "position",
+      "path",
+      "filepath",
+      "editors",
+      "start",
+      "app",
+      "sublime",
+      "atom",
+      "vscode",
+      "webstorm",
+      "textmate",
+      "vim",
+      "neovim",
+      "intellij",
+      "emacs",
+      "nano"
+    ],
+    "name": "open-editor",
+    "stars": 124,
+    "description": "Open files in your editor at a specific line and column"
   }
 }
