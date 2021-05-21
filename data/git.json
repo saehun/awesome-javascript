@@ -971,5 +971,25 @@
     "name": "fastq",
     "stars": 312,
     "description": "Fast, in memory work queue"
+  },
+  "sinclairzx81/typebox": {
+    "repo": "typebox",
+    "owner": "sinclairzx81",
+    "topics": [
+      "json-schema",
+      "typescript",
+      "static-types",
+      "runtime-typechecking"
+    ],
+    "size": 5556,
+    "keywords": [
+      "json-schema",
+      "typescript",
+      "static-types",
+      "runtime-typechecking"
+    ],
+    "name": "@sinclair/typebox",
+    "stars": 503,
+    "description": "JSON Schema Type Builder with Static Type Resolution for TypeScript"
   }
 }
