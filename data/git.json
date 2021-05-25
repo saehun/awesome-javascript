@@ -991,5 +991,25 @@
     "name": "@sinclair/typebox",
     "stars": 503,
     "description": "JSON Schema Type Builder with Static Type Resolution for TypeScript"
+  },
+  "mafintosh/multicast-dns": {
+    "repo": "multicast-dns",
+    "owner": "mafintosh",
+    "topics": [],
+    "size": 83,
+    "keywords": [
+      "multicast",
+      "dns",
+      "mdns",
+      "multicastdns",
+      "dns-sd",
+      "service",
+      "discovery",
+      "bonjour",
+      "avahi"
+    ],
+    "name": "multicast-dns",
+    "stars": 401,
+    "description": "Low level multicast-dns implementation in pure javascript"
   }
 }
