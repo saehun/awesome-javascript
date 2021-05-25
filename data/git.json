@@ -1011,5 +1011,27 @@
     "name": "multicast-dns",
     "stars": 401,
     "description": "Low level multicast-dns implementation in pure javascript"
+  },
+  "watson/bonjour": {
+    "repo": "bonjour",
+    "owner": "watson",
+    "topics": [],
+    "size": 71,
+    "keywords": [
+      "bonjour",
+      "zeroconf",
+      "zero",
+      "configuration",
+      "mdns",
+      "dns",
+      "service",
+      "discovery",
+      "multicast",
+      "broadcast",
+      "dns-sd"
+    ],
+    "name": "bonjour",
+    "stars": 531,
+    "description": "A Bonjour/Zeroconf protocol implementation in JavaScript"
   }
 }
