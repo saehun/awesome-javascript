@@ -1050,5 +1050,29 @@
     "name": "dns-packet",
     "stars": 115,
     "description": "An abstract-encoding compliant module for encoding / decoding DNS packets"
+  },
+  "banga/git-split-diffs": {
+    "repo": "git-split-diffs",
+    "owner": "banga",
+    "topics": [
+      "git",
+      "split",
+      "diffs",
+      "difftool",
+      "syntax-highlighting",
+      "split-diffs",
+      "side-by-side"
+    ],
+    "size": 51081,
+    "keywords": [
+      "git",
+      "terminal",
+      "shell",
+      "diff",
+      "diffs"
+    ],
+    "name": "git-split-diffs",
+    "stars": 1551,
+    "description": "GitHub style split diffs in your terminal"
   }
 }
