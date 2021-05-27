@@ -1074,5 +1074,25 @@
     "name": "git-split-diffs",
     "stars": 1551,
     "description": "GitHub style split diffs in your terminal"
+  },
+  "withfig/autocomplete": {
+    "repo": "autocomplete",
+    "owner": "withfig",
+    "topics": [
+      "autocomplete",
+      "terminal",
+      "shell",
+      "macos",
+      "zsh",
+      "bash",
+      "fish",
+      "iterm2",
+      "cli"
+    ],
+    "size": 12923,
+    "keywords": [],
+    "name": "linter",
+    "stars": 2149,
+    "description": "Fig adds autocomplete to your terminal."
   }
 }
