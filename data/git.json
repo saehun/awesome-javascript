@@ -1109,5 +1109,24 @@
     "name": "linter",
     "stars": 2149,
     "description": "Fig adds autocomplete to your terminal."
+  },
+  "avoidwork/tiny-lru": {
+    "repo": "tiny-lru",
+    "owner": "avoidwork",
+    "topics": [],
+    "size": 754,
+    "keywords": [
+      "LRU",
+      "cache",
+      "tiny",
+      "client",
+      "server",
+      "least",
+      "recently",
+      "used"
+    ],
+    "name": "tiny-lru",
+    "stars": 92,
+    "description": "Tiny LRU cache for Client or Server"
   }
 }
