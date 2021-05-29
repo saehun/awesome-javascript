@@ -992,7 +992,6 @@
     "stars": 503,
     "description": "JSON Schema Type Builder with Static Type Resolution for TypeScript"
   },
-<<<<<<< HEAD
   "mscdex/busboy": {
     "repo": "busboy",
     "owner": "mscdex",
@@ -1007,7 +1006,7 @@
     "name": "busboy",
     "stars": 2122,
     "description": "A streaming parser for HTML form data for node.js"
-=======
+  },
   "mafintosh/multicast-dns": {
     "repo": "multicast-dns",
     "owner": "mafintosh",
@@ -1110,6 +1109,5 @@
     "name": "linter",
     "stars": 2149,
     "description": "Fig adds autocomplete to your terminal."
->>>>>>> 550c212f1c747f43ac2c8597a94863f1974198a2
   }
 }
