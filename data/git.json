@@ -992,6 +992,7 @@
     "stars": 503,
     "description": "JSON Schema Type Builder with Static Type Resolution for TypeScript"
   },
+<<<<<<< HEAD
   "mscdex/busboy": {
     "repo": "busboy",
     "owner": "mscdex",
@@ -1006,5 +1007,109 @@
     "name": "busboy",
     "stars": 2122,
     "description": "A streaming parser for HTML form data for node.js"
+=======
+  "mafintosh/multicast-dns": {
+    "repo": "multicast-dns",
+    "owner": "mafintosh",
+    "topics": [],
+    "size": 83,
+    "keywords": [
+      "multicast",
+      "dns",
+      "mdns",
+      "multicastdns",
+      "dns-sd",
+      "service",
+      "discovery",
+      "bonjour",
+      "avahi"
+    ],
+    "name": "multicast-dns",
+    "stars": 401,
+    "description": "Low level multicast-dns implementation in pure javascript"
+  },
+  "watson/bonjour": {
+    "repo": "bonjour",
+    "owner": "watson",
+    "topics": [],
+    "size": 71,
+    "keywords": [
+      "bonjour",
+      "zeroconf",
+      "zero",
+      "configuration",
+      "mdns",
+      "dns",
+      "service",
+      "discovery",
+      "multicast",
+      "broadcast",
+      "dns-sd"
+    ],
+    "name": "bonjour",
+    "stars": 531,
+    "description": "A Bonjour/Zeroconf protocol implementation in JavaScript"
+  },
+  "mafintosh/dns-packet": {
+    "repo": "dns-packet",
+    "owner": "mafintosh",
+    "topics": [],
+    "size": 159,
+    "keywords": [
+      "dns",
+      "packet",
+      "encodings",
+      "encoding",
+      "encoder",
+      "abstract-encoding"
+    ],
+    "name": "dns-packet",
+    "stars": 115,
+    "description": "An abstract-encoding compliant module for encoding / decoding DNS packets"
+  },
+  "banga/git-split-diffs": {
+    "repo": "git-split-diffs",
+    "owner": "banga",
+    "topics": [
+      "git",
+      "split",
+      "diffs",
+      "difftool",
+      "syntax-highlighting",
+      "split-diffs",
+      "side-by-side"
+    ],
+    "size": 51081,
+    "keywords": [
+      "git",
+      "terminal",
+      "shell",
+      "diff",
+      "diffs"
+    ],
+    "name": "git-split-diffs",
+    "stars": 1551,
+    "description": "GitHub style split diffs in your terminal"
+  },
+  "withfig/autocomplete": {
+    "repo": "autocomplete",
+    "owner": "withfig",
+    "topics": [
+      "autocomplete",
+      "terminal",
+      "shell",
+      "macos",
+      "zsh",
+      "bash",
+      "fish",
+      "iterm2",
+      "cli"
+    ],
+    "size": 12923,
+    "keywords": [],
+    "name": "linter",
+    "stars": 2149,
+    "description": "Fig adds autocomplete to your terminal."
+>>>>>>> 550c212f1c747f43ac2c8597a94863f1974198a2
   }
 }
