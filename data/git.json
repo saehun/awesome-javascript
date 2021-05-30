@@ -1128,5 +1128,29 @@
     "name": "tiny-lru",
     "stars": 92,
     "description": "Tiny LRU cache for Client or Server"
+  },
+  "blakeembrey/javascript-stringify": {
+    "repo": "javascript-stringify",
+    "owner": "blakeembrey",
+    "topics": [
+      "json",
+      "javascript-stringify",
+      "stringify",
+      "javascript",
+      "serialize",
+      "code"
+    ],
+    "size": 633,
+    "keywords": [
+      "stringify",
+      "javascript",
+      "object",
+      "eval",
+      "string",
+      "code"
+    ],
+    "name": "javascript-stringify",
+    "stars": 101,
+    "description": "Stringify is to `eval` as `JSON.stringify` is to `JSON.parse`"
   }
 }
