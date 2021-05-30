@@ -1152,5 +1152,24 @@
     "name": "javascript-stringify",
     "stars": 101,
     "description": "Stringify is to `eval` as `JSON.stringify` is to `JSON.parse`"
+  },
+  "nodejs/llhttp": {
+    "repo": "llhttp",
+    "owner": "nodejs",
+    "topics": [
+      "llvm",
+      "llparse",
+      "http-parser"
+    ],
+    "size": 6861,
+    "keywords": [
+      "http",
+      "llvm",
+      "ir",
+      "llparse"
+    ],
+    "name": "llhttp",
+    "stars": 907,
+    "description": "Port of http_parser to llparse"
   }
 }
