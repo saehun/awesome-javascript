@@ -1171,5 +1171,26 @@
     "name": "llhttp",
     "stars": 907,
     "description": "Port of http_parser to llparse"
+  },
+  "fent/ret.js": {
+    "repo": "ret.js",
+    "owner": "fent",
+    "topics": [
+      "node",
+      "javascript",
+      "regular-expressions",
+      "parser"
+    ],
+    "size": 212,
+    "keywords": [
+      "regex",
+      "regexp",
+      "regular expression",
+      "parser",
+      "tokenizer"
+    ],
+    "name": "ret",
+    "stars": 73,
+    "description": "Tokenizes a string that represents a regular expression."
   }
 }
