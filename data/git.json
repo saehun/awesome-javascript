@@ -1214,5 +1214,19 @@
     "name": "proxy",
     "stars": 216,
     "description": "An HTTP proxy written with Node.js (think Squid)"
+  },
+  "vercel/ms": {
+    "repo": "ms",
+    "owner": "vercel",
+    "topics": [
+      "milliseconds",
+      "conversion",
+      "utility"
+    ],
+    "size": 186,
+    "keywords": [],
+    "name": "ms",
+    "stars": 3475,
+    "description": "Tiny millisecond conversion utility"
   }
 }
