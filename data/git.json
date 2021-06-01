@@ -1192,5 +1192,27 @@
     "name": "ret",
     "stars": 73,
     "description": "Tokenizes a string that represents a regular expression."
+  },
+  "TooTallNate/proxy": {
+    "repo": "proxy",
+    "owner": "TooTallNate",
+    "topics": [],
+    "size": 357,
+    "keywords": [
+      "http",
+      "https",
+      "proxy",
+      "connect",
+      "tunnel",
+      "squid",
+      "privoxy",
+      "apache",
+      "mod_proxy",
+      "via",
+      "x-forwarded-for"
+    ],
+    "name": "proxy",
+    "stars": 216,
+    "description": "An HTTP proxy written with Node.js (think Squid)"
   }
 }
