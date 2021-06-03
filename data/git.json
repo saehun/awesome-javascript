@@ -1228,5 +1228,23 @@
     "name": "ms",
     "stars": 3475,
     "description": "Tiny millisecond conversion utility"
+  },
+  "song940/node-dns": {
+    "repo": "node-dns",
+    "owner": "song940",
+    "topics": [
+      "dns",
+      "nodejs",
+      "network",
+      "dns-server",
+      "dns-protocol"
+    ],
+    "size": 89,
+    "keywords": [
+      "dns"
+    ],
+    "name": "dns2",
+    "stars": 230,
+    "description": ":globe_with_meridians:  DNS Server and Client Implementation in Pure JavaScript with no dependencies."
   }
 }
