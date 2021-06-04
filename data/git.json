@@ -1246,5 +1246,37 @@
     "name": "dns2",
     "stars": 230,
     "description": ":globe_with_meridians:  DNS Server and Client Implementation in Pure JavaScript with no dependencies."
+  },
+  "trekhleb/javascript-algorithms": {
+    "repo": "javascript-algorithms",
+    "owner": "trekhleb",
+    "topics": [
+      "javascript",
+      "algorithms",
+      "algorithm",
+      "javascript-algorithms",
+      "computer-science",
+      "interview",
+      "data-structures",
+      "interview-preparation"
+    ],
+    "size": 3658,
+    "keywords": [
+      "computer-science",
+      "cs",
+      "algorithms",
+      "data-structures",
+      "javascript",
+      "algorithm",
+      "javascript-algorithms",
+      "sorting-algorithms",
+      "graph",
+      "tree",
+      "interview",
+      "interview-preparation"
+    ],
+    "name": "javascript-algorithms-and-data-structures",
+    "stars": 109051,
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
   }
 }
