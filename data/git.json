@@ -1297,5 +1297,22 @@
     "name": "snowfs",
     "stars": 720,
     "description": "SnowFS - a fast, scalable version control file storage for graphic files :art:"
+  },
+  "sandersn/mini-typescript": {
+    "repo": "mini-typescript",
+    "owner": "sandersn",
+    "topics": [],
+    "size": 37,
+    "keywords": [
+      "Typescript",
+      "compiler",
+      "miniature",
+      "model",
+      "example",
+      "teaching"
+    ],
+    "name": "mini-typescript",
+    "stars": 527,
+    "description": "A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler"
   }
 }
