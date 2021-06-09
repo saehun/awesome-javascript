@@ -1314,5 +1314,24 @@
     "name": "mini-typescript",
     "stars": 527,
     "description": "A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler"
+  },
+  "friedrith/node-wifi": {
+    "repo": "node-wifi",
+    "owner": "friedrith",
+    "topics": [
+      "wifi",
+      "node",
+      "hardware",
+      "scanning"
+    ],
+    "size": 1046,
+    "keywords": [
+      "wifi",
+      "multiplatform",
+      "node"
+    ],
+    "name": "node-wifi",
+    "stars": 262,
+    "description": "📶 NodeJS tool to manage wifi (connections, scans)"
   }
 }
