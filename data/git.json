@@ -1278,5 +1278,24 @@
     "name": "javascript-algorithms-and-data-structures",
     "stars": 109051,
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings"
+  },
+  "snowtrack/snowfs": {
+    "repo": "snowfs",
+    "owner": "snowtrack",
+    "topics": [
+      "version-control",
+      "version-tracker",
+      "version-control-system",
+      "version-manager",
+      "binary-manager",
+      "graphic-files",
+      "apfs",
+      "storage"
+    ],
+    "size": 462,
+    "keywords": [],
+    "name": "snowfs",
+    "stars": 720,
+    "description": "SnowFS - a fast, scalable version control file storage for graphic files :art:"
   }
 }
