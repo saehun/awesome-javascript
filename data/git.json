@@ -1333,5 +1333,21 @@
     "name": "node-wifi",
     "stars": 262,
     "description": "📶 NodeJS tool to manage wifi (connections, scans)"
+  },
+  "ericelliott/cuid": {
+    "repo": "cuid",
+    "owner": "ericelliott",
+    "topics": [],
+    "size": 1158,
+    "keywords": [
+      "guid",
+      "id",
+      "uid",
+      "unique id",
+      "uuid"
+    ],
+    "name": "cuid",
+    "stars": 2445,
+    "description": "Collision-resistant ids optimized for horizontal scaling and performance."
   }
 }
