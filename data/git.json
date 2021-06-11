@@ -1349,5 +1349,15 @@
     "name": "cuid",
     "stars": 2445,
     "description": "Collision-resistant ids optimized for horizontal scaling and performance."
+  },
+  "GoogleChromeLabs/squoosh": {
+    "repo": "squoosh",
+    "owner": "GoogleChromeLabs",
+    "topics": [],
+    "size": 129188,
+    "keywords": [],
+    "name": "squoosh",
+    "stars": 13361,
+    "description": "Make images smaller using best-in-class codecs, right in the browser."
   }
 }
