@@ -1359,5 +1359,15 @@
     "name": "squoosh",
     "stars": 13361,
     "description": "Make images smaller using best-in-class codecs, right in the browser."
+  },
+  "dsherret/code-block-writer": {
+    "repo": "code-block-writer",
+    "owner": "dsherret",
+    "topics": [],
+    "size": 129188,
+    "keywords": [],
+    "name": "code-block-writer",
+    "stars": 44,
+    "description": "Code writer that assists with formatting and visualizing blocks of JavaScript or TypeScript code."
   }
 }
