@@ -1389,5 +1389,24 @@
     "name": "xstate-monorepo",
     "stars": 16336,
     "description": "State machines and statecharts for the modern web."
+  },
+  "Chris-Baker/pretty-print-object": {
+    "repo": "pretty-print-object",
+    "owner": "Chris-Baker",
+    "topics": [],
+    "size": 900,
+    "keywords": [
+      "object",
+      "stringify",
+      "pretty",
+      "print",
+      "dump",
+      "format",
+      "type",
+      "json"
+    ],
+    "name": "@base2/pretty-print-object",
+    "stars": 0,
+    "description": "Stringify an object/array like JSON.stringify just without all the double-quotes"
   }
 }
