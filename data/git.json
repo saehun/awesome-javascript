@@ -1408,5 +1408,20 @@
     "name": "@base2/pretty-print-object",
     "stars": 0,
     "description": "Stringify an object/array like JSON.stringify just without all the double-quotes"
+  },
+  "supermacro/neverthrow": {
+    "repo": "neverthrow",
+    "owner": "supermacro",
+    "topics": [],
+    "size": 1310,
+    "keywords": [
+      "typescript",
+      "functional",
+      "fp",
+      "error"
+    ],
+    "name": "neverthrow",
+    "stars": 371,
+    "description": "Type-Safe Errors for JS & TypeScript"
   }
 }
