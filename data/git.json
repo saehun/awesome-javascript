@@ -1423,5 +1423,28 @@
     "name": "neverthrow",
     "stars": 371,
     "description": "Type-Safe Errors for JS & TypeScript"
+  },
+  "pmndrs/jotai": {
+    "repo": "jotai",
+    "owner": "pmndrs",
+    "topics": [
+      "react",
+      "state",
+      "management",
+      "atomic",
+      "hacktoberfest"
+    ],
+    "size": 5464,
+    "keywords": [
+      "react",
+      "state",
+      "manager",
+      "management",
+      "recoil",
+      "store"
+    ],
+    "name": "jotai",
+    "stars": 4338,
+    "description": "👻 Primitive and flexible state management for React"
   }
 }
