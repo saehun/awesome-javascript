@@ -1496,5 +1496,27 @@
     "name": "common-tags",
     "stars": 1703,
     "description": "🔖 Useful template literal tags for dealing with strings in ES2015+"
+  },
+  "felixfbecker/node-sql-template-strings": {
+    "repo": "node-sql-template-strings",
+    "owner": "felixfbecker",
+    "topics": [],
+    "size": 311,
+    "keywords": [
+      "mysql",
+      "mysql2",
+      "postgres",
+      "pg",
+      "prepared",
+      "statements",
+      "placeholder",
+      "es6",
+      "tagged",
+      "template",
+      "strings"
+    ],
+    "name": "sql-template-strings",
+    "stars": 499,
+    "description": "ES6 tagged template strings for prepared SQL statements 📋"
   }
 }
