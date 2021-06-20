@@ -1,4 +1,5 @@
 import axios from 'axios';
+import { AxiosError } from 'axios';
 import { Octokit } from 'octokit';
 import { env } from './env';
 import { URL } from 'url';
@@ -28,14 +29,11 @@ export async function fetchRepo(url: URL) {
   });
 
   const branch = gitMeta.default_branch;
-  const { data: pkgJson } = await axios.get(
-    `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/package.json`,
-    {
-      headers: {
-        Accept: 'application/vnd.github.v3+json,',
-      },
-    }
-  );
+  const { data: pkgJson } = await axios
+    .get(`https://raw.githubusercontent.com/${owner}/${repo}/${branch}/package.json`, {
+      headers: { Accept: 'application/vnd.github.v3+json,' },
+    })
+    .catch(handlePkgJsonNotFound);
 
   return {
     repo,
@@ -44,4 +42,11 @@ export async function fetchRepo(url: URL) {
     pkgJson,
     gitMeta,
   };
+}
+
+export function handlePkgJsonNotFound(e: AxiosError) {
+  if (!e.isAxiosError) {
+    throw e;
+  }
+  return { data: {} };
 }
