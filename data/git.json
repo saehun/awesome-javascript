@@ -1518,5 +1518,36 @@
     "name": "sql-template-strings",
     "stars": 499,
     "description": "ES6 tagged template strings for prepared SQL statements 📋"
+  },
+  "jonasstrehle/supercookie": {
+    "repo": "supercookie",
+    "owner": "jonasstrehle",
+    "topics": [
+      "fingerprint",
+      "favicon",
+      "javascript",
+      "html",
+      "security",
+      "tracking",
+      "identification",
+      "express",
+      "typescript",
+      "nodejs",
+      "browser",
+      "browser-fingerprinting",
+      "browser-fingerprint",
+      "supercookie",
+      "cookie",
+      "safari",
+      "chrome",
+      "edge",
+      "firefox",
+      "privacy"
+    ],
+    "size": 22688,
+    "keywords": [],
+    "name": "supercookie",
+    "stars": 3269,
+    "description": "⚠️ Browser fingerprinting via favicon!"
   }
 }
