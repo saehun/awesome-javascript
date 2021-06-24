@@ -1549,5 +1549,27 @@
     "name": "supercookie",
     "stars": 3269,
     "description": "⚠️ Browser fingerprinting via favicon!"
+  },
+  "NickCarneiro/curlconverter": {
+    "repo": "curlconverter",
+    "owner": "NickCarneiro",
+    "topics": [
+      "curl",
+      "curl-commands",
+      "code-generation",
+      "metaprogramming"
+    ],
+    "size": 725,
+    "keywords": [
+      "curlconverter",
+      "curl",
+      "http",
+      "requests",
+      "python",
+      "converter"
+    ],
+    "name": "curlconverter",
+    "stars": 4510,
+    "description": "convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir"
   }
 }
