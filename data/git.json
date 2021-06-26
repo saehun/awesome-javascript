@@ -1571,5 +1571,15 @@
     "name": "curlconverter",
     "stars": 4510,
     "description": "convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir"
+  },
+  "arcanis/clipanion": {
+    "repo": "clipanion",
+    "owner": "arcanis",
+    "topics": [],
+    "size": 6461,
+    "keywords": [],
+    "name": "clipanion",
+    "stars": 376,
+    "description": "Type-safe CLI library with no runtime dependencies"
   }
 }
