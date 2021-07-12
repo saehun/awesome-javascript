@@ -1632,5 +1632,18 @@
     "name": "terser",
     "stars": 6142,
     "description": "🗜 JavaScript parser, mangler and compressor toolkit for ES6+"
+  },
+  "nadeesha/ts-prune": {
+    "repo": "ts-prune",
+    "owner": "nadeesha",
+    "topics": [
+      "typescript",
+      "utility"
+    ],
+    "size": 2596,
+    "keywords": [],
+    "name": "ts-prune",
+    "stars": 497,
+    "description": "Find unused exports in a typescript project. 🛀"
   }
 }
