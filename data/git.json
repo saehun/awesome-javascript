@@ -1645,5 +1645,20 @@
     "name": "ts-prune",
     "stars": 497,
     "description": "Find unused exports in a typescript project. 🛀"
+  },
+  "minidonut/gute": {
+    "repo": "gute",
+    "owner": "minidonut",
+    "topics": [
+      "webgame",
+      "io-game",
+      "canvas",
+      "typescript"
+    ],
+    "size": 6320,
+    "keywords": [],
+    "name": "gute",
+    "stars": 0,
+    "description": "Gute is a simple web games library. It gives you a game loop, input, sounds, music and tilesets. I'll probably add some bitmap font support."
   }
 }
