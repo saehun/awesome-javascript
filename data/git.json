@@ -1660,5 +1660,35 @@
     "name": "gute",
     "stars": 0,
     "description": "Gute is a simple web games library. It gives you a game loop, input, sounds, music and tilesets. I'll probably add some bitmap font support."
+  },
+  "la9527/mdir.js": {
+    "repo": "mdir.js",
+    "owner": "la9527",
+    "topics": [
+      "console",
+      "filemanager",
+      "blessed",
+      "cui",
+      "linm",
+      "mc",
+      "xterm",
+      "sftp",
+      "ssh",
+      "mdir"
+    ],
+    "size": 16692,
+    "keywords": [
+      "MDir",
+      "MC",
+      "filemanager",
+      "LinM",
+      "CUI",
+      "Xterm",
+      "ssh",
+      "sftp"
+    ],
+    "name": "mdir.js",
+    "stars": 50,
+    "description": "Mdir.js is text base file manager. Mdir.js is clone of LinM."
   }
 }
