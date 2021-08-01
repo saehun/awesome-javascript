@@ -1690,5 +1690,26 @@
     "name": "mdir.js",
     "stars": 50,
     "description": "Mdir.js is text base file manager. Mdir.js is clone of LinM."
+  },
+  "SUCHMOKUO/node-worker-threads-pool": {
+    "repo": "node-worker-threads-pool",
+    "owner": "SUCHMOKUO",
+    "topics": [],
+    "size": 265,
+    "keywords": [
+      "nodejs",
+      "async",
+      "promise",
+      "worker_threads",
+      "worker",
+      "thread",
+      "pool",
+      "threadpool",
+      "multi threading",
+      "typescript"
+    ],
+    "name": "node-worker-threads-pool",
+    "stars": 160,
+    "description": "Simple worker threads pool using node's worker_threads module."
   }
 }
