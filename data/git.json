@@ -1749,5 +1749,23 @@
     "name": "is-ci",
     "stars": 253,
     "description": "Detect if the current environment is a CI server"
+  },
+  "jakearchibald/idb-keyval": {
+    "repo": "idb-keyval",
+    "owner": "jakearchibald",
+    "topics": [],
+    "size": 576,
+    "keywords": [
+      "idb",
+      "indexeddb",
+      "store",
+      "keyval",
+      "localstorage",
+      "storage",
+      "promise"
+    ],
+    "name": "idb-keyval",
+    "stars": 1466,
+    "description": "A super-simple-small promise-based keyval store implemented with IndexedDB"
   }
 }
