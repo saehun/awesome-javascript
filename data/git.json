@@ -1711,5 +1711,27 @@
     "name": "node-worker-threads-pool",
     "stars": 160,
     "description": "Simple worker threads pool using node's worker_threads module."
+  },
+  "developit/unistore": {
+    "repo": "unistore",
+    "owner": "developit",
+    "topics": [
+      "preact",
+      "redux",
+      "state",
+      "subscription",
+      "architecture",
+      "unistore"
+    ],
+    "size": 172,
+    "keywords": [
+      "preact",
+      "component",
+      "state machine",
+      "redux"
+    ],
+    "name": "unistore",
+    "stars": 2828,
+    "description": "🌶 350b / 650b state container with component actions for Preact & React"
   }
 }
