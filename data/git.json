@@ -1733,5 +1733,21 @@
     "name": "unistore",
     "stars": 2828,
     "description": "🌶 350b / 650b state container with component actions for Preact & React"
+  },
+  "watson/is-ci": {
+    "repo": "is-ci",
+    "owner": "watson",
+    "topics": [],
+    "size": 48,
+    "keywords": [
+      "ci",
+      "continuous",
+      "integration",
+      "test",
+      "detect"
+    ],
+    "name": "is-ci",
+    "stars": 253,
+    "description": "Detect if the current environment is a CI server"
   }
 }
