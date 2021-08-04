@@ -1767,5 +1767,21 @@
     "name": "idb-keyval",
     "stars": 1466,
     "description": "A super-simple-small promise-based keyval store implemented with IndexedDB"
+  },
+  "microsoft/beachball": {
+    "repo": "beachball",
+    "owner": "microsoft",
+    "topics": [
+      "mp",
+      "yarn",
+      "semver",
+      "git",
+      "registry"
+    ],
+    "size": 14732,
+    "keywords": [],
+    "name": "beachball",
+    "stars": 269,
+    "description": "The Sunniest Semantic Version Bumper"
   }
 }
