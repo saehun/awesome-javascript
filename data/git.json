@@ -1783,5 +1783,15 @@
     "name": "beachball",
     "stars": 269,
     "description": "The Sunniest Semantic Version Bumper"
+  },
+  "microsoft/workspace-tools": {
+    "repo": "workspace-tools",
+    "owner": "microsoft",
+    "topics": [],
+    "size": 1302,
+    "keywords": [],
+    "name": "workspace-tools",
+    "stars": 41,
+    "description": "JS Monorepo Workspace Tools"
   }
 }
