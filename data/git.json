@@ -1793,5 +1793,20 @@
     "name": "workspace-tools",
     "stars": 41,
     "description": "JS Monorepo Workspace Tools"
+  },
+  "aws/jsii": {
+    "repo": "jsii",
+    "owner": "aws",
+    "topics": [
+      "aws",
+      "node",
+      "cross-language",
+      "typescript"
+    ],
+    "size": 41361,
+    "keywords": [],
+    "name": "jsii",
+    "stars": 1337,
+    "description": "jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!"
   }
 }
