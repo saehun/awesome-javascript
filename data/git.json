@@ -1808,5 +1808,37 @@
     "name": "jsii",
     "stars": 1337,
     "description": "jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!"
+  },
+  "sniptt-official/monads": {
+    "repo": "monads",
+    "owner": "sniptt-official",
+    "topics": [
+      "monads",
+      "javascript",
+      "typescript",
+      "types",
+      "option",
+      "result",
+      "rust",
+      "nodejs",
+      "either",
+      "node",
+      "deno"
+    ],
+    "size": 2051,
+    "keywords": [
+      "monads",
+      "option",
+      "result",
+      "either",
+      "javascript",
+      "js",
+      "typescript",
+      "node",
+      "node.js"
+    ],
+    "name": "@sniptt/monads",
+    "stars": 272,
+    "description": "👻 Option, Result, and Either types for TypeScript; Inspired by Rust"
   }
 }
