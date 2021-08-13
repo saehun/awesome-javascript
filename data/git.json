@@ -1840,5 +1840,36 @@
     "name": "@sniptt/monads",
     "stars": 272,
     "description": "👻 Option, Result, and Either types for TypeScript; Inspired by Rust"
+  },
+  "microlinkhq/keyv": {
+    "repo": "keyv",
+    "owner": "microlinkhq",
+    "topics": [
+      "key-value",
+      "storage",
+      "map"
+    ],
+    "size": 1171,
+    "keywords": [
+      "adapter",
+      "cache",
+      "key",
+      "keyv",
+      "mongo",
+      "mongodb",
+      "mysql",
+      "pgsql",
+      "redis",
+      "sql",
+      "sqlite",
+      "sqlite3",
+      "storage",
+      "store",
+      "ttl",
+      "value"
+    ],
+    "name": "@keyvhq/monorepo",
+    "stars": 54,
+    "description": "Simple key-value storage with support for multiple backends."
   }
 }
