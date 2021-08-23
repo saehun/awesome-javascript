@@ -1922,5 +1922,29 @@
     "name": "release-it",
     "stars": 4396,
     "description": "🚀 Automate versioning and package publishing"
+  },
+  "moxystudio/node-proper-lockfile": {
+    "repo": "node-proper-lockfile",
+    "owner": "moxystudio",
+    "topics": [
+      "lockfile",
+      "atomic",
+      "nodejs",
+      "cross-process",
+      "lock",
+      "filesystem"
+    ],
+    "size": 599,
+    "keywords": [
+      "lock",
+      "locking",
+      "file",
+      "lockfile",
+      "fs",
+      "cross-process"
+    ],
+    "name": "proper-lockfile",
+    "stars": 155,
+    "description": "An inter-process and inter-machine lockfile utility that works on a local or network file system."
   }
 }
