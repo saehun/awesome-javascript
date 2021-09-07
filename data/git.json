@@ -1970,5 +1970,20 @@
     "name": "iola",
     "stars": 45,
     "description": "🔄 iola: Socket client with REST API"
+  },
+  "jwagner/smartcrop.js": {
+    "repo": "smartcrop.js",
+    "owner": "jwagner",
+    "topics": [
+      "smartcrop",
+      "javascript",
+      "nodejs",
+      "image-processing"
+    ],
+    "size": 22950,
+    "keywords": [],
+    "name": "smartcrop",
+    "stars": 12027,
+    "description": "Content aware image cropping"
   }
 }
