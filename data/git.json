@@ -1946,5 +1946,29 @@
     "name": "proper-lockfile",
     "stars": 155,
     "description": "An inter-process and inter-machine lockfile utility that works on a local or network file system."
+  },
+  "pvarentsov/iola": {
+    "repo": "iola",
+    "owner": "pvarentsov",
+    "topics": [
+      "socket-client",
+      "tcp-client",
+      "websocket-client",
+      "socketio-client",
+      "unix-socket-client",
+      "iola"
+    ],
+    "size": 13850,
+    "keywords": [
+      "socket-client",
+      "websocket",
+      "tcp",
+      "socket.io",
+      "unix-socket",
+      "in-progress"
+    ],
+    "name": "iola",
+    "stars": 45,
+    "description": "🔄 iola: Socket client with REST API"
   }
 }
