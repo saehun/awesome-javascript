@@ -1985,5 +1985,18 @@
     "name": "smartcrop",
     "stars": 12027,
     "description": "Content aware image cropping"
+  },
+  "anaisbetts/spawn-rx": {
+    "repo": "spawn-rx",
+    "owner": "anaisbetts",
+    "topics": [],
+    "size": 244,
+    "keywords": [
+      "spawn",
+      "rx"
+    ],
+    "name": "spawn-rx",
+    "stars": 136,
+    "description": "Observable and Promise versions of child_process.spawn"
   }
 }
