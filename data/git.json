@@ -1998,5 +1998,25 @@
     "name": "spawn-rx",
     "stars": 136,
     "description": "Observable and Promise versions of child_process.spawn"
+  },
+  "unjs/ipx": {
+    "repo": "ipx",
+    "owner": "unjs",
+    "topics": [
+      "sharp",
+      "libvips",
+      "image",
+      "proxy",
+      "cdn",
+      "optimize",
+      "resize",
+      "webp",
+      "docker"
+    ],
+    "size": 2335,
+    "keywords": [],
+    "name": "ipx",
+    "stars": 195,
+    "description": "High performance, secure and easy to use image proxy based on Sharp and libvips."
   }
 }
