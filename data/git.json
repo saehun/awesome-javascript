@@ -2047,5 +2047,15 @@
     "name": "revolt.js",
     "stars": 64,
     "description": "Modern Typescript library for interacting with Revolt."
+  },
+  "MaibornWolff/ts-arch": {
+    "repo": "ts-arch",
+    "owner": "MaibornWolff",
+    "topics": [],
+    "size": 1390,
+    "keywords": [],
+    "name": "tsarch",
+    "stars": 64,
+    "description": "An architecture unit test framework for Typescript"
   }
 }
