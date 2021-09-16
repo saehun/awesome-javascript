@@ -2018,5 +2018,19 @@
     "name": "ipx",
     "stars": 195,
     "description": "High performance, secure and easy to use image proxy based on Sharp and libvips."
+  },
+  "coveooss/exponential-backoff": {
+    "repo": "exponential-backoff",
+    "owner": "coveooss",
+    "topics": [],
+    "size": 991,
+    "keywords": [
+      "exponential",
+      "backoff",
+      "retry"
+    ],
+    "name": "exponential-backoff",
+    "stars": 131,
+    "description": "A utility that allows retrying a function with an exponential delay between attempts."
   }
 }
