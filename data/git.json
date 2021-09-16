@@ -2032,5 +2032,20 @@
     "name": "exponential-backoff",
     "stars": 131,
     "description": "A utility that allows retrying a function with an exponential delay between attempts."
+  },
+  "revoltchat/revolt.js": {
+    "repo": "revolt.js",
+    "owner": "revoltchat",
+    "topics": [
+      "revolt",
+      "javascript",
+      "library",
+      "typescript"
+    ],
+    "size": 1224,
+    "keywords": [],
+    "name": "revolt.js",
+    "stars": 64,
+    "description": "Modern Typescript library for interacting with Revolt."
   }
 }
