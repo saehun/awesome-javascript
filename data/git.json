@@ -2077,5 +2077,26 @@
     "name": "safe-typeorm",
     "stars": 66,
     "description": "TypeORM helper library enhancing safety in the compilation level"
+  },
+  "privatenumber/tasuku": {
+    "repo": "tasuku",
+    "owner": "privatenumber",
+    "topics": [
+      "cli",
+      "list",
+      "task",
+      "runner"
+    ],
+    "size": 675,
+    "keywords": [
+      "simple",
+      "minimal",
+      "task",
+      "runner",
+      "cli"
+    ],
+    "name": "tasuku",
+    "stars": 648,
+    "description": "✅ タスク — The minimal task runner for Node.js"
   }
 }

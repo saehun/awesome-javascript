@@ -5,3 +5,4 @@
 - [mri](https://github.com/lukeed/mri) Quickly scan for CLI flags and arguments
 - [linter](https://github.com/withfig/autocomplete) Fig adds autocomplete to your terminal.
 - [release-it](https://github.com/release-it/release-it) 🚀 Automate versioning and package publishing
+- [tasuku](https://github.com/privatenumber/tasuku) ✅ タスク — The minimal task runner for Node.js
