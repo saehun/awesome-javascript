@@ -2098,5 +2098,34 @@
     "name": "tasuku",
     "stars": 648,
     "description": "✅ タスク — The minimal task runner for Node.js"
+  },
+  "jely2002/youtube-dl-gui": {
+    "repo": "youtube-dl-gui",
+    "owner": "jely2002",
+    "topics": [
+      "youtube-dl",
+      "youtube-dl-gui",
+      "electron",
+      "electron-builder",
+      "html5",
+      "css3",
+      "macos",
+      "windows-10",
+      "ytdl",
+      "nodejs",
+      "cross-platform-gui"
+    ],
+    "size": 228446,
+    "keywords": [
+      "youtube-dl",
+      "electron",
+      "download",
+      "youtube",
+      "gui",
+      "interface"
+    ],
+    "name": "youtube-dl-gui",
+    "stars": 2165,
+    "description": "A cross-platform GUI for youtube-dl made in Electron and node.js"
   }
 }
