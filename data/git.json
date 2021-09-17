@@ -2057,5 +2057,25 @@
     "name": "tsarch",
     "stars": 64,
     "description": "An architecture unit test framework for Typescript"
+  },
+  "samchon/safe-typeorm": {
+    "repo": "safe-typeorm",
+    "owner": "samchon",
+    "topics": [
+      "orm",
+      "typescript",
+      "typeorm",
+      "compilation",
+      "safe",
+      "sql"
+    ],
+    "size": 9841,
+    "keywords": [
+      "safe",
+      "typeorm"
+    ],
+    "name": "safe-typeorm",
+    "stars": 66,
+    "description": "TypeORM helper library enhancing safety in the compilation level"
   }
 }
