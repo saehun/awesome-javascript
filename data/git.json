@@ -2189,5 +2189,27 @@
     "name": "data-store",
     "stars": 135,
     "description": "Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies."
+  },
+  "Level/leveldown": {
+    "repo": "leveldown",
+    "owner": "Level",
+    "topics": [
+      "leveldb",
+      "nodejs",
+      "binding",
+      "native-module",
+      "abstract-leveldown",
+      "prebuilt-binaries",
+      "cpp",
+      "n-api"
+    ],
+    "size": 13923,
+    "keywords": [
+      "leveldb",
+      "level"
+    ],
+    "name": "leveldown",
+    "stars": 698,
+    "description": "Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store."
   }
 }
