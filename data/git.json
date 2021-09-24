@@ -2211,5 +2211,30 @@
     "name": "leveldown",
     "stars": 698,
     "description": "Pure C++ Node.js LevelDB binding. An abstract-leveldown compliant store."
+  },
+  "Level/levelup": {
+    "repo": "levelup",
+    "owner": "Level",
+    "topics": [
+      "leveldb",
+      "javascript",
+      "nodejs",
+      "browser",
+      "level"
+    ],
+    "size": 5915,
+    "keywords": [
+      "level",
+      "leveldb",
+      "stream",
+      "database",
+      "db",
+      "store",
+      "storage",
+      "json"
+    ],
+    "name": "levelup",
+    "stars": 3934,
+    "description": "A wrapper for abstract-leveldown compliant stores, for Node.js and browsers."
   }
 }
