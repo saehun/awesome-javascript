@@ -2141,5 +2141,53 @@
     "name": "onetab-sync",
     "stars": 44,
     "description": "Command line utility for sync and backup OneTab Chrome extension data."
+  },
+  "jonschlinkert/data-store": {
+    "repo": "data-store",
+    "owner": "jonschlinkert",
+    "topics": [
+      "config",
+      "stort",
+      "persist",
+      "conf",
+      "data",
+      "store",
+      "cache",
+      "json",
+      "nodejs",
+      "javascript",
+      "configstore"
+    ],
+    "size": 208,
+    "keywords": [
+      "app",
+      "cache",
+      "config",
+      "config-store",
+      "configstore",
+      "data",
+      "defaults",
+      "get",
+      "has",
+      "has-own",
+      "hash",
+      "json",
+      "kv",
+      "key-value",
+      "local",
+      "object",
+      "options",
+      "own",
+      "persist",
+      "save",
+      "set",
+      "storage",
+      "store",
+      "union",
+      "write"
+    ],
+    "name": "data-store",
+    "stars": 135,
+    "description": "Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies."
   }
 }
