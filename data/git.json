@@ -2127,5 +2127,19 @@
     "name": "youtube-dl-gui",
     "stars": 2165,
     "description": "A cross-platform GUI for youtube-dl made in Electron and node.js"
+  },
+  "runoshun/onetab-sync": {
+    "repo": "onetab-sync",
+    "owner": "runoshun",
+    "topics": [
+      "nodejs",
+      "onetab",
+      "gist"
+    ],
+    "size": 25,
+    "keywords": [],
+    "name": "onetab-sync",
+    "stars": 44,
+    "description": "Command line utility for sync and backup OneTab Chrome extension data."
   }
 }
