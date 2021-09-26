@@ -2353,5 +2353,15 @@
     "name": "eval-estree-expression",
     "stars": 9,
     "description": "Safely evaluate JavaScript (estree) expressions, sync and async."
+  },
+  "rocket-hangar/multiplerun": {
+    "repo": "multiplerun",
+    "owner": "rocket-hangar",
+    "topics": [],
+    "size": 1776,
+    "keywords": [],
+    "name": "@workspace/root",
+    "stars": 2,
+    "description": "🛠 Run multiple terminals (or iTerm split panes) at once"
   }
 }
