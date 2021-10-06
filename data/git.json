@@ -2890,5 +2890,37 @@
     "name": "ccxt",
     "stars": 21198,
     "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges"
+  },
+  "BuilderIO/partytown": {
+    "repo": "partytown",
+    "owner": "BuilderIO",
+    "topics": [
+      "webworker",
+      "3rd-party",
+      "3rdparty",
+      "web-worker",
+      "performance",
+      "analytics",
+      "core-web-vitals",
+      "lighthouse",
+      "lighthouse-score",
+      "javascript",
+      "dom"
+    ],
+    "size": 2621,
+    "keywords": [
+      "web worker",
+      "3rd-party",
+      "third-party",
+      "analytics",
+      "webapp",
+      "performance",
+      "lighthouse",
+      "core web vitals",
+      "react"
+    ],
+    "name": "@builder.io/partytown",
+    "stars": 2116,
+    "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉"
   }
 }
