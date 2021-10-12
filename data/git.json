@@ -2922,5 +2922,26 @@
     "name": "@builder.io/partytown",
     "stars": 2116,
     "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉"
+  },
+  "rocicorp/replicache": {
+    "repo": "replicache",
+    "owner": "rocicorp",
+    "topics": [
+      "sync",
+      "offline",
+      "javascript",
+      "typescript",
+      "offline-first",
+      "multiplayer",
+      "realtime",
+      "collaborative-editing",
+      "replicache",
+      "replicache-js-sdk"
+    ],
+    "size": 11207,
+    "keywords": [],
+    "name": "replicache",
+    "stars": 415,
+    "description": "Realtime Sync for Any Backend Stack"
   }
 }
