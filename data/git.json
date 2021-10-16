@@ -2957,5 +2957,21 @@
     "name": "fosscord-server",
     "stars": 510,
     "description": "Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice)"
+  },
+  "Quramy/npm-ts-workspaces-example": {
+    "repo": "npm-ts-workspaces-example",
+    "owner": "Quramy",
+    "topics": [
+      "typescript",
+      "monorepo",
+      "example",
+      "npm",
+      "lerna"
+    ],
+    "size": 1320,
+    "keywords": [],
+    "name": "npm-ts-workspaces-example",
+    "stars": 95,
+    "description": "Monorepos example project using npm workspaces and TypeScript project references"
   }
 }
