@@ -2943,5 +2943,19 @@
     "name": "replicache",
     "stars": 415,
     "description": "Realtime Sync for Any Backend Stack"
+  },
+  "fosscord/fosscord-server": {
+    "repo": "fosscord-server",
+    "owner": "fosscord",
+    "topics": [
+      "hacktoberfest",
+      "fosscord",
+      "discord"
+    ],
+    "size": 15341,
+    "keywords": [],
+    "name": "fosscord-server",
+    "stars": 510,
+    "description": "Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice)"
   }
 }
