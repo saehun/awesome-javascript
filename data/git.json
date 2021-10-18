@@ -2973,5 +2973,25 @@
     "name": "npm-ts-workspaces-example",
     "stars": 95,
     "description": "Monorepos example project using npm workspaces and TypeScript project references"
+  },
+  "WebReflection/linkedom": {
+    "repo": "linkedom",
+    "owner": "WebReflection",
+    "topics": [
+      "dom",
+      "ssr",
+      "web"
+    ],
+    "size": 4987,
+    "keywords": [
+      "DOM",
+      "JSDOM",
+      "alternative",
+      "performance",
+      "lightweight"
+    ],
+    "name": "linkedom",
+    "stars": 630,
+    "description": "A triple-linked lists based DOM implementation."
   }
 }
