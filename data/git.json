@@ -2993,5 +2993,26 @@
     "name": "linkedom",
     "stars": 630,
     "description": "A triple-linked lists based DOM implementation."
+  },
+  "projen/projen": {
+    "repo": "projen",
+    "owner": "projen",
+    "topics": [
+      "cdk",
+      "constructs",
+      "aws-cdk",
+      "repository-management",
+      "repository-tools",
+      "typescript",
+      "generator",
+      "scaffolding",
+      "templates",
+      "jsii"
+    ],
+    "size": 9569,
+    "keywords": [],
+    "name": "projen",
+    "stars": 838,
+    "description": "A new generation of project generators"
   }
 }
