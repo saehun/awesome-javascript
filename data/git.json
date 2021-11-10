@@ -3014,5 +3014,26 @@
     "name": "projen",
     "stars": 838,
     "description": "A new generation of project generators"
+  },
+  "daangn/urlpack": {
+    "repo": "urlpack",
+    "owner": "daangn",
+    "topics": [
+      "codec",
+      "messagepack",
+      "encoder",
+      "decoder",
+      "serialization",
+      "base58",
+      "base62",
+      "pure-javascript",
+      "vanilla-javascript",
+      "esmodules"
+    ],
+    "size": 1593,
+    "keywords": [],
+    "name": "@urlpack/project",
+    "stars": 40,
+    "description": "Pure JavaScript toolkit for data URLs (MessagePack, Base58 and Base62)"
   }
 }
