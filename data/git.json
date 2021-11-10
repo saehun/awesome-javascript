@@ -3035,5 +3035,37 @@
     "name": "@urlpack/project",
     "stars": 40,
     "description": "Pure JavaScript toolkit for data URLs (MessagePack, Base58 and Base62)"
+  },
+  "agenda/agenda": {
+    "repo": "agenda",
+    "owner": "agenda",
+    "topics": [
+      "cron",
+      "scheduler",
+      "job-scheduler",
+      "crontab",
+      "cronjob",
+      "recurring",
+      "job",
+      "queue",
+      "task",
+      "runner",
+      "automated",
+      "frequency",
+      "interval",
+      "job-processor"
+    ],
+    "size": 3138,
+    "keywords": [
+      "job",
+      "jobs",
+      "cron",
+      "delayed",
+      "scheduler",
+      "runner"
+    ],
+    "name": "agenda",
+    "stars": 7934,
+    "description": "Lightweight job scheduling for Node.js"
   }
 }
