@@ -3067,5 +3067,29 @@
     "name": "agenda",
     "stars": 7934,
     "description": "Lightweight job scheduling for Node.js"
+  },
+  "tapjs/async-hook-domain": {
+    "repo": "async-hook-domain",
+    "owner": "tapjs",
+    "topics": [],
+    "size": 308,
+    "keywords": [
+      "async",
+      "hooks",
+      "async_hooks",
+      "domain",
+      "error",
+      "handling",
+      "handler",
+      "uncaughtException",
+      "unhandledRejection",
+      "catch",
+      "promise",
+      "execution",
+      "context"
+    ],
+    "name": "async-hook-domain",
+    "stars": 27,
+    "description": "An implementation of Domain-like error handling, built on async_hooks"
   }
 }
