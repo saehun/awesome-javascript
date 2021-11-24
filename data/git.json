@@ -3091,5 +3091,28 @@
     "name": "async-hook-domain",
     "stars": 27,
     "description": "An implementation of Domain-like error handling, built on async_hooks"
+  },
+  "nestjs-steroids/async-context": {
+    "repo": "async-context",
+    "owner": "nestjs-steroids",
+    "topics": [
+      "nestjs",
+      "asynchooks",
+      "nodejs",
+      "asyncstorage",
+      "request-context",
+      "requestid",
+      "async-context"
+    ],
+    "size": 1399,
+    "keywords": [
+      "nest",
+      "nestjs",
+      "async-context",
+      "async-hooks"
+    ],
+    "name": "@nestjs-steroids/async-context",
+    "stars": 16,
+    "description": ":link: NestJS Async Context based on async_hooks"
   }
 }
