@@ -3170,5 +3170,29 @@
     "name": "@visx/root",
     "stars": 14473,
     "description": "🐯 visx | visualization components"
+  },
+  "apexcharts/react-apexcharts": {
+    "repo": "react-apexcharts",
+    "owner": "apexcharts",
+    "topics": [
+      "apexcharts",
+      "react",
+      "charts",
+      "reactjs",
+      "visualizations",
+      "react-charts"
+    ],
+    "size": 8618,
+    "keywords": [
+      "react-charts",
+      "react",
+      "charts",
+      "graphs",
+      "apexcharts",
+      "data-visualization"
+    ],
+    "name": "react-apexcharts",
+    "stars": 849,
+    "description": "📊 React Component for ApexCharts"
   }
 }
