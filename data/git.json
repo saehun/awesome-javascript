@@ -3145,5 +3145,30 @@
     "name": "unleash-server",
     "stars": 4510,
     "description": "Unleash is the open source feature toggle service."
+  },
+  "airbnb/visx": {
+    "repo": "visx",
+    "owner": "airbnb",
+    "topics": [
+      "vx",
+      "react",
+      "d3",
+      "visualization",
+      "chart",
+      "svg",
+      "data-visualization",
+      "visx"
+    ],
+    "size": 15715,
+    "keywords": [
+      "react",
+      "d3",
+      "visualization",
+      "visx",
+      "charts"
+    ],
+    "name": "@visx/root",
+    "stars": 14473,
+    "description": "🐯 visx | visualization components"
   }
 }
