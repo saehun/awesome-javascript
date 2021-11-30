@@ -3194,5 +3194,24 @@
     "name": "react-apexcharts",
     "stars": 849,
     "description": "📊 React Component for ApexCharts"
+  },
+  "plouc/nivo": {
+    "repo": "nivo",
+    "owner": "plouc",
+    "topics": [
+      "dataviz",
+      "react",
+      "d3js",
+      "isomorphic",
+      "svg",
+      "charts",
+      "components",
+      "canvas"
+    ],
+    "size": 340497,
+    "keywords": [],
+    "name": "nivo",
+    "stars": 9469,
+    "description": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries"
   }
 }
