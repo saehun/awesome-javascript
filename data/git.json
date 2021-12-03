@@ -3213,5 +3213,25 @@
     "name": "nivo",
     "stars": 9469,
     "description": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries"
+  },
+  "openreplay/openreplay": {
+    "repo": "openreplay",
+    "owner": "openreplay",
+    "topics": [
+      "session-replay",
+      "react",
+      "python",
+      "golang",
+      "redis",
+      "kafka",
+      "postgresql",
+      "openreplay",
+      "clickhouse"
+    ],
+    "size": 15401,
+    "keywords": [],
+    "name": "openreplay",
+    "stars": 2682,
+    "description": ":tv: OpenReplay is developer-friendly, open-source session replay."
   }
 }
