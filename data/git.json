@@ -3233,5 +3233,23 @@
     "name": "openreplay",
     "stars": 2682,
     "description": ":tv: OpenReplay is developer-friendly, open-source session replay."
+  },
+  "Netflix/pollyjs": {
+    "repo": "pollyjs",
+    "owner": "Netflix",
+    "topics": [
+      "javascript",
+      "browser",
+      "nodejs",
+      "testing",
+      "netflix",
+      "record",
+      "replay"
+    ],
+    "size": 4634,
+    "keywords": [],
+    "name": "pollyjs",
+    "stars": 9378,
+    "description": "Record, Replay, and Stub HTTP Interactions."
   }
 }
