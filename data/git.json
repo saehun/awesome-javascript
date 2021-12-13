@@ -3272,5 +3272,34 @@
     "name": "root",
     "stars": 367,
     "description": "SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically."
+  },
+  "yjs/yjs": {
+    "repo": "yjs",
+    "owner": "yjs",
+    "topics": [
+      "yjs",
+      "crdt",
+      "shared-editing",
+      "collaboration",
+      "collaborative-editing",
+      "peer-to-peer",
+      "p2p",
+      "offline-first",
+      "decentralized",
+      "realtime"
+    ],
+    "size": 72878,
+    "keywords": [
+      "Yjs",
+      "CRDT",
+      "offline",
+      "offline-first",
+      "shared-editing",
+      "concurrency",
+      "collaboration"
+    ],
+    "name": "yjs",
+    "stars": 5837,
+    "description": "Shared data types for building collaborative software"
   }
 }
