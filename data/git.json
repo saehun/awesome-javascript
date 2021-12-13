@@ -3251,5 +3251,26 @@
     "name": "pollyjs",
     "stars": 9378,
     "description": "Record, Replay, and Stub HTTP Interactions."
+  },
+  "yousefed/SyncedStore": {
+    "repo": "SyncedStore",
+    "owner": "yousefed",
+    "topics": [
+      "crdt",
+      "yjs",
+      "reactive-programming",
+      "collaborative",
+      "collaboration",
+      "conflict-resolution",
+      "vue",
+      "react",
+      "offline-first",
+      "javascript"
+    ],
+    "size": 9699,
+    "keywords": [],
+    "name": "root",
+    "stars": 367,
+    "description": "SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically."
   }
 }
