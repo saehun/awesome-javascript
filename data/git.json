@@ -3314,5 +3314,26 @@
     "name": "zx",
     "stars": 23991,
     "description": "A tool for writing better scripts"
+  },
+  "piscinajs/piscina": {
+    "repo": "piscina",
+    "owner": "piscinajs",
+    "topics": [
+      "nodejs",
+      "worker-threads",
+      "pooling",
+      "performance",
+      "nearform-research"
+    ],
+    "size": 1199,
+    "keywords": [
+      "fast",
+      "worker threads",
+      "thread pool",
+      "wade wilson"
+    ],
+    "name": "piscina",
+    "stars": 2066,
+    "description": "A fast, efficient Node.js Worker Thread Pool implementation"
   }
 }
