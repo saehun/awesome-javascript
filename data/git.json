@@ -3301,5 +3301,18 @@
     "name": "yjs",
     "stars": 5837,
     "description": "Shared data types for building collaborative software"
+  },
+  "google/zx": {
+    "repo": "zx",
+    "owner": "google",
+    "topics": [
+      "javascript",
+      "nodejs"
+    ],
+    "size": 287,
+    "keywords": [],
+    "name": "zx",
+    "stars": 23991,
+    "description": "A tool for writing better scripts"
   }
 }
