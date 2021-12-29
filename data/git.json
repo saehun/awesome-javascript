@@ -3335,5 +3335,18 @@
     "name": "piscina",
     "stars": 2066,
     "description": "A fast, efficient Node.js Worker Thread Pool implementation"
+  },
+  "ShogunPanda/cronometro": {
+    "repo": "cronometro",
+    "owner": "ShogunPanda",
+    "topics": [],
+    "size": 160,
+    "keywords": [
+      "benchmark",
+      "hdr"
+    ],
+    "name": "cronometro",
+    "stars": 25,
+    "description": "Simple benchmarking suite powered by HDR histograms."
   }
 }
