@@ -3335,5 +3335,15 @@
     "name": "piscina",
     "stars": 2066,
     "description": "A fast, efficient Node.js Worker Thread Pool implementation"
+  },
+  "oklemenz/PrinceJS": {
+    "repo": "PrinceJS",
+    "owner": "oklemenz",
+    "topics": [],
+    "size": 13952,
+    "keywords": [],
+    "name": "prince-js",
+    "stars": 409,
+    "description": "Prince of Persia reimplementation written in HTML5 / Javascript (MS-DOS Version)"
   }
 }
