@@ -3345,5 +3345,18 @@
     "name": "prince-js",
     "stars": 409,
     "description": "Prince of Persia reimplementation written in HTML5 / Javascript (MS-DOS Version)"
+  },
+  "ShogunPanda/cronometro": {
+    "repo": "cronometro",
+    "owner": "ShogunPanda",
+    "topics": [],
+    "size": 160,
+    "keywords": [
+      "benchmark",
+      "hdr"
+    ],
+    "name": "cronometro",
+    "stars": 25,
+    "description": "Simple benchmarking suite powered by HDR histograms."
   }
 }
