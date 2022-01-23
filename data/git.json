@@ -3358,5 +3358,23 @@
     "name": "cronometro",
     "stars": 25,
     "description": "Simple benchmarking suite powered by HDR histograms."
+  },
+  "thien-do/typed.tw": {
+    "repo": "typed.tw",
+    "owner": "thien-do",
+    "topics": [
+      "typescript",
+      "tailwind",
+      "typed",
+      "css",
+      "tailwind-css",
+      "purgecss",
+      "tailwindcss"
+    ],
+    "size": 14778,
+    "keywords": [],
+    "name": "typed.tw",
+    "stars": 382,
+    "description": "Brings types to TailwindCSS via TypeScript."
   }
 }
