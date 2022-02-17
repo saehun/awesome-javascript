@@ -3376,5 +3376,15 @@
     "name": "typed.tw",
     "stars": 382,
     "description": "Brings types to TailwindCSS via TypeScript."
+  },
+  "johnlindquist/kit": {
+    "repo": "kit",
+    "owner": "johnlindquist",
+    "topics": [],
+    "size": 3863,
+    "keywords": [],
+    "name": "@johnlindquist/kit",
+    "stars": 1381,
+    "description": "Script Kit. Automate Anything."
   }
 }
