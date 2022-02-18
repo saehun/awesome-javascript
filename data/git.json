@@ -3386,5 +3386,29 @@
     "name": "@johnlindquist/kit",
     "stars": 1381,
     "description": "Script Kit. Automate Anything."
+  },
+  "nodejs/undici": {
+    "repo": "undici",
+    "owner": "nodejs",
+    "topics": [
+      "nodejs",
+      "http",
+      "client"
+    ],
+    "size": 2928,
+    "keywords": [
+      "fetch",
+      "http",
+      "https",
+      "promise",
+      "request",
+      "curl",
+      "wget",
+      "xhr",
+      "whatwg"
+    ],
+    "name": "undici",
+    "stars": 3225,
+    "description": "An HTTP/1.1 client, written from scratch for Node.js"
   }
 }

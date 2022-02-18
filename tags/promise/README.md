@@ -5,3 +5,4 @@
 - [node-worker-threads-pool](https://github.com/SUCHMOKUO/node-worker-threads-pool) Simple worker threads pool using node's worker_threads module.
 - [idb-keyval](https://github.com/jakearchibald/idb-keyval) A super-simple-small promise-based keyval store implemented with IndexedDB
 - [async-hook-domain](https://github.com/tapjs/async-hook-domain) An implementation of Domain-like error handling, built on async_hooks
+- [undici](https://github.com/nodejs/undici) An HTTP/1.1 client, written from scratch for Node.js
