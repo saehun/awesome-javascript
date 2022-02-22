@@ -3410,5 +3410,15 @@
     "name": "undici",
     "stars": 3225,
     "description": "An HTTP/1.1 client, written from scratch for Node.js"
+  },
+  "microsoft/griffel": {
+    "repo": "griffel",
+    "owner": "microsoft",
+    "topics": [],
+    "size": 1450,
+    "keywords": [],
+    "name": "griffel-repository",
+    "stars": 544,
+    "description": "✏️ CSS-in-JS with ahead-of-time compilation."
   }
 }
