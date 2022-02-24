@@ -3420,5 +3420,36 @@
     "name": "griffel-repository",
     "stars": 544,
     "description": "✏️ CSS-in-JS with ahead-of-time compilation."
+  },
+  "mickael-kerjean/filestash": {
+    "repo": "filestash",
+    "owner": "mickael-kerjean",
+    "topics": [
+      "file-manager",
+      "file-upload",
+      "ftp-client",
+      "sftp-client",
+      "webdav-client",
+      "webapp",
+      "dropbox-client",
+      "google-drive",
+      "s3-client",
+      "ftp",
+      "sftp",
+      "s3",
+      "dropbox",
+      "emacs",
+      "webdav",
+      "file-viewer",
+      "s3-browser",
+      "file-sharing",
+      "filemanager",
+      "orgmode"
+    ],
+    "size": 31305,
+    "keywords": [],
+    "name": "filestash",
+    "stars": 5625,
+    "description": "🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ..."
   }
 }
