@@ -3451,5 +3451,53 @@
     "name": "filestash",
     "stars": 5625,
     "description": "🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ..."
+  },
+  "ianstormtaylor/superstruct": {
+    "repo": "superstruct",
+    "owner": "ianstormtaylor",
+    "topics": [
+      "validation",
+      "types",
+      "interface",
+      "structs",
+      "schema",
+      "javascript",
+      "typescript"
+    ],
+    "size": 6309,
+    "keywords": [
+      "api",
+      "array",
+      "assert",
+      "cast",
+      "check",
+      "checker",
+      "collection",
+      "data",
+      "error",
+      "express",
+      "hapi",
+      "interface",
+      "invalid",
+      "joi",
+      "json",
+      "list",
+      "model",
+      "object",
+      "orm",
+      "scalar",
+      "schema",
+      "struct",
+      "throw",
+      "type",
+      "types",
+      "valid",
+      "validate",
+      "validation",
+      "validator"
+    ],
+    "name": "superstruct",
+    "stars": 5749,
+    "description": "A simple and composable way to validate data in JavaScript (and TypeScript)."
   }
 }
