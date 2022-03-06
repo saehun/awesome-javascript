@@ -3524,5 +3524,27 @@
     "name": "typescript-runtime-type-benchmarks",
     "stars": 196,
     "description": "📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support"
+  },
+  "gcanti/io-ts": {
+    "repo": "io-ts",
+    "owner": "gcanti",
+    "topics": [
+      "typescript",
+      "validation",
+      "inference",
+      "types",
+      "runtime"
+    ],
+    "size": 3373,
+    "keywords": [
+      "typescript",
+      "runtime",
+      "decoder",
+      "encoder",
+      "schema"
+    ],
+    "name": "io-ts",
+    "stars": 5290,
+    "description": "Runtime type system for IO decoding/encoding"
   }
 }
