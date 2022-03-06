@@ -6,3 +6,4 @@
 - [data-store](https://github.com/jonschlinkert/data-store) Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies.
 - [levelup](https://github.com/Level/levelup) A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) A simple and composable way to validate data in JavaScript (and TypeScript).
+- [typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support

@@ -3499,5 +3499,30 @@
     "name": "superstruct",
     "stars": 5749,
     "description": "A simple and composable way to validate data in JavaScript (and TypeScript)."
+  },
+  "moltar/typescript-runtime-type-benchmarks": {
+    "repo": "typescript-runtime-type-benchmarks",
+    "owner": "moltar",
+    "topics": [
+      "typescript",
+      "types",
+      "benchmarks",
+      "validation",
+      "benchmark",
+      "json",
+      "typescript-support",
+      "validation-library",
+      "decoders",
+      "runtypes"
+    ],
+    "size": 10865,
+    "keywords": [
+      "benchmarks",
+      "types",
+      "typescript"
+    ],
+    "name": "typescript-runtime-type-benchmarks",
+    "stars": 196,
+    "description": "📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support"
   }
 }
