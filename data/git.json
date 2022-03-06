@@ -981,7 +981,7 @@
       "static-types",
       "runtime-typechecking"
     ],
-    "size": 5556,
+    "size": 7224,
     "keywords": [
       "json-schema",
       "typescript",
@@ -989,7 +989,7 @@
       "runtime-typechecking"
     ],
     "name": "@sinclair/typebox",
-    "stars": 503,
+    "stars": 1368,
     "description": "JSON Schema Type Builder with Static Type Resolution for TypeScript"
   },
   "mscdex/busboy": {
