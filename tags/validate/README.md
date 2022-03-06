@@ -7,3 +7,4 @@
 - [typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
 - [io-ts](https://github.com/gcanti/io-ts) Runtime type system for IO decoding/encoding
 - [runtypes](https://github.com/pelotom/runtypes) Runtime validation for static types
+- [zod](https://github.com/colinhacks/zod) TypeScript-first schema validation with static type inference

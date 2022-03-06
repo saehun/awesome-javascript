@@ -3561,5 +3561,27 @@
     "name": "runtypes",
     "stars": 2026,
     "description": "Runtime validation for static types"
+  },
+  "colinhacks/zod": {
+    "repo": "zod",
+    "owner": "colinhacks",
+    "topics": [
+      "typescript",
+      "schema-validation",
+      "type-inference",
+      "runtime-validation",
+      "static-types"
+    ],
+    "size": 5616,
+    "keywords": [
+      "typescript",
+      "schema",
+      "validation",
+      "type",
+      "inference"
+    ],
+    "name": "zod",
+    "stars": 6512,
+    "description": "TypeScript-first schema validation with static type inference"
   }
 }
