@@ -3546,5 +3546,20 @@
     "name": "io-ts",
     "stars": 5290,
     "description": "Runtime type system for IO decoding/encoding"
+  },
+  "pelotom/runtypes": {
+    "repo": "runtypes",
+    "owner": "pelotom",
+    "topics": [
+      "typescript",
+      "runtime",
+      "types",
+      "validation"
+    ],
+    "size": 1427,
+    "keywords": [],
+    "name": "runtypes",
+    "stars": 2026,
+    "description": "Runtime validation for static types"
   }
 }
