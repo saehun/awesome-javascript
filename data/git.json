@@ -3583,5 +3583,30 @@
     "name": "zod",
     "stars": 6512,
     "description": "TypeScript-first schema validation with static type inference"
+  },
+  "mathiasbynens/he": {
+    "repo": "he",
+    "owner": "mathiasbynens",
+    "topics": [
+      "html-entities",
+      "javascript",
+      "encode",
+      "encoder",
+      "decode",
+      "decoder"
+    ],
+    "size": 653,
+    "keywords": [
+      "string",
+      "entities",
+      "entity",
+      "html",
+      "encode",
+      "decode",
+      "unicode"
+    ],
+    "name": "he",
+    "stars": 3013,
+    "description": "A robust HTML entity encoder/decoder written in JavaScript."
   }
 }
