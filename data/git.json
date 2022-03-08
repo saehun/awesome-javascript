@@ -3608,5 +3608,19 @@
     "name": "he",
     "stars": 3013,
     "description": "A robust HTML entity encoder/decoder written in JavaScript."
+  },
+  "graememcc/micropolisJS": {
+    "repo": "micropolisJS",
+    "owner": "graememcc",
+    "topics": [
+      "simulation",
+      "game",
+      "retro"
+    ],
+    "size": 1745,
+    "keywords": [],
+    "name": "micropolisJS",
+    "stars": 445,
+    "description": "A port of Micropolis to JS/HTML5"
   }
 }
