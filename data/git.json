@@ -3622,5 +3622,49 @@
     "name": "micropolisJS",
     "stars": 445,
     "description": "A port of Micropolis to JS/HTML5"
+  },
+  "saadeghi/daisyui": {
+    "repo": "daisyui",
+    "owner": "saadeghi",
+    "topics": [
+      "tailwind-css",
+      "ui-library",
+      "design-system",
+      "ui-pattern",
+      "ui-framework",
+      "ui-components",
+      "css-components",
+      "css-framework",
+      "ui-kit",
+      "ui-design",
+      "design-pattern",
+      "design-systems",
+      "tailwind",
+      "css",
+      "postcss",
+      "tailwindcss",
+      "component",
+      "components",
+      "component-library",
+      "daisyui"
+    ],
+    "size": 193975,
+    "keywords": [
+      "design-system",
+      "tailwindcss",
+      "components",
+      "ui-library",
+      "component",
+      "framework",
+      "tailwind",
+      "theming",
+      "postcss",
+      "design",
+      "css",
+      "ui"
+    ],
+    "name": "daisyui",
+    "stars": 9499,
+    "description": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components"
   }
 }
