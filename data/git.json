@@ -3721,5 +3721,36 @@
     "name": "trading-signals",
     "stars": 315,
     "description": "Technical indicators to run technical analysis with JavaScript & TypeScript. 📈"
+  },
+  "gvergnaud/ts-pattern": {
+    "repo": "ts-pattern",
+    "owner": "gvergnaud",
+    "topics": [
+      "pattern-matching",
+      "typescript",
+      "ts",
+      "pattern",
+      "matching",
+      "inference",
+      "type-inference",
+      "exhaustive",
+      "conditions",
+      "branching",
+      "javascript"
+    ],
+    "size": 6229,
+    "keywords": [
+      "pattern",
+      "matching",
+      "pattern-matching",
+      "typescript",
+      "match-with",
+      "match",
+      "switch",
+      "adt"
+    ],
+    "name": "ts-pattern",
+    "stars": 2502,
+    "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference."
   }
 }
