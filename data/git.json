@@ -3752,5 +3752,29 @@
     "name": "ts-pattern",
     "stars": 2502,
     "description": "🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference."
+  },
+  "samizdatco/skia-canvas": {
+    "repo": "skia-canvas",
+    "owner": "samizdatco",
+    "topics": [],
+    "size": 5945,
+    "keywords": [
+      "skia",
+      "canvas",
+      "offscreen",
+      "headless",
+      "graphic",
+      "graphics",
+      "image",
+      "images",
+      "compositing",
+      "render",
+      "pdf",
+      "svg",
+      "rust"
+    ],
+    "name": "skia-canvas",
+    "stars": 1071,
+    "description": "A canvas environment for Node.js"
   }
 }
