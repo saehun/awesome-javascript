@@ -3776,5 +3776,24 @@
     "name": "skia-canvas",
     "stars": 1071,
     "description": "A canvas environment for Node.js"
+  },
+  "benjamn/recast": {
+    "repo": "recast",
+    "owner": "benjamn",
+    "topics": [],
+    "size": 4168,
+    "keywords": [
+      "ast",
+      "rewriting",
+      "refactoring",
+      "codegen",
+      "syntax",
+      "transformation",
+      "parsing",
+      "pretty-printing"
+    ],
+    "name": "recast",
+    "stars": 4061,
+    "description": "JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator"
   }
 }
