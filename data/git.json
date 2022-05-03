@@ -3795,5 +3795,15 @@
     "name": "recast",
     "stars": 4061,
     "description": "JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator"
+  },
+  "gvergnaud/type-level-typescript-workshop": {
+    "repo": "type-level-typescript-workshop",
+    "owner": "gvergnaud",
+    "topics": [],
+    "size": 346,
+    "keywords": [],
+    "name": "type-level-typescript-workshop",
+    "stars": 9,
+    "description": ""
   }
 }

@@ -25,5 +25,5 @@ export const InfoSchema = yup.object().shape({
   name: yup.string().required(),
   size: yup.number().required(),
   stars: yup.number().required(),
-  description: yup.string().required(),
+  description: yup.string().default(''),
 });
