@@ -3815,5 +3815,19 @@
     "name": "wireit",
     "stars": 3058,
     "description": "Wireit upgrades your npm scripts to make them smarter and more efficient."
+  },
+  "coopernurse/node-pool": {
+    "repo": "node-pool",
+    "owner": "coopernurse",
+    "topics": [],
+    "size": 605,
+    "keywords": [
+      "pool",
+      "pooling",
+      "throttle"
+    ],
+    "name": "generic-pool",
+    "stars": 2155,
+    "description": "Generic resource pooling for node.js"
   }
 }
