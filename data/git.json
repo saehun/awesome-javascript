@@ -3805,5 +3805,15 @@
     "name": "type-level-typescript-workshop",
     "stars": 9,
     "description": ""
+  },
+  "google/wireit": {
+    "repo": "wireit",
+    "owner": "google",
+    "topics": [],
+    "size": 1043,
+    "keywords": [],
+    "name": "wireit",
+    "stars": 3058,
+    "description": "Wireit upgrades your npm scripts to make them smarter and more efficient."
   }
 }
