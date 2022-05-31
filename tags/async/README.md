@@ -6,3 +6,4 @@
 - [terser](https://github.com/terser/terser) 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [node-worker-threads-pool](https://github.com/SUCHMOKUO/node-worker-threads-pool) Simple worker threads pool using node's worker_threads module.
 - [async-hook-domain](https://github.com/tapjs/async-hook-domain) An implementation of Domain-like error handling, built on async_hooks
+- [async-mutex](https://github.com/DirtyHairy/async-mutex) A mutex for synchronizing async workflows in Javascript

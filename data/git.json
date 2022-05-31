@@ -3829,5 +3829,18 @@
     "name": "generic-pool",
     "stars": 2155,
     "description": "Generic resource pooling for node.js"
+  },
+  "DirtyHairy/async-mutex": {
+    "repo": "async-mutex",
+    "owner": "DirtyHairy",
+    "topics": [],
+    "size": 434,
+    "keywords": [
+      "mutex",
+      "async"
+    ],
+    "name": "async-mutex",
+    "stars": 509,
+    "description": "A mutex for synchronizing async workflows in Javascript"
   }
 }
