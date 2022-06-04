@@ -3842,5 +3842,53 @@
     "name": "async-mutex",
     "stars": 509,
     "description": "A mutex for synchronizing async workflows in Javascript"
+  },
+  "pubkey/rxdb": {
+    "repo": "rxdb",
+    "owner": "pubkey",
+    "topics": [
+      "database",
+      "nosql",
+      "rxjs",
+      "nodejs",
+      "electron",
+      "pwa",
+      "couchdb",
+      "react-native",
+      "pouchdb",
+      "react",
+      "realtime-database",
+      "realtime",
+      "graphql",
+      "offline-first",
+      "rxdb",
+      "firebase",
+      "api",
+      "angular",
+      "web3",
+      "indexeddb"
+    ],
+    "size": 82134,
+    "keywords": [
+      "db",
+      "database",
+      "offline-first",
+      "nosql",
+      "no-sql",
+      "jsonschema",
+      "rxjs",
+      "pwa",
+      "localstorage",
+      "indexeddb",
+      "encryption",
+      "pouchdb",
+      "couchdb",
+      "live-query",
+      "reactive",
+      "realtime"
+    ],
+    "name": "rxdb",
+    "stars": 17553,
+    "description": "🔄 A client side, offline-first, reactive database for JavaScript Applications"
   }
 }
