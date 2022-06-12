@@ -3890,5 +3890,26 @@
     "name": "rxdb",
     "stars": 17553,
     "description": "🔄 A client side, offline-first, reactive database for JavaScript Applications"
+  },
+  "deepkit/deepkit-framework": {
+    "repo": "deepkit-framework",
+    "owner": "deepkit",
+    "topics": [
+      "typescript",
+      "mongodb",
+      "nodejs",
+      "framework",
+      "framework-javascript",
+      "serializer",
+      "validator",
+      "deepkit",
+      "orm",
+      "dependency-injection"
+    ],
+    "size": 33194,
+    "keywords": [],
+    "name": "root",
+    "stars": 1617,
+    "description": "A new full-featured and high-performance TypeScript framework for enterprise applications."
   }
 }
