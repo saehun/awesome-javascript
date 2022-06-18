@@ -3911,5 +3911,24 @@
     "name": "root",
     "stars": 1617,
     "description": "A new full-featured and high-performance TypeScript framework for enterprise applications."
+  },
+  "sensedeep/dynamodb-onetable": {
+    "repo": "dynamodb-onetable",
+    "owner": "sensedeep",
+    "topics": [
+      "dynamodb",
+      "serverless",
+      "aws",
+      "nosql",
+      "orm",
+      "typescript"
+    ],
+    "size": 2247,
+    "keywords": [
+      "dynamodb"
+    ],
+    "name": "dynamodb-onetable",
+    "stars": 414,
+    "description": "DynamoDB access and management for one table designs with NodeJS"
   }
 }
