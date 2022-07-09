@@ -3930,5 +3930,27 @@
     "name": "dynamodb-onetable",
     "stars": 414,
     "description": "DynamoDB access and management for one table designs with NodeJS"
+  },
+  "jaredwray/keyv": {
+    "repo": "keyv",
+    "owner": "jaredwray",
+    "topics": [
+      "keyv",
+      "key-value",
+      "cache",
+      "etcd",
+      "memcache",
+      "mongo",
+      "mysql",
+      "postgres",
+      "redis",
+      "sqlite",
+      "storage"
+    ],
+    "size": 614,
+    "keywords": [],
+    "name": "@keyv/mono-repo",
+    "stars": 1879,
+    "description": "Simple key-value storage with support for multiple backends"
   }
 }
