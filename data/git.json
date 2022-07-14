@@ -3952,5 +3952,30 @@
     "name": "@keyv/mono-repo",
     "stars": 1879,
     "description": "Simple key-value storage with support for multiple backends"
+  },
+  "felixfbecker/iterare": {
+    "repo": "iterare",
+    "owner": "felixfbecker",
+    "topics": [],
+    "size": 173,
+    "keywords": [
+      "iterator",
+      "iteration",
+      "functional",
+      "es6",
+      "collection",
+      "array",
+      "map",
+      "set",
+      "filter",
+      "reduce",
+      "flatten",
+      "concat",
+      "every",
+      "some"
+    ],
+    "name": "iterare",
+    "stars": 252,
+    "description": "Array methods + ES6 Iterators = :heart:"
   }
 }
