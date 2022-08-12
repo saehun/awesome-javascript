@@ -3977,5 +3977,25 @@
     "name": "iterare",
     "stars": 252,
     "description": "Array methods + ES6 Iterators = :heart:"
+  },
+  "daangn/stackflow": {
+    "repo": "stackflow",
+    "owner": "daangn",
+    "topics": [
+      "react",
+      "webview",
+      "stack",
+      "framework",
+      "mobile",
+      "navigator",
+      "plugin",
+      "system",
+      "typescript"
+    ],
+    "size": 739963,
+    "keywords": [],
+    "name": "@stackflow/monorepo",
+    "stars": 327,
+    "description": "Mobile-first stack navigator framework with composable plugin system"
   }
 }
