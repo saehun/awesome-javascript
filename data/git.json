@@ -3997,5 +3997,17 @@
     "name": "@stackflow/monorepo",
     "stars": 327,
     "description": "Mobile-first stack navigator framework with composable plugin system"
+  },
+  "fdaciuk/conduit-api": {
+    "repo": "conduit-api",
+    "owner": "fdaciuk",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "size": 472,
+    "keywords": [],
+    "name": "conduit-api",
+    "stars": 121,
+    "description": "API for Real World App project (Conduit) using Node.js + TS with Functional Programming"
   }
 }
