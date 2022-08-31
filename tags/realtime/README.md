@@ -4,3 +4,4 @@
 - [replicache](https://github.com/rocicorp/replicache) Realtime Sync for Any Backend Stack
 - [yjs](https://github.com/yjs/yjs) Shared data types for building collaborative software
 - [rxdb](https://github.com/pubkey/rxdb) 🔄 A client side, offline-first, reactive database for JavaScript Applications
+- [@soketi/soketi](https://github.com/soketi/soketi) Just another simple, fast, and resilient open-source WebSockets server. 📣

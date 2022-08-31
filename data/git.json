@@ -4009,5 +4009,35 @@
     "name": "conduit-api",
     "stars": 121,
     "description": "API for Real World App project (Conduit) using Node.js + TS with Functional Programming"
+  },
+  "soketi/soketi": {
+    "repo": "soketi",
+    "owner": "soketi",
+    "topics": [
+      "pusher",
+      "websocket",
+      "ws",
+      "broadcasting",
+      "real-time",
+      "realtime",
+      "nodejs",
+      "docker",
+      "hacktoberfest",
+      "javascript",
+      "websockets"
+    ],
+    "size": 61941,
+    "keywords": [
+      "laravel",
+      "socket.io",
+      "broadcasting",
+      "events",
+      "redis",
+      "socket",
+      "pusher"
+    ],
+    "name": "@soketi/soketi",
+    "stars": 2621,
+    "description": "Just another simple, fast, and resilient open-source WebSockets server. 📣"
   }
 }
