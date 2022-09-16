@@ -4110,5 +4110,20 @@
     "name": "stacktracey",
     "stars": 161,
     "description": "Parses call stacks. Reads sources. Clean & filtered output. Sourcemaps. Node & browsers."
+  },
+  "tholman/cursor-effects": {
+    "repo": "cursor-effects",
+    "owner": "tholman",
+    "topics": [
+      "javascript",
+      "90s",
+      "library",
+      "canvas"
+    ],
+    "size": 126,
+    "keywords": [],
+    "name": "cursor-effects",
+    "stars": 2197,
+    "description": "Old-school cursor effects for your browser built with modern JavaScript"
   }
 }
