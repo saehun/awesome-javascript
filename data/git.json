@@ -4125,5 +4125,30 @@
     "name": "cursor-effects",
     "stars": 2197,
     "description": "Old-school cursor effects for your browser built with modern JavaScript"
+  },
+  "yisibl/resvg-js": {
+    "repo": "resvg-js",
+    "owner": "yisibl",
+    "topics": [
+      "nodejs",
+      "rust",
+      "wasm",
+      "svg"
+    ],
+    "size": 31211,
+    "keywords": [
+      "resvg",
+      "svg",
+      "node-resvg",
+      "resvg-js",
+      "resvg-node",
+      "rust",
+      "svg2png",
+      "svg2img",
+      "svg to png"
+    ],
+    "name": "@resvg/resvg-js",
+    "stars": 587,
+    "description": "A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs."
   }
 }
