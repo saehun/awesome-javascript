@@ -4150,5 +4150,27 @@
     "name": "@resvg/resvg-js",
     "stars": 587,
     "description": "A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs."
+  },
+  "blackflux/object-treeify": {
+    "repo": "object-treeify",
+    "owner": "blackflux",
+    "topics": [],
+    "size": 2773,
+    "keywords": [
+      "object",
+      "tree",
+      "print",
+      "console",
+      "pretty",
+      "treeify",
+      "stringify",
+      "visualize",
+      "convert",
+      "string",
+      "debug"
+    ],
+    "name": "object-treeify",
+    "stars": 8,
+    "description": "Stringify Object as tree structure"
   }
 }

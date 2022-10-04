@@ -8,3 +8,4 @@
 - [data-store](https://github.com/jonschlinkert/data-store) Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies.
 - [whence](https://github.com/jonschlinkert/whence) Add context awareness to your apps and frameworks by safely evaluating user-defined conditional expressions. Useful for evaluating expressions in config files, prompts, key bindings, completions, templates, and many other user cases.
 - [superstruct](https://github.com/ianstormtaylor/superstruct) A simple and composable way to validate data in JavaScript (and TypeScript).
+- [object-treeify](https://github.com/blackflux/object-treeify) Stringify Object as tree structure
