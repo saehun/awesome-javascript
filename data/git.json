@@ -4172,5 +4172,26 @@
     "name": "object-treeify",
     "stars": 8,
     "description": "Stringify Object as tree structure"
+  },
+  "nickuraltsev/finity": {
+    "repo": "finity",
+    "owner": "nickuraltsev",
+    "topics": [
+      "state",
+      "state-machine",
+      "finite-state-machine",
+      "fsm"
+    ],
+    "size": 2852,
+    "keywords": [
+      "state",
+      "machine",
+      "state machine",
+      "finite state machine",
+      "fsm"
+    ],
+    "name": "finity",
+    "stars": 102,
+    "description": "A finite state machine library for Node.js and the browser with a friendly configuration DSL."
   }
 }
