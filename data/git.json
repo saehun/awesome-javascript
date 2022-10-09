@@ -4218,5 +4218,15 @@
     "name": "dezalgo",
     "stars": 89,
     "description": "Contain async insanity so that the dark pony lord doesn't eat souls"
+  },
+  "brillout/telefunc": {
+    "repo": "telefunc",
+    "owner": "brillout",
+    "topics": [],
+    "size": 4235,
+    "keywords": [],
+    "name": "telefunc",
+    "stars": 238,
+    "description": "Remote Functions. Instead of API."
   }
 }
