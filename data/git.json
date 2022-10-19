@@ -4228,5 +4228,42 @@
     "name": "telefunc",
     "stars": 238,
     "description": "Remote Functions. Instead of API."
+  },
+  "RIAEvangelist/node-ipc": {
+    "repo": "node-ipc",
+    "owner": "RIAEvangelist",
+    "topics": [
+      "ipc-sockets",
+      "tcp-sockets",
+      "unix-sockets",
+      "ipc-methods",
+      "node-ipc"
+    ],
+    "size": 4914,
+    "keywords": [
+      "IPC",
+      "Neural Networking",
+      "Machine Learning",
+      "inter",
+      "process",
+      "communication",
+      "unix",
+      "windows",
+      "win",
+      "socket",
+      "TCP",
+      "UDP",
+      "domain",
+      "sockets",
+      "threaded",
+      "communication",
+      "multi",
+      "process",
+      "shared",
+      "memory"
+    ],
+    "name": "node-ipc",
+    "stars": 1348,
+    "description": "Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS"
   }
 }
