@@ -4265,5 +4265,36 @@
     "name": "node-ipc",
     "stars": 1348,
     "description": "Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS"
+  },
+  "thi-ng/umbrella": {
+    "repo": "umbrella",
+    "owner": "thi-ng",
+    "topics": [
+      "dataflow",
+      "color",
+      "anti-framework",
+      "data-structures",
+      "dsl",
+      "functional-programming",
+      "geometry",
+      "html",
+      "parser-combinators",
+      "reactive-programming",
+      "shadergraph",
+      "streams",
+      "transducers",
+      "typescript",
+      "ui",
+      "vectors",
+      "visualization",
+      "webassembly",
+      "webgl",
+      "ziglang"
+    ],
+    "size": 137416,
+    "keywords": [],
+    "name": "umbrella",
+    "stars": 2614,
+    "description": "⛱  Broadly scoped ecosystem & mono-repository of 169+ TypeScript projects for functional, data driven development"
   }
 }
