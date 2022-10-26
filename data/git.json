@@ -4328,5 +4328,15 @@
     "name": "typescript-transformer-handbook",
     "stars": 655,
     "description": "📘 A comprehensive handbook on how to create transformers for TypeScript with code examples "
+  },
+  "nwolverson/tstooltip": {
+    "repo": "tstooltip",
+    "owner": "nwolverson",
+    "topics": [],
+    "size": 976,
+    "keywords": [],
+    "name": "tstooltip",
+    "stars": 6,
+    "description": "TypeScript tooltips using ts compiler in the browser"
   }
 }
