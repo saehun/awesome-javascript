@@ -4296,5 +4296,22 @@
     "name": "umbrella",
     "stars": 2614,
     "description": "⛱  Broadly scoped ecosystem & mono-repository of 169+ TypeScript projects for functional, data driven development"
+  },
+  "madou/awesome-typescript-ecosystem": {
+    "repo": "awesome-typescript-ecosystem",
+    "owner": "madou",
+    "topics": [
+      "awesome-list",
+      "awesome",
+      "list",
+      "typescript",
+      "transformer",
+      "plugin"
+    ],
+    "size": 78,
+    "keywords": [],
+    "name": "awesome-typescript-ecosystem",
+    "stars": 99,
+    "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc"
   }
 }
