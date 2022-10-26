@@ -4313,5 +4313,20 @@
     "name": "awesome-typescript-ecosystem",
     "stars": 99,
     "description": "😎 A list of awesome TypeScript transformers, plugins, handbooks, etc"
+  },
+  "madou/typescript-transformer-handbook": {
+    "repo": "typescript-transformer-handbook",
+    "owner": "madou",
+    "topics": [
+      "typescript",
+      "handbook",
+      "transformer",
+      "ts-transformer"
+    ],
+    "size": 188,
+    "keywords": [],
+    "name": "typescript-transformer-handbook",
+    "stars": 655,
+    "description": "📘 A comprehensive handbook on how to create transformers for TypeScript with code examples "
   }
 }
