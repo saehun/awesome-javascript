@@ -4338,5 +4338,21 @@
     "name": "tstooltip",
     "stars": 6,
     "description": "TypeScript tooltips using ts compiler in the browser"
+  },
+  "pacocoursey/cmdk": {
+    "repo": "cmdk",
+    "owner": "pacocoursey",
+    "topics": [
+      "combobox",
+      "command-palette",
+      "radix-ui",
+      "react",
+      "command-menu"
+    ],
+    "size": 564,
+    "keywords": [],
+    "name": "cmdk-root",
+    "stars": 4417,
+    "description": "Fast, unstyled command menu React component."
   }
 }
