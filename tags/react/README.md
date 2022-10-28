@@ -10,3 +10,4 @@
 - [rxdb](https://github.com/pubkey/rxdb) 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [@stackflow/monorepo](https://github.com/daangn/stackflow) Mobile-first stack navigator framework with composable plugin system
 - [cmdk-root](https://github.com/pacocoursey/cmdk) Fast, unstyled command menu React component.
+- [mantine](https://github.com/mantinedev/mantine) React components library with native dark theme support
