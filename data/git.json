@@ -4354,5 +4354,29 @@
     "name": "cmdk-root",
     "stars": 4417,
     "description": "Fast, unstyled command menu React component."
+  },
+  "true-myth/true-myth": {
+    "repo": "true-myth",
+    "owner": "true-myth",
+    "topics": [
+      "typescript",
+      "typescript-library",
+      "typescript-definitions",
+      "functional-programming",
+      "javascript",
+      "monads",
+      "functors",
+      "applicatives"
+    ],
+    "size": 5969,
+    "keywords": [
+      "typescript",
+      "functional programming",
+      "maybe",
+      "result"
+    ],
+    "name": "true-myth",
+    "stars": 568,
+    "description": "A library for safer and smarter error- and \"nothing\"-handling in TypeScript."
   }
 }
