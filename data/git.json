@@ -4395,5 +4395,24 @@
     "name": "mantine",
     "stars": 15380,
     "description": "React components library with native dark theme support"
+  },
+  "fosslife/devtools-x": {
+    "repo": "devtools-x",
+    "owner": "fosslife",
+    "topics": [
+      "developer-tools",
+      "devtools",
+      "devtoys",
+      "linux",
+      "macos",
+      "tauri",
+      "windows",
+      "hacktoberfest"
+    ],
+    "size": 3869,
+    "keywords": [],
+    "name": "dev-tools",
+    "stars": 620,
+    "description": "Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!"
   }
 }
