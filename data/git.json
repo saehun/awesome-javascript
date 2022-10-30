@@ -4414,5 +4414,23 @@
     "name": "dev-tools",
     "stars": 620,
     "description": "Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!"
+  },
+  "cancerberoSgx/typescript-plugins-of-mine": {
+    "repo": "typescript-plugins-of-mine",
+    "owner": "cancerberoSgx",
+    "topics": [],
+    "size": 12618,
+    "keywords": [
+      "TypeScript",
+      "TypeScript Language Service",
+      "TypeScript plugin",
+      "TypeScript Compiler",
+      "TypeScript refactor",
+      "source code refactor",
+      "plugin"
+    ],
+    "name": "typescript-plugins-of-mine",
+    "stars": 78,
+    "description": "Research, documentation and finally useful TypeScript Language Service plugins for coe refactoring working on several IDEs / Editors like vscode, sublime and Atom that are very common in other typed languages and IDEs like Java / Eclipse"
   }
 }
