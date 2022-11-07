@@ -3395,7 +3395,7 @@
       "http",
       "client"
     ],
-    "size": 2928,
+    "size": 3981,
     "keywords": [
       "fetch",
       "http",
@@ -3408,7 +3408,7 @@
       "whatwg"
     ],
     "name": "undici",
-    "stars": 3225,
+    "stars": 4328,
     "description": "An HTTP/1.1 client, written from scratch for Node.js"
   },
   "microsoft/griffel": {
