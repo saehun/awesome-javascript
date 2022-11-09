@@ -6,3 +6,4 @@
 - [data-store](https://github.com/jonschlinkert/data-store) Easily get, set and persist config data. Fast. Supports dot-notation in keys. No dependencies.
 - [levelup](https://github.com/Level/levelup) A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
 - [@keyv/mono-repo](https://github.com/jaredwray/keyv) Simple key-value storage with support for multiple backends
+- [nhost-root](https://github.com/nhost/nhost) The Open Source Firebase Alternative with GraphQL.

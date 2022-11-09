@@ -4432,5 +4432,30 @@
     "name": "typescript-plugins-of-mine",
     "stars": 78,
     "description": "Research, documentation and finally useful TypeScript Language Service plugins for coe refactoring working on several IDEs / Editors like vscode, sublime and Atom that are very common in other typed languages and IDEs like Java / Eclipse"
+  },
+  "nhost/nhost": {
+    "repo": "nhost",
+    "owner": "nhost",
+    "topics": [
+      "postgres",
+      "hasura",
+      "graphql",
+      "authentication",
+      "storage",
+      "serverless-functions",
+      "serverless",
+      "database",
+      "backend",
+      "flutter",
+      "nhost",
+      "backend-as-a-service",
+      "hacktoberfest",
+      "hacktoberfest2022"
+    ],
+    "size": 106481,
+    "keywords": [],
+    "name": "nhost-root",
+    "stars": 4946,
+    "description": "The Open Source Firebase Alternative with GraphQL."
   }
 }
