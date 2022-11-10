@@ -4457,5 +4457,21 @@
     "name": "nhost-root",
     "stars": 4946,
     "description": "The Open Source Firebase Alternative with GraphQL."
+  },
+  "pastelsky/bundlephobia": {
+    "repo": "bundlephobia",
+    "owner": "pastelsky",
+    "topics": [
+      "npm-package",
+      "cost",
+      "performance",
+      "dependencies",
+      "webpack"
+    ],
+    "size": 7473,
+    "keywords": [],
+    "name": "bundlephobia",
+    "stars": 7498,
+    "description": "🏋️ Find out the cost of adding a new frontend dependency to your project"
   }
 }

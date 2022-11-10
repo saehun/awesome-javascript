@@ -4,3 +4,4 @@
 - [@builder.io/partytown](https://github.com/BuilderIO/partytown) Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [linkedom](https://github.com/WebReflection/linkedom) A triple-linked lists based DOM implementation.
 - [piscina](https://github.com/piscinajs/piscina) A fast, efficient Node.js Worker Thread Pool implementation
+- [bundlephobia](https://github.com/pastelsky/bundlephobia) 🏋️ Find out the cost of adding a new frontend dependency to your project
