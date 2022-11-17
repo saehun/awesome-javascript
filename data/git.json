@@ -4473,5 +4473,28 @@
     "name": "bundlephobia",
     "stars": 7498,
     "description": "🏋️ Find out the cost of adding a new frontend dependency to your project"
+  },
+  "pmndrs/valtio": {
+    "repo": "valtio",
+    "owner": "pmndrs",
+    "topics": [
+      "react",
+      "state",
+      "mutable",
+      "easy"
+    ],
+    "size": 2837,
+    "keywords": [
+      "react",
+      "state",
+      "manager",
+      "management",
+      "mobx",
+      "proxy",
+      "store"
+    ],
+    "name": "valtio",
+    "stars": 5762,
+    "description": "💊 Valtio makes proxy-state simple  for React and Vanilla"
   }
 }
