@@ -4521,5 +4521,28 @@
     "name": "quickjs-emscripten",
     "stars": 599,
     "description": "Javascript/Typescript bindings for QuickJS, a modern Javascript interpreter written in C by Fabrice Bellard."
+  },
+  "Infisical/infisical": {
+    "repo": "infisical",
+    "owner": "Infisical",
+    "topics": [
+      "cli",
+      "dotenv",
+      "end-to-end-encryption",
+      "environment-variables",
+      "keys",
+      "secret-management",
+      "secrets",
+      "secrets-management",
+      "security",
+      "sync",
+      "infisical",
+      "open-source"
+    ],
+    "size": 14330,
+    "keywords": [],
+    "name": "infisical",
+    "stars": 650,
+    "description": "♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure."
   }
 }

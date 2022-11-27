@@ -6,3 +6,4 @@
 - [linter](https://github.com/withfig/autocomplete) Fig adds autocomplete to your terminal.
 - [release-it](https://github.com/release-it/release-it) 🚀 Automate versioning and package publishing
 - [tasuku](https://github.com/privatenumber/tasuku) ✅ タスク — The minimal task runner for Node.js
+- [infisical](https://github.com/Infisical/infisical) ♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
