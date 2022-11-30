@@ -4544,5 +4544,21 @@
     "name": "infisical",
     "stars": 650,
     "description": "♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure."
+  },
+  "vercel/arg": {
+    "repo": "arg",
+    "owner": "vercel",
+    "topics": [
+      "argument",
+      "parser",
+      "argv",
+      "cli",
+      "command"
+    ],
+    "size": 103,
+    "keywords": [],
+    "name": "arg",
+    "stars": 1103,
+    "description": "Simple argument parsing"
   }
 }
