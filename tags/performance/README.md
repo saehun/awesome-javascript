@@ -5,3 +5,4 @@
 - [linkedom](https://github.com/WebReflection/linkedom) A triple-linked lists based DOM implementation.
 - [piscina](https://github.com/piscinajs/piscina) A fast, efficient Node.js Worker Thread Pool implementation
 - [bundlephobia](https://github.com/pastelsky/bundlephobia) 🏋️ Find out the cost of adding a new frontend dependency to your project
+- [msgpackr](https://github.com/kriszyp/msgpackr) Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]

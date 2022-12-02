@@ -4580,5 +4580,21 @@
     "name": "msgpack-lite",
     "stars": 938,
     "description": "Fast Pure JavaScript MessagePack Encoder and Decoder / msgpack.org[JavaScript]"
+  },
+  "kriszyp/msgpackr": {
+    "repo": "msgpackr",
+    "owner": "kriszyp",
+    "topics": [],
+    "size": 877,
+    "keywords": [
+      "MessagePack",
+      "msgpack",
+      "performance",
+      "structured",
+      "clone"
+    ],
+    "name": "msgpackr",
+    "stars": 272,
+    "description": "Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]"
   }
 }
