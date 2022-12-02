@@ -4560,5 +4560,25 @@
     "name": "arg",
     "stars": 1103,
     "description": "Simple argument parsing"
+  },
+  "kawanet/msgpack-lite": {
+    "repo": "msgpack-lite",
+    "owner": "kawanet",
+    "topics": [],
+    "size": 481,
+    "keywords": [
+      "arraybuffer",
+      "buffer",
+      "fluentd",
+      "messagepack",
+      "msgpack",
+      "serialize",
+      "stream",
+      "typedarray",
+      "uint8array"
+    ],
+    "name": "msgpack-lite",
+    "stars": 938,
+    "description": "Fast Pure JavaScript MessagePack Encoder and Decoder / msgpack.org[JavaScript]"
   }
 }
