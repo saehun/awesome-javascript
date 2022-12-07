@@ -1102,13 +1102,16 @@
       "bash",
       "fish",
       "iterm2",
-      "cli"
+      "cli",
+      "typescript",
+      "fig",
+      "hacktoberfest"
     ],
-    "size": 12923,
+    "size": 22904,
     "keywords": [],
-    "name": "linter",
-    "stars": 2149,
-    "description": "Fig adds autocomplete to your terminal."
+    "name": "@withfig/autocomplete",
+    "stars": 20800,
+    "description": "IDE-style autocomplete for your existing terminal & shell"
   },
   "avoidwork/tiny-lru": {
     "repo": "tiny-lru",
