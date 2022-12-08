@@ -4650,5 +4650,21 @@
     "name": "slack-block-builder",
     "stars": 366,
     "description": "Lightweight Node.js library for building Slack Block Kit UIs, with a declarative syntax inspired by SwiftUI."
+  },
+  "stacktracejs/stacktrace-gps": {
+    "repo": "stacktrace-gps",
+    "owner": "stacktracejs",
+    "topics": [
+      "stacktracejs"
+    ],
+    "size": 9041,
+    "keywords": [
+      "stacktrace",
+      "error",
+      "debugger"
+    ],
+    "name": "stacktrace-gps",
+    "stars": 103,
+    "description": "Turns partial code location into precise code location"
   }
 }
