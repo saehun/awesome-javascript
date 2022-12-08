@@ -1,5 +1,4 @@
-## logging
+## trace
 
-- [debug](https://github.com/visionmedia/debug) A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [stacktracey](https://github.com/xpl/stacktracey) Parses call stacks. Reads sources. Clean & filtered output. Sourcemaps. Node & browsers.
 - [elastic-apm-node](https://github.com/elastic/apm-agent-nodejs) Elastic APM Node.js Agent

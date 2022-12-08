@@ -4666,5 +4666,51 @@
     "name": "stacktrace-gps",
     "stars": 103,
     "description": "Turns partial code location into precise code location"
+  },
+  "elastic/apm-agent-nodejs": {
+    "repo": "apm-agent-nodejs",
+    "owner": "elastic",
+    "topics": [
+      "apm",
+      "performance-monitoring",
+      "error-monitoring",
+      "nodejs",
+      "devops",
+      "performance-metrics",
+      "tracing",
+      "distributed-tracing"
+    ],
+    "size": 9295,
+    "keywords": [
+      "opbeat",
+      "elastic",
+      "elasticapm",
+      "elasticsearch",
+      "log",
+      "logging",
+      "bug",
+      "bugs",
+      "error",
+      "errors",
+      "exception",
+      "exceptions",
+      "catch",
+      "monitor",
+      "monitoring",
+      "alert",
+      "alerts",
+      "performance",
+      "apm",
+      "ops",
+      "devops",
+      "stacktrace",
+      "trace",
+      "tracing",
+      "distributedtracing",
+      "distributed-tracing"
+    ],
+    "name": "elastic-apm-node",
+    "stars": 532,
+    "description": "Elastic APM Node.js Agent"
   }
 }
