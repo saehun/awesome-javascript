@@ -4744,5 +4744,33 @@
     "name": "envsafe",
     "stars": 645,
     "description": "🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables."
+  },
+  "tanstack/router": {
+    "repo": "router",
+    "owner": "tanstack",
+    "topics": [
+      "react",
+      "router",
+      "routing",
+      "javascript",
+      "location",
+      "params",
+      "searchparams",
+      "search",
+      "url",
+      "route",
+      "preact",
+      "solid",
+      "vue",
+      "svelte",
+      "typesafe",
+      "typescript",
+      "state-management"
+    ],
+    "size": 6036,
+    "keywords": [],
+    "name": "router",
+    "stars": 3951,
+    "description": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular"
   }
 }

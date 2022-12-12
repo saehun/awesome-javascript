@@ -14,3 +14,4 @@
 - [valtio](https://github.com/pmndrs/valtio) 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.
 - [envsafe](https://github.com/KATT/envsafe) 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
+- [router](https://github.com/tanstack/router) 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
