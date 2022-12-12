@@ -12,3 +12,4 @@
 - [cmdk-root](https://github.com/pacocoursey/cmdk) Fast, unstyled command menu React component.
 - [mantine](https://github.com/mantinedev/mantine) React components library with native dark theme support
 - [valtio](https://github.com/pmndrs/valtio) 💊 Valtio makes proxy-state simple  for React and Vanilla
+- [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.

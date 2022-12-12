@@ -4712,5 +4712,22 @@
     "name": "elastic-apm-node",
     "stars": 532,
     "description": "Elastic APM Node.js Agent"
+  },
+  "trpc/trpc": {
+    "repo": "trpc",
+    "owner": "trpc",
+    "topics": [
+      "typescript",
+      "api",
+      "nextjs",
+      "prisma",
+      "next",
+      "react"
+    ],
+    "size": 24124,
+    "keywords": [],
+    "name": "root",
+    "stars": 16900,
+    "description": "🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. "
   }
 }
