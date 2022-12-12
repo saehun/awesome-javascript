@@ -4729,5 +4729,20 @@
     "name": "root",
     "stars": 16900,
     "description": "🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. "
+  },
+  "KATT/envsafe": {
+    "repo": "envsafe",
+    "owner": "KATT",
+    "topics": [
+      "environment-variables",
+      "env",
+      "nodejs",
+      "react"
+    ],
+    "size": 785,
+    "keywords": [],
+    "name": "envsafe",
+    "stars": 645,
+    "description": "🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables."
   }
 }
