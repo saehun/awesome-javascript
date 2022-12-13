@@ -4792,5 +4792,23 @@
     "name": "@fast-check/monorepo",
     "stars": 3333,
     "description": "Property based testing framework for JavaScript (like QuickCheck) written in TypeScript"
+  },
+  "refined-github/refined-github": {
+    "repo": "refined-github",
+    "owner": "refined-github",
+    "topics": [
+      "chrome-extension",
+      "github",
+      "github-extension",
+      "userstyle",
+      "firefox-addon",
+      "browser-extension",
+      "safari-extension"
+    ],
+    "size": 20840,
+    "keywords": [],
+    "name": "refined-github",
+    "stars": 19666,
+    "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features"
   }
 }
