@@ -4810,5 +4810,19 @@
     "name": "refined-github",
     "stars": 19666,
     "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features"
+  },
+  "keithamus/sort-package-json": {
+    "repo": "sort-package-json",
+    "owner": "keithamus",
+    "topics": [],
+    "size": 1197,
+    "keywords": [
+      "keys",
+      "object",
+      "sort"
+    ],
+    "name": "sort-package-json",
+    "stars": 602,
+    "description": "Sort an Object or package.json based on the well-known package.json keys"
   }
 }
