@@ -4772,5 +4772,25 @@
     "name": "router",
     "stars": 3951,
     "description": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular"
+  },
+  "dubzzz/fast-check": {
+    "repo": "fast-check",
+    "owner": "dubzzz",
+    "topics": [
+      "property-based-testing",
+      "quickcheck",
+      "typescript",
+      "testing",
+      "generative-testing",
+      "unit-testing",
+      "tdd",
+      "fuzzing",
+      "faker"
+    ],
+    "size": 71653,
+    "keywords": [],
+    "name": "@fast-check/monorepo",
+    "stars": 3333,
+    "description": "Property based testing framework for JavaScript (like QuickCheck) written in TypeScript"
   }
 }
