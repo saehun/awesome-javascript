@@ -14,6 +14,8 @@
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome NodeJS](https://github.com/sindresorhus/awesome-nodejs) - Delightful Node.js packages and resources
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [Awesome TypeScript](https://github.com/dzharii/awesome-typescript)
 
 ## Packages
 - [bull](https://github.com/OptimalBits/bull) Premium Queue package for handling distributed jobs and messages in NodeJS.
@@ -32,7 +34,7 @@
 - [traverse](https://github.com/substack/js-traverse) Traverse and transform objects by visiting every node on a recursive walk.
 - [ast-query](https://github.com/SBoudrias/AST-query) Tentative to a simple JavaScript AST modification library
 - [update-notifier](https://github.com/yeoman/update-notifier) Update notifications for your CLI app
-- [linkinator](https://github.com/JustinBeckwith/linkinator) 🐿 Scurry around your site and find all those broken links. 
+- [linkinator](https://github.com/JustinBeckwith/linkinator) 🐿 Scurry around your site and find all those broken links.
 - [foreground-child](https://github.com/tapjs/foreground-child) Run a child as if it's the foreground process.  Give it stdio.  Exit when it exits.
 - [before-after-hook](https://github.com/gr2m/before-after-hook) wrap methods with before/after hooks
 - [agent-base](https://github.com/TooTallNate/node-agent-base) Turn a function into an `http.Agent` instance
@@ -153,7 +155,7 @@
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern) 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [skia-canvas](https://github.com/samizdatco/skia-canvas) A canvas environment for Node.js
 - [recast](https://github.com/benjamn/recast) JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
-- [type-level-typescript-workshop](https://github.com/gvergnaud/type-level-typescript-workshop) 
+- [type-level-typescript-workshop](https://github.com/gvergnaud/type-level-typescript-workshop)
 - [wireit](https://github.com/google/wireit) Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [generic-pool](https://github.com/coopernurse/node-pool) Generic resource pooling for node.js
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) A mutex for synchronizing async workflows in Javascript
@@ -175,7 +177,7 @@
 - [node-ipc](https://github.com/RIAEvangelist/node-ipc) Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [umbrella](https://github.com/thi-ng/umbrella) ⛱  Broadly scoped ecosystem & mono-repository of 169+ TypeScript projects for functional, data driven development
 - [awesome-typescript-ecosystem](https://github.com/madou/awesome-typescript-ecosystem) 😎 A list of awesome TypeScript transformers, plugins, handbooks, etc
-- [typescript-transformer-handbook](https://github.com/madou/typescript-transformer-handbook) 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples 
+- [typescript-transformer-handbook](https://github.com/madou/typescript-transformer-handbook) 📘 A comprehensive handbook on how to create transformers for TypeScript with code examples
 - [tstooltip](https://github.com/nwolverson/tstooltip) TypeScript tooltips using ts compiler in the browser
 - [cmdk-root](https://github.com/pacocoursey/cmdk) Fast, unstyled command menu React component.
 - [true-myth](https://github.com/true-myth/true-myth) A library for safer and smarter error- and "nothing"-handling in TypeScript.
