@@ -4824,5 +4824,15 @@
     "name": "sort-package-json",
     "stars": 602,
     "description": "Sort an Object or package.json based on the well-known package.json keys"
+  },
+  "EverlastingBugstopper/binary-install": {
+    "repo": "binary-install",
+    "owner": "EverlastingBugstopper",
+    "topics": [],
+    "size": 3607,
+    "keywords": [],
+    "name": "root",
+    "stars": 21,
+    "description": "Install binary applications via npm"
   }
 }
