@@ -8,3 +8,4 @@
 - [tasuku](https://github.com/privatenumber/tasuku) ✅ タスク — The minimal task runner for Node.js
 - [infisical](https://github.com/Infisical/infisical) ♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
 - [arg](https://github.com/vercel/arg) Simple argument parsing
+- [progress](https://github.com/visionmedia/node-progress) Flexible ascii progress bar for nodejs

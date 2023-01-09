@@ -4854,5 +4854,18 @@
     "name": "fengari",
     "stars": 1585,
     "description": "🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser"
+  },
+  "visionmedia/node-progress": {
+    "repo": "node-progress",
+    "owner": "visionmedia",
+    "topics": [],
+    "size": 136,
+    "keywords": [
+      "cli",
+      "progress"
+    ],
+    "name": "progress",
+    "stars": 2843,
+    "description": "Flexible ascii progress bar for nodejs"
   }
 }
