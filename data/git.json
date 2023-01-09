@@ -4834,5 +4834,25 @@
     "name": "root",
     "stars": 21,
     "description": "Install binary applications via npm"
+  },
+  "fengari-lua/fengari": {
+    "repo": "fengari",
+    "owner": "fengari-lua",
+    "topics": [
+      "lua",
+      "javascript",
+      "es6",
+      "vm",
+      "fengari",
+      "lua-vm"
+    ],
+    "size": 2950,
+    "keywords": [
+      "lua",
+      "vm"
+    ],
+    "name": "fengari",
+    "stars": 1585,
+    "description": "🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser"
   }
 }
