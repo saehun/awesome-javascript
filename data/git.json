@@ -4948,5 +4948,21 @@
     "name": "klona",
     "stars": 1275,
     "description": "A tiny (240B to 501B) and fast utility to \"deep clone\" Objects, Arrays, Dates, RegExps, and more!"
+  },
+  "lukeed/uvu": {
+    "repo": "uvu",
+    "owner": "lukeed",
+    "topics": [],
+    "size": 311,
+    "keywords": [
+      "assert",
+      "diffs",
+      "runner",
+      "snapshot",
+      "test"
+    ],
+    "name": "uvu",
+    "stars": 2676,
+    "description": "uvu is an extremely fast and lightweight test runner for Node.js and the browser"
   }
 }
