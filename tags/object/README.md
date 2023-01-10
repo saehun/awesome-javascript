@@ -12,3 +12,4 @@
 - [sort-package-json](https://github.com/keithamus/sort-package-json) Sort an Object or package.json based on the well-known package.json keys
 - [dset](https://github.com/lukeed/dset) A tiny (194B) utility for safely writing deep Object values~!
 - [dlv](https://github.com/developit/dlv) Safe deep property access in 120 bytes. x = dlv(obj, 'a.b.x')
+- [klona](https://github.com/lukeed/klona) A tiny (240B to 501B) and fast utility to "deep clone" Objects, Arrays, Dates, RegExps, and more!

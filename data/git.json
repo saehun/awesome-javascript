@@ -4931,5 +4931,22 @@
     "name": "dlv",
     "stars": 1179,
     "description": "Safe deep property access in 120 bytes. x = dlv(obj, 'a.b.x')"
+  },
+  "lukeed/klona": {
+    "repo": "klona",
+    "owner": "lukeed",
+    "topics": [],
+    "size": 90,
+    "keywords": [
+      "clone",
+      "copy",
+      "deep",
+      "extend",
+      "recursive",
+      "object"
+    ],
+    "name": "klona",
+    "stars": 1275,
+    "description": "A tiny (240B to 501B) and fast utility to \"deep clone\" Objects, Arrays, Dates, RegExps, and more!"
   }
 }
