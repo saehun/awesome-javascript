@@ -4964,5 +4964,19 @@
     "name": "uvu",
     "stars": 2676,
     "description": "uvu is an extremely fast and lightweight test runner for Node.js and the browser"
+  },
+  "lukeed/trouter": {
+    "repo": "trouter",
+    "owner": "lukeed",
+    "topics": [],
+    "size": 56,
+    "keywords": [
+      "route",
+      "router",
+      "routing"
+    ],
+    "name": "trouter",
+    "stars": 547,
+    "description": ":fish: A fast, small-but-mighty, familiar fish...errr, router*"
   }
 }
