@@ -4978,5 +4978,15 @@
     "name": "trouter",
     "stars": 547,
     "description": ":fish: A fast, small-but-mighty, familiar fish...errr, router*"
+  },
+  "kanaka/raft.js": {
+    "repo": "raft.js",
+    "owner": "kanaka",
+    "topics": [],
+    "size": 19241,
+    "keywords": [],
+    "name": "raftjs",
+    "stars": 310,
+    "description": "Raft.js is an implementation of the Raft consensus algorithm in JavaScript."
   }
 }
