@@ -4912,5 +4912,24 @@
     "name": "clean-set",
     "stars": 173,
     "description": "A deep assignment alternative to the object spread operator and Object.assign"
+  },
+  "developit/dlv": {
+    "repo": "dlv",
+    "owner": "developit",
+    "topics": [
+      "object",
+      "javascript",
+      "key",
+      "dlv"
+    ],
+    "size": 26,
+    "keywords": [
+      "delve",
+      "dot notation",
+      "dot"
+    ],
+    "name": "dlv",
+    "stars": 1179,
+    "description": "Safe deep property access in 120 bytes. x = dlv(obj, 'a.b.x')"
   }
 }
