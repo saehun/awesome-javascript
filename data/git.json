@@ -4902,5 +4902,15 @@
     "name": "dset",
     "stars": 712,
     "description": "A tiny (194B) utility for safely writing deep Object values~!"
+  },
+  "fwilkerson/clean-set": {
+    "repo": "clean-set",
+    "owner": "fwilkerson",
+    "topics": [],
+    "size": 902,
+    "keywords": [],
+    "name": "clean-set",
+    "stars": 173,
+    "description": "A deep assignment alternative to the object spread operator and Object.assign"
   }
 }
