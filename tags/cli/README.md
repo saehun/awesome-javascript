@@ -9,3 +9,4 @@
 - [infisical](https://github.com/Infisical/infisical) ♾ Infisical is an open-source, E2EE tool to sync environment variables across your team and infrastructure.
 - [arg](https://github.com/vercel/arg) Simple argument parsing
 - [progress](https://github.com/visionmedia/node-progress) Flexible ascii progress bar for nodejs
+- [cli-truncate](https://github.com/sindresorhus/cli-truncate) Truncate a string to a specific width in the terminal

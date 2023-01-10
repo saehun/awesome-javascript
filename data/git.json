@@ -4988,5 +4988,28 @@
     "name": "raftjs",
     "stars": 310,
     "description": "Raft.js is an implementation of the Raft consensus algorithm in JavaScript."
+  },
+  "sindresorhus/cli-truncate": {
+    "repo": "cli-truncate",
+    "owner": "sindresorhus",
+    "topics": [],
+    "size": 28,
+    "keywords": [
+      "truncate",
+      "ellipsis",
+      "text",
+      "limit",
+      "slice",
+      "cli",
+      "terminal",
+      "term",
+      "shell",
+      "width",
+      "ansi",
+      "string"
+    ],
+    "name": "cli-truncate",
+    "stars": 79,
+    "description": "Truncate a string to a specific width in the terminal"
   }
 }
