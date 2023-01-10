@@ -10,3 +10,4 @@
 - [superstruct](https://github.com/ianstormtaylor/superstruct) A simple and composable way to validate data in JavaScript (and TypeScript).
 - [object-treeify](https://github.com/blackflux/object-treeify) Stringify Object as tree structure
 - [sort-package-json](https://github.com/keithamus/sort-package-json) Sort an Object or package.json based on the well-known package.json keys
+- [dset](https://github.com/lukeed/dset) A tiny (194B) utility for safely writing deep Object values~!

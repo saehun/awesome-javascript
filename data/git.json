@@ -4884,5 +4884,23 @@
     "name": "ebnf",
     "stars": 84,
     "description": "Create AST PEG Parsers from formal grammars in JavaScript"
+  },
+  "lukeed/dset": {
+    "repo": "dset",
+    "owner": "lukeed",
+    "topics": [],
+    "size": 51,
+    "keywords": [
+      "deepset",
+      "values",
+      "object",
+      "write",
+      "deep",
+      "safe",
+      "set"
+    ],
+    "name": "dset",
+    "stars": 712,
+    "description": "A tiny (194B) utility for safely writing deep Object values~!"
   }
 }
