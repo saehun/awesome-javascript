@@ -4867,5 +4867,22 @@
     "name": "progress",
     "stars": 2843,
     "description": "Flexible ascii progress bar for nodejs"
+  },
+  "lys-lang/node-ebnf": {
+    "repo": "node-ebnf",
+    "owner": "lys-lang",
+    "topics": [],
+    "size": 476,
+    "keywords": [
+      "EBNF",
+      "AST",
+      "Parser",
+      "Grammar",
+      "Lexer",
+      "Syntax"
+    ],
+    "name": "ebnf",
+    "stars": 84,
+    "description": "Create AST PEG Parsers from formal grammars in JavaScript"
   }
 }
