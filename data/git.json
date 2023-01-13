@@ -5011,5 +5011,26 @@
     "name": "cli-truncate",
     "stars": 79,
     "description": "Truncate a string to a specific width in the terminal"
+  },
+  "ayonious/console-table-printer": {
+    "repo": "console-table-printer",
+    "owner": "ayonious",
+    "topics": [
+      "console",
+      "tables",
+      "consolelog",
+      "opensource",
+      "opensource-library"
+    ],
+    "size": 2042,
+    "keywords": [
+      "console-table",
+      "console-log",
+      "print-table",
+      "node-table-printing"
+    ],
+    "name": "console-table-printer",
+    "stars": 122,
+    "description": "🖥️  🍭 Printing Pretty Tables on your console"
   }
 }
