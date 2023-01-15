@@ -5032,5 +5032,15 @@
     "name": "console-table-printer",
     "stars": 122,
     "description": "🖥️  🍭 Printing Pretty Tables on your console"
+  },
+  "egoist/tsup": {
+    "repo": "tsup",
+    "owner": "egoist",
+    "topics": [],
+    "size": 1609,
+    "keywords": [],
+    "name": "tsup",
+    "stars": 4321,
+    "description": "The simplest and fastest way to bundle your TypeScript libraries."
   }
 }
