@@ -5059,5 +5059,25 @@
     "name": "ts-patch",
     "stars": 312,
     "description": "Augment the TypeScript compiler to support extended functionality"
+  },
+  "GoogleFeud/ts-runtime-checks": {
+    "repo": "ts-runtime-checks",
+    "owner": "GoogleFeud",
+    "topics": [
+      "typescript",
+      "runtime",
+      "validation",
+      "transformer"
+    ],
+    "size": 1453,
+    "keywords": [
+      "typescript",
+      "typecheck",
+      "runtime",
+      "check"
+    ],
+    "name": "ts-runtime-checks",
+    "stars": 27,
+    "description": "A typescript transformer which automatically generates validation code from your types."
   }
 }

@@ -8,3 +8,4 @@
 - [io-ts](https://github.com/gcanti/io-ts) Runtime type system for IO decoding/encoding
 - [runtypes](https://github.com/pelotom/runtypes) Runtime validation for static types
 - [zod](https://github.com/colinhacks/zod) TypeScript-first schema validation with static type inference
+- [ts-runtime-checks](https://github.com/GoogleFeud/ts-runtime-checks) A typescript transformer which automatically generates validation code from your types.
