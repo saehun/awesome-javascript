@@ -5,3 +5,4 @@
 - [eval-estree-expression](https://github.com/jonschlinkert/eval-estree-expression) Safely evaluate JavaScript (estree) expressions, sync and async.
 - [recast](https://github.com/benjamn/recast) JavaScript syntax tree transformer, nondestructive pretty-printer, and automatic source map generator
 - [ebnf](https://github.com/lys-lang/node-ebnf) Create AST PEG Parsers from formal grammars in JavaScript
+- [ts-patch](https://github.com/nonara/ts-patch) Augment the TypeScript compiler to support extended functionality

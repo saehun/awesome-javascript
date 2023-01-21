@@ -5042,5 +5042,22 @@
     "name": "tsup",
     "stars": 4321,
     "description": "The simplest and fastest way to bundle your TypeScript libraries."
+  },
+  "nonara/ts-patch": {
+    "repo": "ts-patch",
+    "owner": "nonara",
+    "topics": [],
+    "size": 712,
+    "keywords": [
+      "typescript",
+      "transform",
+      "transformer",
+      "plugin",
+      "config",
+      "ast"
+    ],
+    "name": "ts-patch",
+    "stars": 312,
+    "description": "Augment the TypeScript compiler to support extended functionality"
   }
 }
