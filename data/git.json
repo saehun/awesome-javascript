@@ -5079,5 +5079,23 @@
     "name": "ts-runtime-checks",
     "stars": 27,
     "description": "A typescript transformer which automatically generates validation code from your types."
+  },
+  "UselessPickles/ts-enum-util": {
+    "repo": "ts-enum-util",
+    "owner": "UselessPickles",
+    "topics": [],
+    "size": 1830,
+    "keywords": [
+      "typescript",
+      "string",
+      "number",
+      "literal",
+      "union",
+      "enum",
+      "util"
+    ],
+    "name": "ts-enum-util",
+    "stars": 219,
+    "description": "Strictly typed utilities for working with TypeScript enums"
   }
 }

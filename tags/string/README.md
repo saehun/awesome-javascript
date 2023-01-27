@@ -5,3 +5,4 @@
 - [he](https://github.com/mathiasbynens/he) A robust HTML entity encoder/decoder written in JavaScript.
 - [object-treeify](https://github.com/blackflux/object-treeify) Stringify Object as tree structure
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) Truncate a string to a specific width in the terminal
+- [ts-enum-util](https://github.com/UselessPickles/ts-enum-util) Strictly typed utilities for working with TypeScript enums

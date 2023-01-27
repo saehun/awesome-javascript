@@ -5,3 +5,4 @@
 - [globby](https://github.com/sindresorhus/globby) User-friendly glob matching
 - [ms](https://github.com/vercel/ms) Tiny millisecond conversion utility
 - [ts-prune](https://github.com/nadeesha/ts-prune) Find unused exports in a typescript project. 🛀
+- [ts-enum-util](https://github.com/UselessPickles/ts-enum-util) Strictly typed utilities for working with TypeScript enums
