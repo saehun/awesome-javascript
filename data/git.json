@@ -5097,5 +5097,27 @@
     "name": "ts-enum-util",
     "stars": 219,
     "description": "Strictly typed utilities for working with TypeScript enums"
+  },
+  "koskimas/kysely": {
+    "repo": "kysely",
+    "owner": "koskimas",
+    "topics": [
+      "typescript",
+      "database",
+      "postgresql",
+      "mysql",
+      "sqlite",
+      "query-builder",
+      "type-safe",
+      "sql",
+      "nodejs",
+      "deno",
+      "browser"
+    ],
+    "size": 41799,
+    "keywords": [],
+    "name": "kysely",
+    "stars": 3328,
+    "description": "A type-safe typescript SQL query builder"
   }
 }
