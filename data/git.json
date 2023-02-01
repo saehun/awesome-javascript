@@ -5150,5 +5150,23 @@
     "name": "n8n",
     "stars": 27977,
     "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services."
+  },
+  "automatisch/automatisch": {
+    "repo": "automatisch",
+    "owner": "automatisch",
+    "topics": [
+      "automation",
+      "workflow",
+      "open-source",
+      "self-hosted",
+      "low-code",
+      "no-code",
+      "automatisch"
+    ],
+    "size": 6920,
+    "keywords": [],
+    "name": "@automatisch/root",
+    "stars": 1567,
+    "description": "The open source Zapier alternative. Build workflow automation without spending time and money."
   }
 }
