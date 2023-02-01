@@ -5119,5 +5119,36 @@
     "name": "kysely",
     "stars": 3328,
     "description": "A type-safe typescript SQL query builder"
+  },
+  "n8n-io/n8n": {
+    "repo": "n8n",
+    "owner": "n8n-io",
+    "topics": [
+      "automation",
+      "automated",
+      "iaas",
+      "ipaas",
+      "n8n",
+      "workflow",
+      "typescript",
+      "node",
+      "self-hosted",
+      "integrations",
+      "workflow-automation",
+      "cli",
+      "development",
+      "docker",
+      "low-code",
+      "low-code-development-platform",
+      "data-flow",
+      "integration-framework",
+      "apis",
+      "low-code-platform"
+    ],
+    "size": 122205,
+    "keywords": [],
+    "name": "n8n",
+    "stars": 27977,
+    "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services."
   }
 }
