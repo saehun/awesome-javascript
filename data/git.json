@@ -5168,5 +5168,23 @@
     "name": "@automatisch/root",
     "stars": 1567,
     "description": "The open source Zapier alternative. Build workflow automation without spending time and money."
+  },
+  "alasql/alasql": {
+    "repo": "alasql",
+    "owner": "alasql",
+    "topics": [],
+    "size": 93483,
+    "keywords": [
+      "SQL",
+      "javascript",
+      "database",
+      "Excel",
+      "XLSX",
+      "XLS",
+      "CSV"
+    ],
+    "name": "alasql",
+    "stars": 6367,
+    "description": "AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel."
   }
 }
