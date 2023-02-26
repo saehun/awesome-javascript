@@ -5186,5 +5186,29 @@
     "name": "alasql",
     "stars": 6367,
     "description": "AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel."
+  },
+  "quicktype/quicktype": {
+    "repo": "quicktype",
+    "owner": "quicktype",
+    "topics": [
+      "json",
+      "typescript",
+      "json-schema",
+      "elm",
+      "java",
+      "swift",
+      "graphql",
+      "csharp",
+      "cplusplus",
+      "golang",
+      "objective-c",
+      "rust",
+      "kotlin"
+    ],
+    "size": 12681,
+    "keywords": [],
+    "name": "quicktype",
+    "stars": 9413,
+    "description": "Generate types and converters from JSON, Schema, and GraphQL"
   }
 }
