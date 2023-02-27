@@ -5210,5 +5210,25 @@
     "name": "quicktype",
     "stars": 9413,
     "description": "Generate types and converters from JSON, Schema, and GraphQL"
+  },
+  "triggerdotdev/jsonhero-web": {
+    "repo": "jsonhero-web",
+    "owner": "triggerdotdev",
+    "topics": [
+      "json",
+      "developer-tools",
+      "tools",
+      "viewer",
+      "devtools",
+      "json-viewer",
+      "react",
+      "typescript",
+      "hacktoberfest"
+    ],
+    "size": 58526,
+    "keywords": [],
+    "name": "@jsonhero/jsonhero-web",
+    "stars": 7433,
+    "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀"
   }
 }
