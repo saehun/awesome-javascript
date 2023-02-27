@@ -16,3 +16,4 @@
 - [envsafe](https://github.com/KATT/envsafe) 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
 - [router](https://github.com/tanstack/router) 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [@jsonhero/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [kbar](https://github.com/timc1/kbar) fast, portable, and extensible cmd+k interface for your site

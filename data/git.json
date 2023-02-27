@@ -5230,5 +5230,25 @@
     "name": "@jsonhero/jsonhero-web",
     "stars": 7433,
     "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀"
+  },
+  "timc1/kbar": {
+    "repo": "kbar",
+    "owner": "timc1",
+    "topics": [
+      "react",
+      "javascript",
+      "typescript",
+      "hooks",
+      "shortcuts",
+      "command-palette"
+    ],
+    "size": 867,
+    "keywords": [
+      "command bar",
+      "search"
+    ],
+    "name": "kbar",
+    "stars": 3811,
+    "description": "fast, portable, and extensible cmd+k interface for your site"
   }
 }
