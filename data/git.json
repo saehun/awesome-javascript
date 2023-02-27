@@ -5250,5 +5250,15 @@
     "name": "kbar",
     "stars": 3811,
     "description": "fast, portable, and extensible cmd+k interface for your site"
+  },
+  "drifting-in-space/driftdb": {
+    "repo": "driftdb",
+    "owner": "drifting-in-space",
+    "topics": [],
+    "size": 9459,
+    "keywords": [],
+    "name": "driftdb-workspace",
+    "stars": 812,
+    "description": "A real-time data backend for browser-based applications."
   }
 }
