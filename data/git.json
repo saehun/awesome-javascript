@@ -5311,5 +5311,20 @@
     "name": "superjson",
     "stars": 2275,
     "description": "Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more."
+  },
+  "macstr1k3r/trpc-nestjs-adapter": {
+    "repo": "trpc-nestjs-adapter",
+    "owner": "macstr1k3r",
+    "topics": [],
+    "size": 110,
+    "keywords": [
+      "nestjs",
+      "nest",
+      "trpc",
+      "adapter"
+    ],
+    "name": "trpc-nestjs-adapter",
+    "stars": 41,
+    "description": "An adapter, allowing you to use TRPC inside of Nest.JS"
   }
 }
