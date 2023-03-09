@@ -5274,5 +5274,26 @@
     "name": "@danielx/civet",
     "stars": 804,
     "description": "The modern way to write TypeScript"
+  },
+  "jlalmes/trpc-openapi": {
+    "repo": "trpc-openapi",
+    "owner": "jlalmes",
+    "topics": [
+      "openapi",
+      "swagger",
+      "trpc",
+      "nodejs",
+      "rest",
+      "typescript"
+    ],
+    "size": 8584,
+    "keywords": [
+      "trpc",
+      "openapi",
+      "swagger"
+    ],
+    "name": "trpc-openapi",
+    "stars": 1105,
+    "description": "OpenAPI support for tRPC 🧩"
   }
 }
