@@ -5295,5 +5295,21 @@
     "name": "trpc-openapi",
     "stars": 1105,
     "description": "OpenAPI support for tRPC 🧩"
+  },
+  "blitz-js/superjson": {
+    "repo": "superjson",
+    "owner": "blitz-js",
+    "topics": [
+      "superjson",
+      "javascript",
+      "json",
+      "blitzjs",
+      "hacktoberfest"
+    ],
+    "size": 907,
+    "keywords": [],
+    "name": "superjson",
+    "stars": 2275,
+    "description": "Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more."
   }
 }

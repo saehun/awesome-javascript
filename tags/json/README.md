@@ -9,3 +9,4 @@
 - [typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
 - [quicktype](https://github.com/quicktype/quicktype) Generate types and converters from JSON, Schema, and GraphQL
 - [@jsonhero/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
+- [superjson](https://github.com/blitz-js/superjson) Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
