@@ -5260,5 +5260,19 @@
     "name": "driftdb-workspace",
     "stars": 812,
     "description": "A real-time data backend for browser-based applications."
+  },
+  "DanielXMoore/Civet": {
+    "repo": "Civet",
+    "owner": "DanielXMoore",
+    "topics": [
+      "coffeescript",
+      "javascript",
+      "typescript"
+    ],
+    "size": 2675,
+    "keywords": [],
+    "name": "@danielx/civet",
+    "stars": 804,
+    "description": "The modern way to write TypeScript"
   }
 }
