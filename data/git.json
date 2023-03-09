@@ -5326,5 +5326,15 @@
     "name": "trpc-nestjs-adapter",
     "stars": 41,
     "description": "An adapter, allowing you to use TRPC inside of Nest.JS"
+  },
+  "Rich-Harris/devalue": {
+    "repo": "devalue",
+    "owner": "Rich-Harris",
+    "topics": [],
+    "size": 118,
+    "keywords": [],
+    "name": "devalue",
+    "stars": 1464,
+    "description": "Gets the job done when JSON.stringify can't"
   }
 }
