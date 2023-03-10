@@ -4,3 +4,4 @@
 - [update-notifier](https://github.com/yeoman/update-notifier) Update notifications for your CLI app
 - [release-it](https://github.com/release-it/release-it) 🚀 Automate versioning and package publishing
 - [npm-ts-workspaces-example](https://github.com/Quramy/npm-ts-workspaces-example) Monorepos example project using npm workspaces and TypeScript project references
+- [tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development

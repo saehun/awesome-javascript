@@ -17,3 +17,4 @@
 - [router](https://github.com/tanstack/router) 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [@jsonhero/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [kbar](https://github.com/timc1/kbar) fast, portable, and extensible cmd+k interface for your site
+- [tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development
