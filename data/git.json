@@ -5362,5 +5362,20 @@
     "name": "listr",
     "stars": 3133,
     "description": "Terminal task list"
+  },
+  "infinitered/gluegun": {
+    "repo": "gluegun",
+    "owner": "infinitered",
+    "topics": [
+      "cli",
+      "javascript",
+      "toolkit",
+      "nodejs"
+    ],
+    "size": 3132,
+    "keywords": [],
+    "name": "gluegun",
+    "stars": 2627,
+    "description": "A delightful toolkit for building TypeScript-powered command-line apps."
   }
 }
