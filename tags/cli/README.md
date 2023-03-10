@@ -11,3 +11,4 @@
 - [progress](https://github.com/visionmedia/node-progress) Flexible ascii progress bar for nodejs
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) Truncate a string to a specific width in the terminal
 - [n8n](https://github.com/n8n-io/n8n) Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [listr](https://github.com/SamVerschueren/listr) Terminal task list

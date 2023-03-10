@@ -5336,5 +5336,31 @@
     "name": "devalue",
     "stars": 1464,
     "description": "Gets the job done when JSON.stringify can't"
+  },
+  "SamVerschueren/listr": {
+    "repo": "listr",
+    "owner": "SamVerschueren",
+    "topics": [],
+    "size": 805,
+    "keywords": [
+      "cli",
+      "task",
+      "list",
+      "tasklist",
+      "terminal",
+      "term",
+      "console",
+      "ascii",
+      "unicode",
+      "loading",
+      "indicator",
+      "progress",
+      "busy",
+      "wait",
+      "idle"
+    ],
+    "name": "listr",
+    "stars": 3133,
+    "description": "Terminal task list"
   }
 }
