@@ -5402,5 +5402,17 @@
     "name": "tsdx",
     "stars": 10610,
     "description": "Zero-config CLI for TypeScript package development"
+  },
+  "npm/node-which": {
+    "repo": "node-which",
+    "owner": "npm",
+    "topics": [
+      "npm-cli"
+    ],
+    "size": 152,
+    "keywords": [],
+    "name": "which",
+    "stars": 290,
+    "description": "Like which(1) unix command. Find the first instance of an executable in the PATH."
   }
 }
