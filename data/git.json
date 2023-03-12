@@ -5414,5 +5414,21 @@
     "name": "which",
     "stars": 290,
     "description": "Like which(1) unix command. Find the first instance of an executable in the PATH."
+  },
+  "thoughtspile/awesome-tiny-js": {
+    "repo": "awesome-tiny-js",
+    "owner": "thoughtspile",
+    "topics": [
+      "awesome",
+      "awesome-list",
+      "javascript",
+      "typescript",
+      "tiny"
+    ],
+    "size": 33,
+    "keywords": [],
+    "name": "awesome-tiny-js",
+    "stars": 164,
+    "description": "A collection of tiny JS libraries to put your bundle on a diet"
   }
 }
