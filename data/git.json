@@ -5430,5 +5430,26 @@
     "name": "awesome-tiny-js",
     "stars": 164,
     "description": "A collection of tiny JS libraries to put your bundle on a diet"
+  },
+  "highlight/highlight": {
+    "repo": "highlight",
+    "owner": "highlight",
+    "topics": [
+      "apm",
+      "golang",
+      "metrics",
+      "monitoring",
+      "observability",
+      "open-source",
+      "self-hosted",
+      "session-replay",
+      "typescript",
+      "full-stack"
+    ],
+    "size": 126664,
+    "keywords": [],
+    "name": "highlight",
+    "stars": 2223,
+    "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more."
   }
 }
