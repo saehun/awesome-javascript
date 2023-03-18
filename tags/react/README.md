@@ -11,6 +11,7 @@
 - [@stackflow/monorepo](https://github.com/daangn/stackflow) Mobile-first stack navigator framework with composable plugin system
 - [cmdk-root](https://github.com/pacocoursey/cmdk) Fast, unstyled command menu React component.
 - [mantine](https://github.com/mantinedev/mantine) React components library with native dark theme support
+- [nhost-root](https://github.com/nhost/nhost) The Open Source Firebase Alternative with GraphQL.
 - [valtio](https://github.com/pmndrs/valtio) 💊 Valtio makes proxy-state simple  for React and Vanilla
 - [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.
 - [envsafe](https://github.com/KATT/envsafe) 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.

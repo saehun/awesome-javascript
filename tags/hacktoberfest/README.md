@@ -8,6 +8,5 @@
 - [conduit-api](https://github.com/fdaciuk/conduit-api) API for Real World App project (Conduit) using Node.js + TS with Functional Programming
 - [@soketi/soketi](https://github.com/soketi/soketi) Just another simple, fast, and resilient open-source WebSockets server. 📣
 - [dev-tools](https://github.com/fosslife/devtools-x) Collection of offline first developer utilities available as desktop application. all in one place, cross-platform!
-- [nhost-root](https://github.com/nhost/nhost) The Open Source Firebase Alternative with GraphQL.
 - [@jsonhero/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [superjson](https://github.com/blitz-js/superjson) Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.

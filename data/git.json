@@ -4452,13 +4452,18 @@
       "flutter",
       "nhost",
       "backend-as-a-service",
-      "hacktoberfest",
-      "hacktoberfest2022"
+      "nextjs",
+      "react",
+      "graphql-api",
+      "typescript",
+      "javascript",
+      "vue",
+      "firebase"
     ],
-    "size": 106481,
+    "size": 153767,
     "keywords": [],
     "name": "nhost-root",
-    "stars": 4946,
+    "stars": 6383,
     "description": "The Open Source Firebase Alternative with GraphQL."
   },
   "pastelsky/bundlephobia": {
