@@ -5451,5 +5451,25 @@
     "name": "highlight",
     "stars": 2223,
     "description": "highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more."
+  },
+  "lukeed/taskr": {
+    "repo": "taskr",
+    "owner": "lukeed",
+    "topics": [
+      "bluebird",
+      "coroutines",
+      "parallel",
+      "task-runner",
+      "lightweight",
+      "generators",
+      "performance",
+      "nodejs",
+      "tasks"
+    ],
+    "size": 1173,
+    "keywords": [],
+    "name": "taskr",
+    "stars": 2496,
+    "description": "A fast, concurrency-focused task automation tool."
   }
 }
