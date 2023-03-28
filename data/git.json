@@ -5476,5 +5476,51 @@
     "name": "taskr",
     "stars": 2496,
     "description": "A fast, concurrency-focused task automation tool."
+  },
+  "hectorm/otpauth": {
+    "repo": "otpauth",
+    "owner": "hectorm",
+    "topics": [
+      "otpauth",
+      "hotp",
+      "totp",
+      "otp",
+      "two-factor",
+      "two-step-authentication",
+      "two-factor-authentication",
+      "two-step",
+      "authenticator",
+      "google-authenticator",
+      "auth",
+      "javascript",
+      "nodejs",
+      "node",
+      "node-js",
+      "browser",
+      "security",
+      "deno",
+      "bun"
+    ],
+    "size": 6954,
+    "keywords": [
+      "otp",
+      "hotp",
+      "totp",
+      "one time password",
+      "2fa",
+      "2 factor",
+      "two factor",
+      "two-factor",
+      "2step",
+      "2 step",
+      "two step",
+      "two-step",
+      "auth",
+      "authenticator",
+      "google authenticator"
+    ],
+    "name": "otpauth",
+    "stars": 474,
+    "description": "One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers."
   }
 }

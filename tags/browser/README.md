@@ -5,3 +5,4 @@
 - [levelup](https://github.com/Level/levelup) A wrapper for abstract-leveldown compliant stores, for Node.js and browsers.
 - [pollyjs](https://github.com/Netflix/pollyjs) Record, Replay, and Stub HTTP Interactions.
 - [kysely](https://github.com/koskimas/kysely) A type-safe typescript SQL query builder
+- [otpauth](https://github.com/hectorm/otpauth) One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers.
