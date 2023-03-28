@@ -5561,5 +5561,21 @@
     "name": "micri",
     "stars": 44,
     "description": "Asynchronous HTTP microservices"
+  },
+  "vercel/micro": {
+    "repo": "micro",
+    "owner": "vercel",
+    "topics": [
+      "async",
+      "await",
+      "micro",
+      "microservice",
+      "vercel"
+    ],
+    "size": 1049,
+    "keywords": [],
+    "name": "micro",
+    "stars": 10373,
+    "description": "Asynchronous HTTP microservices"
   }
 }
