@@ -5522,5 +5522,28 @@
     "name": "otpauth",
     "stars": 474,
     "description": "One Time Password (HOTP/TOTP) library for Node.js, Deno, Bun and browsers."
+  },
+  "stoplightio/prism": {
+    "repo": "prism",
+    "owner": "stoplightio",
+    "topics": [
+      "oas",
+      "prism",
+      "mocking",
+      "api-testing",
+      "http-proxy",
+      "swagger",
+      "openapi",
+      "mock-server",
+      "postman-collection",
+      "openapi3",
+      "cli",
+      "hacktoberfest"
+    ],
+    "size": 12858,
+    "keywords": [],
+    "name": "prism",
+    "stars": 3450,
+    "description": "Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations."
   }
 }

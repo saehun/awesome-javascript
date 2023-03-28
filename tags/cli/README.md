@@ -13,3 +13,4 @@
 - [n8n](https://github.com/n8n-io/n8n) Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [listr](https://github.com/SamVerschueren/listr) Terminal task list
 - [gluegun](https://github.com/infinitered/gluegun) A delightful toolkit for building TypeScript-powered command-line apps.
+- [prism](https://github.com/stoplightio/prism) Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
