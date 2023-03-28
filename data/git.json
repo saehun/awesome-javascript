@@ -5545,5 +5545,21 @@
     "name": "prism",
     "stars": 3450,
     "description": "Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations."
+  },
+  "turist-cloud/micri": {
+    "repo": "micri",
+    "owner": "turist-cloud",
+    "topics": [],
+    "size": 1344,
+    "keywords": [
+      "micro",
+      "micri",
+      "service",
+      "microservice",
+      "API"
+    ],
+    "name": "micri",
+    "stars": 44,
+    "description": "Asynchronous HTTP microservices"
   }
 }
