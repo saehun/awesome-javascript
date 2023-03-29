@@ -5622,5 +5622,22 @@
     "name": "disable-devtool",
     "stars": 331,
     "description": "Disable web developer tools from the f12 button, right-click and browser menu"
+  },
+  "nwjs/nw.js": {
+    "repo": "nw.js",
+    "owner": "nwjs",
+    "topics": [
+      "web-application-framework",
+      "javascript",
+      "desktop",
+      "node-webkit",
+      "nwjs",
+      "nodejs"
+    ],
+    "size": 129111,
+    "keywords": [],
+    "name": "nw.js",
+    "stars": 39542,
+    "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies."
   }
 }
