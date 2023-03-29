@@ -5577,5 +5577,34 @@
     "name": "micro",
     "stars": 10373,
     "description": "Asynchronous HTTP microservices"
+  },
+  "lucaong/minisearch": {
+    "repo": "minisearch",
+    "owner": "lucaong",
+    "topics": [
+      "fuzzy-search",
+      "javascript",
+      "search",
+      "fulltext-search",
+      "search-engine",
+      "autosuggestion",
+      "autocomplete",
+      "text-search",
+      "edge-computing",
+      "typo-tolerance"
+    ],
+    "size": 5407,
+    "keywords": [
+      "search",
+      "full text",
+      "fuzzy",
+      "prefix",
+      "auto suggest",
+      "auto complete",
+      "index"
+    ],
+    "name": "minisearch",
+    "stars": 2669,
+    "description": "Tiny and powerful JavaScript full-text search engine for browser and Node"
   }
 }
