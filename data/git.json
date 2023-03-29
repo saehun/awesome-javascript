@@ -5606,5 +5606,21 @@
     "name": "minisearch",
     "stars": 2669,
     "description": "Tiny and powerful JavaScript full-text search engine for browser and Node"
+  },
+  "theajack/disable-devtool": {
+    "repo": "disable-devtool",
+    "owner": "theajack",
+    "topics": [
+      "disable-devtool"
+    ],
+    "size": 610,
+    "keywords": [
+      "disable-devtool",
+      "禁用F12",
+      "禁用开发者工具"
+    ],
+    "name": "disable-devtool",
+    "stars": 331,
+    "description": "Disable web developer tools from the f12 button, right-click and browser menu"
   }
 }
