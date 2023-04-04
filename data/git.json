@@ -5639,5 +5639,15 @@
     "name": "nw.js",
     "stars": 39542,
     "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies."
+  },
+  "TaxyAI/browser-extension": {
+    "repo": "browser-extension",
+    "owner": "TaxyAI",
+    "topics": [],
+    "size": 2439,
+    "keywords": [],
+    "name": "taxy-ai-browser-extension",
+    "stars": 3178,
+    "description": "Automate your browser with GPT-4"
   }
 }
