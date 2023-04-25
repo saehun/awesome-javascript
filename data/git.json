@@ -5662,5 +5662,30 @@
     "name": "hotscript",
     "stars": 2623,
     "description": "A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know."
+  },
+  "ferrislucas/promptr": {
+    "repo": "promptr",
+    "owner": "ferrislucas",
+    "topics": [
+      "ai",
+      "cli",
+      "command-line",
+      "chatgpt",
+      "gpt-3",
+      "gpt-35-turbo",
+      "gpt-4",
+      "gpt-4-api",
+      "gpt3",
+      "gpt4",
+      "prompt-engineering",
+      "gpt3-api",
+      "prompt-toolkit",
+      "prompt-tuning"
+    ],
+    "size": 167,
+    "keywords": [],
+    "name": "@ifnotnowwhen/promptr",
+    "stars": 502,
+    "description": "Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment with LLMs. No more copying code from the ChatGPT window into your editor."
   }
 }
