@@ -5687,5 +5687,19 @@
     "name": "@ifnotnowwhen/promptr",
     "stars": 502,
     "description": "Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment with LLMs. No more copying code from the ChatGPT window into your editor."
+  },
+  "teaxyz/cli": {
+    "repo": "cli",
+    "owner": "teaxyz",
+    "topics": [
+      "package-manager",
+      "environment-manager",
+      "magic"
+    ],
+    "size": 1049,
+    "keywords": [],
+    "name": "cli",
+    "stars": 6687,
+    "description": "the next-generation, cross‐platform package manager"
   }
 }
