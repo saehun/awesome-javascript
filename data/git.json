@@ -5701,5 +5701,25 @@
     "name": "cli",
     "stars": 6687,
     "description": "the next-generation, cross‐platform package manager"
+  },
+  "intuit/auto": {
+    "repo": "auto",
+    "owner": "intuit",
+    "topics": [
+      "release",
+      "auto-release",
+      "github",
+      "slack",
+      "jira",
+      "releases",
+      "publishing",
+      "hack",
+      "hacktoberfest"
+    ],
+    "size": 61708,
+    "keywords": [],
+    "name": "auto-monorepo",
+    "stars": 2006,
+    "description": "Generate releases based on semantic version labels on pull requests."
   }
 }

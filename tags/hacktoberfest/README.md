@@ -11,3 +11,4 @@
 - [@jsonhero/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [superjson](https://github.com/blitz-js/superjson) Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [prism](https://github.com/stoplightio/prism) Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
+- [auto-monorepo](https://github.com/intuit/auto) Generate releases based on semantic version labels on pull requests.
