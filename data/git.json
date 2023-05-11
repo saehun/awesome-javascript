@@ -5721,5 +5721,23 @@
     "name": "auto-monorepo",
     "stars": 2006,
     "description": "Generate releases based on semantic version labels on pull requests."
+  },
+  "omnivore-app/omnivore": {
+    "repo": "omnivore",
+    "owner": "omnivore-app",
+    "topics": [
+      "bookmarks",
+      "logseq",
+      "logseq-plugin",
+      "productivity",
+      "read-it-later",
+      "reader",
+      "reading"
+    ],
+    "size": 281955,
+    "keywords": [],
+    "name": "omnivore-app",
+    "stars": 1837,
+    "description": "Omnivore is a complete, open source read-it-later solution for people who like reading."
   }
 }
