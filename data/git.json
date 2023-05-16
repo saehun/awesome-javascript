@@ -5757,5 +5757,24 @@
     "name": "subtls-dev",
     "stars": 237,
     "description": "A proof-of-concept TypeScript TLS 1.3 client"
+  },
+  "sindresorhus/import-local": {
+    "repo": "import-local",
+    "owner": "sindresorhus",
+    "topics": [],
+    "size": 92,
+    "keywords": [
+      "import",
+      "local",
+      "require",
+      "resolve",
+      "global",
+      "version",
+      "prefer",
+      "cli"
+    ],
+    "name": "import-local",
+    "stars": 142,
+    "description": "Let a globally installed package use a locally installed version of itself if available"
   }
 }
