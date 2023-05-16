@@ -19,3 +19,4 @@
 - [@jsonhero/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web) JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀
 - [kbar](https://github.com/timc1/kbar) fast, portable, and extensible cmd+k interface for your site
 - [tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development
+- [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System

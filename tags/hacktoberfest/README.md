@@ -12,3 +12,4 @@
 - [superjson](https://github.com/blitz-js/superjson) Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [prism](https://github.com/stoplightio/prism) Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [auto-monorepo](https://github.com/intuit/auto) Generate releases based on semantic version labels on pull requests.
+- [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System

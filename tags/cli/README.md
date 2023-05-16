@@ -16,3 +16,4 @@
 - [prism](https://github.com/stoplightio/prism) Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
 - [@ifnotnowwhen/promptr](https://github.com/ferrislucas/promptr) Promptr is a CLI tool that makes it easy to apply GPT's code change recommendations with a single command. With Promptr, you can quickly refactor code, implement classes to pass tests, and experiment with LLMs. No more copying code from the ChatGPT window into your editor.
 - [import-local](https://github.com/sindresorhus/import-local) Let a globally installed package use a locally installed version of itself if available
+- [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System

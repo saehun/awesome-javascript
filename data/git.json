@@ -5776,5 +5776,33 @@
     "name": "import-local",
     "stars": 142,
     "description": "Let a globally installed package use a locally installed version of itself if available"
+  },
+  "nrwl/nx": {
+    "repo": "nx",
+    "owner": "nrwl",
+    "topics": [
+      "nx",
+      "angular",
+      "react",
+      "monorepo",
+      "nodejs",
+      "cypress",
+      "storybook",
+      "nextjs",
+      "nx-workspaces",
+      "hacktoberfest",
+      "build-tool",
+      "build-system",
+      "cli",
+      "javascript",
+      "typescript",
+      "building-tool",
+      "build"
+    ],
+    "size": 133896,
+    "keywords": [],
+    "name": "@nx/nx-source",
+    "stars": 17543,
+    "description": "Smart, Fast and Extensible Build System"
   }
 }
