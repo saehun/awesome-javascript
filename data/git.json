@@ -5804,5 +5804,23 @@
     "name": "@nx/nx-source",
     "stars": 17543,
     "description": "Smart, Fast and Extensible Build System"
+  },
+  "rrweb-io/rrweb": {
+    "repo": "rrweb",
+    "owner": "rrweb-io",
+    "topics": [
+      "session-replay",
+      "recorder",
+      "logrocket",
+      "fullstory",
+      "hotjar"
+    ],
+    "size": 6019,
+    "keywords": [
+      "rrweb"
+    ],
+    "name": "rrweb",
+    "stars": 13600,
+    "description": "record and replay the web"
   }
 }
