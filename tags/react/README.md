@@ -5,7 +5,7 @@
 - [@visx/root](https://github.com/airbnb/visx) 🐯 visx | visualization components
 - [react-apexcharts](https://github.com/apexcharts/react-apexcharts) 📊 React Component for ApexCharts
 - [nivo](https://github.com/plouc/nivo) nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-- [openreplay](https://github.com/openreplay/openreplay) :tv: OpenReplay is developer-friendly, open-source session replay.
+- [openreplay](https://github.com/openreplay/openreplay) :tv: OpenReplay is developer-friendly, self-hosted session replay.
 - [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.
 - [rxdb](https://github.com/pubkey/rxdb) 🔄 A client side, offline-first, reactive database for JavaScript Applications
 - [@stackflow/monorepo](https://github.com/daangn/stackflow) Mobile-first stack navigator framework with composable plugin system

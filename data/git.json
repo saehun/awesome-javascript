@@ -3229,13 +3229,14 @@
       "kafka",
       "postgresql",
       "openreplay",
-      "clickhouse"
+      "clickhouse",
+      "javascript"
     ],
-    "size": 15401,
+    "size": 43507,
     "keywords": [],
     "name": "openreplay",
-    "stars": 2682,
-    "description": ":tv: OpenReplay is developer-friendly, open-source session replay."
+    "stars": 7468,
+    "description": ":tv: OpenReplay is developer-friendly, self-hosted session replay."
   },
   "Netflix/pollyjs": {
     "repo": "pollyjs",
