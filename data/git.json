@@ -5823,5 +5823,20 @@
     "name": "rrweb",
     "stars": 13600,
     "description": "record and replay the web"
+  },
+  "readmeio/api": {
+    "repo": "api",
+    "owner": "readmeio",
+    "topics": [
+      "api",
+      "sdk",
+      "openapi",
+      "swagger"
+    ],
+    "size": 10731,
+    "keywords": [],
+    "name": "api-monorepo",
+    "stars": 323,
+    "description": "🚀 Automatic SDK generation from an OpenAPI definition"
   }
 }
