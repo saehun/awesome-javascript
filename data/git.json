@@ -5862,5 +5862,15 @@
     "name": "@zodios/core",
     "stars": 948,
     "description": "typescript http client and server with zod validation"
+  },
+  "samvv/js-proxy-deep": {
+    "repo": "js-proxy-deep",
+    "owner": "samvv",
+    "topics": [],
+    "size": 158,
+    "keywords": [],
+    "name": "root-workspace",
+    "stars": 37,
+    "description": "A JavaScript Proxy object that automatically nests itself"
   }
 }
