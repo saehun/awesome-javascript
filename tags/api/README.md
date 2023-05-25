@@ -7,3 +7,4 @@
 - [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.
 - [micri](https://github.com/turist-cloud/micri) Asynchronous HTTP microservices
 - [api-monorepo](https://github.com/readmeio/api) 🚀 Automatic SDK generation from an OpenAPI definition
+- [@zodios/core](https://github.com/ecyrbe/zodios) typescript http client and server with zod validation

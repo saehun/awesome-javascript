@@ -5838,5 +5838,29 @@
     "name": "api-monorepo",
     "stars": 323,
     "description": "🚀 Automatic SDK generation from an OpenAPI definition"
+  },
+  "ecyrbe/zodios": {
+    "repo": "zodios",
+    "owner": "ecyrbe",
+    "topics": [
+      "zod",
+      "http",
+      "typescript",
+      "api",
+      "nodejs",
+      "openapi",
+      "rest"
+    ],
+    "size": 7388,
+    "keywords": [
+      "axios",
+      "openapi",
+      "zod",
+      "autocomplete",
+      "validation"
+    ],
+    "name": "@zodios/core",
+    "stars": 948,
+    "description": "typescript http client and server with zod validation"
   }
 }

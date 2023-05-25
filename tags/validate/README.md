@@ -9,3 +9,4 @@
 - [runtypes](https://github.com/pelotom/runtypes) Runtime validation for static types
 - [zod](https://github.com/colinhacks/zod) TypeScript-first schema validation with static type inference
 - [ts-runtime-checks](https://github.com/GoogleFeud/ts-runtime-checks) A typescript transformer which automatically generates validation code from your types.
+- [@zodios/core](https://github.com/ecyrbe/zodios) typescript http client and server with zod validation
