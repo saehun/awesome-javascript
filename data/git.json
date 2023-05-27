@@ -5337,10 +5337,10 @@
     "repo": "devalue",
     "owner": "Rich-Harris",
     "topics": [],
-    "size": 118,
+    "size": 132,
     "keywords": [],
     "name": "devalue",
-    "stars": 1464,
+    "stars": 1645,
     "description": "Gets the job done when JSON.stringify can't"
   },
   "SamVerschueren/listr": {
