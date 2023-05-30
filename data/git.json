@@ -5872,5 +5872,20 @@
     "name": "root-workspace",
     "stars": 37,
     "description": "A JavaScript Proxy object that automatically nests itself"
+  },
+  "supercharge/supercharge": {
+    "repo": "supercharge",
+    "owner": "supercharge",
+    "topics": [
+      "supercharge",
+      "nodejs",
+      "framework",
+      "app"
+    ],
+    "size": 804,
+    "keywords": [],
+    "name": "supercharge",
+    "stars": 71,
+    "description": "Full-stack Node.js framework"
   }
 }
