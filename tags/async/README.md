@@ -9,3 +9,4 @@
 - [async-mutex](https://github.com/DirtyHairy/async-mutex) A mutex for synchronizing async workflows in Javascript
 - [dezalgo](https://github.com/npm/dezalgo) Contain async insanity so that the dark pony lord doesn't eat souls
 - [micro](https://github.com/vercel/micro) Asynchronous HTTP microservices
+- [@supercharge/promise-pool](https://github.com/supercharge/promise-pool) Map-like, concurrent promise processing

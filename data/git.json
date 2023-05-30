@@ -5887,5 +5887,33 @@
     "name": "supercharge",
     "stars": 71,
     "description": "Full-stack Node.js framework"
+  },
+  "supercharge/promise-pool": {
+    "repo": "promise-pool",
+    "owner": "supercharge",
+    "topics": [
+      "map",
+      "promises",
+      "promise-pool",
+      "async",
+      "concurrency",
+      "concurrency-control",
+      "supercharge",
+      "hacktoberfest"
+    ],
+    "size": 197,
+    "keywords": [
+      "supercharge",
+      "superchargejs",
+      "promise-pool",
+      "nodejs",
+      "async",
+      "map",
+      "async-map",
+      "promises"
+    ],
+    "name": "@supercharge/promise-pool",
+    "stars": 615,
+    "description": "Map-like, concurrent promise processing"
   }
 }
