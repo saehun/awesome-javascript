@@ -5915,5 +5915,27 @@
     "name": "@supercharge/promise-pool",
     "stars": 615,
     "description": "Map-like, concurrent promise processing"
+  },
+  "web-infra-dev/rspack": {
+    "repo": "rspack",
+    "owner": "web-infra-dev",
+    "topics": [
+      "bundler",
+      "javascript",
+      "compiler",
+      "web",
+      "rust",
+      "build-tool",
+      "esm",
+      "jsx",
+      "loaders",
+      "typescript",
+      "web-performance"
+    ],
+    "size": 22871,
+    "keywords": [],
+    "name": "monorepo",
+    "stars": 4741,
+    "description": "A fast Rust-based web bundler 🦀️"
   }
 }
