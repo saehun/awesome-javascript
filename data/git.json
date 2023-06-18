@@ -5937,5 +5937,33 @@
     "name": "monorepo",
     "stars": 4741,
     "description": "A fast Rust-based web bundler 🦀️"
+  },
+  "automock/automock": {
+    "repo": "automock",
+    "owner": "automock",
+    "topics": [
+      "testing",
+      "unit-test",
+      "mocking",
+      "jest",
+      "spec",
+      "tdd",
+      "typescript",
+      "mock",
+      "unit-testing",
+      "dependency-injection",
+      "sinon"
+    ],
+    "size": 1164,
+    "keywords": [
+      "mock",
+      "jest",
+      "sinon",
+      "auto-mock",
+      "reflection"
+    ],
+    "name": "automock-monorepo",
+    "stars": 97,
+    "description": "Standalone Library for Automated Mocking of Class Dependencies."
   }
 }
