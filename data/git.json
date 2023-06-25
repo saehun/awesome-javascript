@@ -5965,5 +5965,26 @@
     "name": "automock-monorepo",
     "stars": 97,
     "description": "Standalone Library for Automated Mocking of Class Dependencies."
+  },
+  "fabiospampinato/atomically": {
+    "repo": "atomically",
+    "owner": "fabiospampinato",
+    "topics": [
+      "atomic",
+      "write",
+      "file",
+      "reliable"
+    ],
+    "size": 105,
+    "keywords": [
+      "atomic",
+      "read",
+      "write",
+      "file",
+      "reliable"
+    ],
+    "name": "atomically",
+    "stars": 145,
+    "description": "Write files atomically and reliably."
   }
 }
