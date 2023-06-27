@@ -5986,5 +5986,22 @@
     "name": "atomically",
     "stars": 145,
     "description": "Write files atomically and reliably."
+  },
+  "dstotijn/hetty": {
+    "repo": "hetty",
+    "owner": "dstotijn",
+    "topics": [
+      "mitm",
+      "proxy",
+      "http",
+      "pentesting",
+      "infosec",
+      "bugbounty"
+    ],
+    "size": 2101,
+    "keywords": [],
+    "name": "hetty",
+    "stars": 5301,
+    "description": "An HTTP toolkit for security research."
   }
 }

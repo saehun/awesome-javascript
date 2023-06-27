@@ -7,3 +7,4 @@
 - [curlconverter](https://github.com/NickCarneiro/curlconverter) convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
 - [undici](https://github.com/nodejs/undici) An HTTP/1.1 client, written from scratch for Node.js
 - [@zodios/core](https://github.com/ecyrbe/zodios) typescript http client and server with zod validation
+- [hetty](https://github.com/dstotijn/hetty) An HTTP toolkit for security research.
