@@ -14,3 +14,4 @@
 - [auto-monorepo](https://github.com/intuit/auto) Generate releases based on semantic version labels on pull requests.
 - [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System
 - [@supercharge/promise-pool](https://github.com/supercharge/promise-pool) Map-like, concurrent promise processing
+- [@betterer/monorepo](https://github.com/phenomnomnominal/betterer) betterer makes it easier to make incremental improvements to your codebase

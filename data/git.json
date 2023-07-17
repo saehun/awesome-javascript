@@ -6026,5 +6026,21 @@
     "name": "@total-typescript/ts-reset",
     "stars": 6538,
     "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
+  },
+  "phenomnomnominal/betterer": {
+    "repo": "betterer",
+    "owner": "phenomnomnominal",
+    "topics": [
+      "test",
+      "codebase",
+      "incremental",
+      "improvement",
+      "hacktoberfest"
+    ],
+    "size": 27593,
+    "keywords": [],
+    "name": "@betterer/monorepo",
+    "stars": 520,
+    "description": "betterer makes it easier to make incremental improvements to your codebase"
   }
 }
