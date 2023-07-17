@@ -6003,5 +6003,15 @@
     "name": "hetty",
     "stars": 5301,
     "description": "An HTTP toolkit for security research."
+  },
+  "phenomnomnominal/tsquery": {
+    "repo": "tsquery",
+    "owner": "phenomnomnominal",
+    "topics": [],
+    "size": 1035,
+    "keywords": [],
+    "name": "@phenomnomnominal/tsquery",
+    "stars": 878,
+    "description": "TypeScript AST query library"
   }
 }
