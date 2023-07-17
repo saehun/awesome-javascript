@@ -6013,5 +6013,18 @@
     "name": "@phenomnomnominal/tsquery",
     "stars": 878,
     "description": "TypeScript AST query library"
+  },
+  "total-typescript/ts-reset": {
+    "repo": "ts-reset",
+    "owner": "total-typescript",
+    "topics": [
+      "reset",
+      "typescript"
+    ],
+    "size": 139,
+    "keywords": [],
+    "name": "@total-typescript/ts-reset",
+    "stars": 6538,
+    "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's"
   }
 }
