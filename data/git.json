@@ -6042,5 +6042,24 @@
     "name": "@betterer/monorepo",
     "stars": 520,
     "description": "betterer makes it easier to make incremental improvements to your codebase"
+  },
+  "vincit/objection.js": {
+    "repo": "objection.js",
+    "owner": "vincit",
+    "topics": [],
+    "size": 21573,
+    "keywords": [
+      "orm",
+      "knex",
+      "sql",
+      "query",
+      "query builder",
+      "postgresql",
+      "mysql",
+      "sqlite3"
+    ],
+    "name": "objection",
+    "stars": 7035,
+    "description": "An SQL-friendly ORM for Node.js"
   }
 }
