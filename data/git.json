@@ -6061,5 +6061,39 @@
     "name": "objection",
     "stars": 7035,
     "description": "An SQL-friendly ORM for Node.js"
+  },
+  "mswjs/msw": {
+    "repo": "msw",
+    "owner": "mswjs",
+    "topics": [
+      "msw",
+      "mock",
+      "mocking-framework",
+      "service-worker",
+      "mock-service-worker",
+      "mocking",
+      "mocking-library",
+      "api-mocking",
+      "devtools",
+      "api",
+      "mswjs"
+    ],
+    "size": 9411,
+    "keywords": [
+      "api",
+      "mock",
+      "mocking",
+      "worker",
+      "prototype",
+      "server",
+      "service",
+      "handler",
+      "testing",
+      "front-end",
+      "back-end"
+    ],
+    "name": "msw",
+    "stars": 12798,
+    "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
   }
 }

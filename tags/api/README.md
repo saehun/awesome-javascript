@@ -8,3 +8,4 @@
 - [micri](https://github.com/turist-cloud/micri) Asynchronous HTTP microservices
 - [api-monorepo](https://github.com/readmeio/api) 🚀 Automatic SDK generation from an OpenAPI definition
 - [@zodios/core](https://github.com/ecyrbe/zodios) typescript http client and server with zod validation
+- [msw](https://github.com/mswjs/msw) Seamless REST/GraphQL API mocking library for browser and Node.js.
