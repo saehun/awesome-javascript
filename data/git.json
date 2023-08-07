@@ -6095,5 +6095,24 @@
     "name": "msw",
     "stars": 12798,
     "description": "Seamless REST/GraphQL API mocking library for browser and Node.js."
+  },
+  "jakebailey/hereby": {
+    "repo": "hereby",
+    "owner": "jakebailey",
+    "topics": [],
+    "size": 825,
+    "keywords": [
+      "hereby",
+      "herebyfile",
+      "task",
+      "runner",
+      "build",
+      "gulp",
+      "make",
+      "makefile"
+    ],
+    "name": "hereby",
+    "stars": 70,
+    "description": "A simple Node.js task runner"
   }
 }
