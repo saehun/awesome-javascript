@@ -6114,5 +6114,15 @@
     "name": "hereby",
     "stars": 70,
     "description": "A simple Node.js task runner"
+  },
+  "steveukx/git-js": {
+    "repo": "git-js",
+    "owner": "steveukx",
+    "topics": [],
+    "size": 3913,
+    "keywords": [],
+    "name": "@simple-git/repo",
+    "stars": 3177,
+    "description": "A light weight interface for running git commands in any node.js application."
   }
 }
