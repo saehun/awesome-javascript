@@ -6139,5 +6139,21 @@
     "name": "plop-monorepo",
     "stars": 6445,
     "description": "Consistency Made Simple"
+  },
+  "gulpjs/liftoff": {
+    "repo": "liftoff",
+    "owner": "gulpjs",
+    "topics": [
+      "cli",
+      "liftoff",
+      "command-line"
+    ],
+    "size": 824,
+    "keywords": [
+      "command line"
+    ],
+    "name": "liftoff",
+    "stars": 833,
+    "description": "Launch your command line tool with ease."
   }
 }

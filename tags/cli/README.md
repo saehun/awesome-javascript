@@ -18,3 +18,4 @@
 - [import-local](https://github.com/sindresorhus/import-local) Let a globally installed package use a locally installed version of itself if available
 - [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System
 - [plop-monorepo](https://github.com/plopjs/plop) Consistency Made Simple
+- [liftoff](https://github.com/gulpjs/liftoff) Launch your command line tool with ease.
