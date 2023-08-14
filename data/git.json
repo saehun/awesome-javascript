@@ -6124,5 +6124,20 @@
     "name": "@simple-git/repo",
     "stars": 3177,
     "description": "A light weight interface for running git commands in any node.js application."
+  },
+  "plopjs/plop": {
+    "repo": "plop",
+    "owner": "plopjs",
+    "topics": [
+      "plop",
+      "javascript",
+      "generator",
+      "cli"
+    ],
+    "size": 3163,
+    "keywords": [],
+    "name": "plop-monorepo",
+    "stars": 6445,
+    "description": "Consistency Made Simple"
   }
 }
