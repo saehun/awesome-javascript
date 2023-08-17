@@ -6155,5 +6155,31 @@
     "name": "liftoff",
     "stars": 833,
     "description": "Launch your command line tool with ease."
+  },
+  "bmstefanski/nestjs-shell": {
+    "repo": "nestjs-shell",
+    "owner": "bmstefanski",
+    "topics": [
+      "nest",
+      "nodejs",
+      "shell",
+      "console",
+      "javascript",
+      "typescript",
+      "terminal",
+      "nestjs",
+      "nestjs-module",
+      "nestjs-library"
+    ],
+    "size": 1565,
+    "keywords": [
+      "nest",
+      "nestjs",
+      "shell",
+      "console"
+    ],
+    "name": "nestjs-shell",
+    "stars": 46,
+    "description": "🐚 An interactive shell for NestJS which allows you to plug-in your custom commands and use them when the app's running"
   }
 }

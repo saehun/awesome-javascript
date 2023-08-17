@@ -4,3 +4,4 @@
 - [object-treeify](https://github.com/blackflux/object-treeify) Stringify Object as tree structure
 - [console-table-printer](https://github.com/ayonious/console-table-printer) 🖥️  🍭 Printing Pretty Tables on your console
 - [listr](https://github.com/SamVerschueren/listr) Terminal task list
+- [nestjs-shell](https://github.com/bmstefanski/nestjs-shell) 🐚 An interactive shell for NestJS which allows you to plug-in your custom commands and use them when the app's running
