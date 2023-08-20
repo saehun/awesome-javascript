@@ -19,3 +19,4 @@
 - [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System
 - [plop-monorepo](https://github.com/plopjs/plop) Consistency Made Simple
 - [liftoff](https://github.com/gulpjs/liftoff) Launch your command line tool with ease.
+- [@clack/root](https://github.com/natemoo-re/clack) Effortlessly build beautiful command-line apps

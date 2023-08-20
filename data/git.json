@@ -6181,5 +6181,22 @@
     "name": "nestjs-shell",
     "stars": 46,
     "description": "🐚 An interactive shell for NestJS which allows you to plug-in your custom commands and use them when the app's running"
+  },
+  "natemoo-re/clack": {
+    "repo": "clack",
+    "owner": "natemoo-re",
+    "topics": [
+      "cli",
+      "command-line",
+      "command-line-app",
+      "node",
+      "prompt",
+      "prompts"
+    ],
+    "size": 10281,
+    "keywords": [],
+    "name": "@clack/root",
+    "stars": 3942,
+    "description": "Effortlessly build beautiful command-line apps"
   }
 }
