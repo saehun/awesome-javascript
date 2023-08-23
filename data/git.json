@@ -6210,5 +6210,21 @@
     "name": "unbuild",
     "stars": 1674,
     "description": "📦 An unified javascript build system"
+  },
+  "IonicaBizau/git-url-parse": {
+    "repo": "git-url-parse",
+    "owner": "IonicaBizau",
+    "topics": [
+      "hacktoberfest"
+    ],
+    "size": 209,
+    "keywords": [
+      "parse",
+      "git",
+      "url"
+    ],
+    "name": "git-url-parse",
+    "stars": 173,
+    "description": ":v: A high level git url parser for common git providers."
   }
 }
