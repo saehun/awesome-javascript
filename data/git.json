@@ -6277,5 +6277,52 @@
     "name": "ps-tree",
     "stars": 142,
     "description": ""
+  },
+  "webpro/knip": {
+    "repo": "knip",
+    "owner": "webpro",
+    "topics": [
+      "dependency-analysis",
+      "lint",
+      "maintenance",
+      "typescript",
+      "unused-code",
+      "unused-imports",
+      "dependencies-checking",
+      "elimination",
+      "unused-exports"
+    ],
+    "size": 3455,
+    "keywords": [
+      "find",
+      "detect",
+      "analyze",
+      "scan",
+      "lint",
+      "unused",
+      "unreferenced",
+      "unresolved",
+      "missing",
+      "unimported",
+      "files",
+      "dependencies",
+      "devDependencies",
+      "exports",
+      "types",
+      "members",
+      "namespaces",
+      "duplicates",
+      "typescript",
+      "maintenance",
+      "class",
+      "enum",
+      "members",
+      "workspace",
+      "workspaces",
+      "monorepo"
+    ],
+    "name": "knip",
+    "stars": 3224,
+    "description": "✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!"
   }
 }
