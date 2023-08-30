@@ -6226,5 +6226,46 @@
     "name": "git-url-parse",
     "stars": 173,
     "description": ":v: A high level git url parser for common git providers."
+  },
+  "listr2/listr2": {
+    "repo": "listr2",
+    "owner": "listr2",
+    "topics": [
+      "nodejs",
+      "nodejs-modules",
+      "listr",
+      "cli",
+      "task",
+      "term",
+      "terminal",
+      "tasklist",
+      "console",
+      "loading",
+      "progress",
+      "typescript",
+      "npm"
+    ],
+    "size": 10464,
+    "keywords": [
+      "listr",
+      "cli",
+      "task",
+      "list",
+      "tasklist",
+      "terminal",
+      "term",
+      "console",
+      "ascii",
+      "unicode",
+      "loading",
+      "indicator",
+      "progress",
+      "busy",
+      "wait",
+      "idle"
+    ],
+    "name": "listr2",
+    "stars": 376,
+    "description": "NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive."
   }
 }

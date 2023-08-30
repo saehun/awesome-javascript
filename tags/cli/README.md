@@ -20,3 +20,4 @@
 - [plop-monorepo](https://github.com/plopjs/plop) Consistency Made Simple
 - [liftoff](https://github.com/gulpjs/liftoff) Launch your command line tool with ease.
 - [@clack/root](https://github.com/natemoo-re/clack) Effortlessly build beautiful command-line apps
+- [listr2](https://github.com/listr2/listr2) NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
