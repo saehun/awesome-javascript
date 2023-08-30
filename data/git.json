@@ -6267,5 +6267,15 @@
     "name": "listr2",
     "stars": 376,
     "description": "NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive."
+  },
+  "indexzero/ps-tree": {
+    "repo": "ps-tree",
+    "owner": "indexzero",
+    "topics": [],
+    "size": 92,
+    "keywords": [],
+    "name": "ps-tree",
+    "stars": 142,
+    "description": ""
   }
 }
