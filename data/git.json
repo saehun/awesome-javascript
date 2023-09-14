@@ -6324,5 +6324,35 @@
     "name": "knip",
     "stars": 3224,
     "description": "✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!"
+  },
+  "MartyO256/find-files-by-patterns": {
+    "repo": "find-files-by-patterns",
+    "owner": "MartyO256",
+    "topics": [
+      "nodejs",
+      "file-finder",
+      "directory-traversal",
+      "findfile",
+      "filter",
+      "filter-iterable",
+      "map-iterable",
+      "iterable-readdir"
+    ],
+    "size": 1688,
+    "keywords": [
+      "find-files",
+      "find-up",
+      "find-down",
+      "patterns",
+      "walk",
+      "walking",
+      "search",
+      "files",
+      "directories",
+      "iterable"
+    ],
+    "name": "find-files-by-patterns",
+    "stars": 4,
+    "description": "Find files by patterns in directories, upwards or downwards from other paths."
   }
 }
