@@ -6,3 +6,4 @@
 - [file-type](https://github.com/sindresorhus/file-type) Detect the file type of a Buffer/Uint8Array/ArrayBuffer
 - [superstruct](https://github.com/ianstormtaylor/superstruct) A simple and composable way to validate data in JavaScript (and TypeScript).
 - [ts-runtime-checks](https://github.com/GoogleFeud/ts-runtime-checks) A typescript transformer which automatically generates validation code from your types.
+- [depcheck](https://github.com/depcheck/depcheck) Check your npm module for unused dependencies

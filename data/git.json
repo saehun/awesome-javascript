@@ -6354,5 +6354,24 @@
     "name": "find-files-by-patterns",
     "stars": 4,
     "description": "Find files by patterns in directories, upwards or downwards from other paths."
+  },
+  "depcheck/depcheck": {
+    "repo": "depcheck",
+    "owner": "depcheck",
+    "topics": [],
+    "size": 1920,
+    "keywords": [
+      "check",
+      "unused",
+      "package",
+      "packages",
+      "depcheck",
+      "dependency",
+      "dependencies",
+      "devDependencies"
+    ],
+    "name": "depcheck",
+    "stars": 4221,
+    "description": "Check your npm module for unused dependencies"
   }
 }
