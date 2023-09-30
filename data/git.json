@@ -6373,5 +6373,34 @@
     "name": "depcheck",
     "stars": 4221,
     "description": "Check your npm module for unused dependencies"
+  },
+  "aerotoad/neboa": {
+    "repo": "neboa",
+    "owner": "aerotoad",
+    "topics": [
+      "database",
+      "document",
+      "nodejs",
+      "nosql",
+      "sqlite3",
+      "typescript"
+    ],
+    "size": 336,
+    "keywords": [
+      "sqlite",
+      "nosql",
+      "mongo",
+      "sqlite3",
+      "better-sqlite-3",
+      "db",
+      "database",
+      "storing",
+      "easy",
+      "simple",
+      "wrapper"
+    ],
+    "name": "neboa",
+    "stars": 133,
+    "description": "Type-safe NoSQL with Node & SQLite. 🌫️💽"
   }
 }
