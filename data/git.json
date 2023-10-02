@@ -6402,5 +6402,26 @@
     "name": "neboa",
     "stars": 133,
     "description": "Type-safe NoSQL with Node & SQLite. 🌫️💽"
+  },
+  "Effect-TS/effect": {
+    "repo": "effect",
+    "owner": "Effect-TS",
+    "topics": [
+      "fp",
+      "zio",
+      "typescript",
+      "framework",
+      "stack-safe",
+      "effect-system"
+    ],
+    "size": 31087,
+    "keywords": [
+      "typescript",
+      "algebraic-data-types",
+      "functional-programming"
+    ],
+    "name": "effect",
+    "stars": 2601,
+    "description": "A fully-fledged functional effect system for TypeScript with a rich standard library"
   }
 }
