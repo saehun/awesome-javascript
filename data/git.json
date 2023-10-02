@@ -6423,5 +6423,41 @@
     "name": "effect",
     "stars": 2601,
     "description": "A fully-fledged functional effect system for TypeScript with a rich standard library"
+  },
+  "zio/zio": {
+    "repo": "zio",
+    "owner": "zio",
+    "topics": [
+      "effects",
+      "concurrency",
+      "asynchronicity",
+      "functional-programming",
+      "queues",
+      "streams",
+      "promises",
+      "stm",
+      "asynchronous",
+      "concurrent",
+      "concurrent-programming",
+      "asynchronous-programming",
+      "concurrent-data-structure",
+      "zio",
+      "scala"
+    ],
+    "size": 875090,
+    "keywords": [],
+    "name": "zio",
+    "stars": 3878,
+    "description": "ZIO — A type-safe, composable library for async and concurrent programming in Scala"
+  },
+  "msfrisbie/spy-extension": {
+    "repo": "spy-extension",
+    "owner": "msfrisbie",
+    "topics": [],
+    "size": 9059,
+    "keywords": [],
+    "name": "spy-extension",
+    "stars": 552,
+    "description": "A Chrome extension that will steal literally everything it can"
   }
 }
