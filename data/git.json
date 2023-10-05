@@ -6459,5 +6459,22 @@
     "name": "spy-extension",
     "stars": 552,
     "description": "A Chrome extension that will steal literally everything it can"
+  },
+  "facebook/docusaurus": {
+    "repo": "docusaurus",
+    "owner": "facebook",
+    "topics": [
+      "documentation",
+      "website",
+      "javascript",
+      "react",
+      "open-source",
+      "hacktoberfest"
+    ],
+    "size": 249406,
+    "keywords": [],
+    "name": "root",
+    "stars": 48302,
+    "description": "Easy to maintain open source documentation websites."
   }
 }

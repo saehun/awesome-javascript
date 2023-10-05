@@ -20,3 +20,4 @@
 - [kbar](https://github.com/timc1/kbar) fast, portable, and extensible cmd+k interface for your site
 - [tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development
 - [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System
+- [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.
