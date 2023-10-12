@@ -6,3 +6,4 @@
 - [listr](https://github.com/SamVerschueren/listr) Terminal task list
 - [nestjs-shell](https://github.com/bmstefanski/nestjs-shell) 🐚 An interactive shell for NestJS which allows you to plug-in your custom commands and use them when the app's running
 - [listr2](https://github.com/listr2/listr2) NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
+- [lesyjs](https://github.com/lokesh-coder/lesyjs) Node JS based CLI framework to build modern Command line applications (in Beta )

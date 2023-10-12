@@ -6505,5 +6505,21 @@
     "name": "ionic-cli",
     "stars": 1993,
     "description": "The Ionic command-line interface"
+  },
+  "lokesh-coder/lesyjs": {
+    "repo": "lesyjs",
+    "owner": "lokesh-coder",
+    "topics": [
+      "cli",
+      "cli-framework",
+      "terminal",
+      "webapp",
+      "ui"
+    ],
+    "size": 21543,
+    "keywords": [],
+    "name": "lesyjs",
+    "stars": 30,
+    "description": "Node JS based CLI framework to build modern Command line applications (in Beta )"
   }
 }
