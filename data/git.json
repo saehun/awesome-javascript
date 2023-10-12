@@ -6492,5 +6492,18 @@
     "name": "usebruno",
     "stars": 5605,
     "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)"
+  },
+  "ionic-team/ionic-cli": {
+    "repo": "ionic-cli",
+    "owner": "ionic-team",
+    "topics": [
+      "ionic",
+      "cli"
+    ],
+    "size": 10830,
+    "keywords": [],
+    "name": "ionic-cli",
+    "stars": 1993,
+    "description": "The Ionic command-line interface"
   }
 }
