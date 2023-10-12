@@ -6521,5 +6521,36 @@
     "name": "lesyjs",
     "stars": 30,
     "description": "Node JS based CLI framework to build modern Command line applications (in Beta )"
+  },
+  "clercjs/clerc": {
+    "repo": "clerc",
+    "owner": "clercjs",
+    "topics": [
+      "cli",
+      "node",
+      "nodejs",
+      "args",
+      "arguments",
+      "argv",
+      "argument-parser",
+      "argument-parsing",
+      "cli-application",
+      "cli-framework",
+      "commandline",
+      "commandline-apps",
+      "argparse",
+      "cac",
+      "command-line",
+      "command-line-tool",
+      "minimist",
+      "parse",
+      "yargs",
+      "clerc"
+    ],
+    "size": 1439,
+    "keywords": [],
+    "name": "@clerc/monorepo",
+    "stars": 85,
+    "description": "🖖🏻 Clerc: The full-featured cli library."
   }
 }
