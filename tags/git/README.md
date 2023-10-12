@@ -6,3 +6,4 @@
 - [beachball](https://github.com/microsoft/beachball) The Sunniest Semantic Version Bumper
 - [release-it](https://github.com/release-it/release-it) 🚀 Automate versioning and package publishing
 - [git-url-parse](https://github.com/IonicaBizau/git-url-parse) :v: A high level git url parser for common git providers.
+- [usebruno](https://github.com/usebruno/bruno) Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
