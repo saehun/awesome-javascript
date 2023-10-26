@@ -6552,5 +6552,26 @@
     "name": "@clerc/monorepo",
     "stars": 85,
     "description": "🖖🏻 Clerc: The full-featured cli library."
+  },
+  "microsoft/TypeChat": {
+    "repo": "TypeChat",
+    "owner": "microsoft",
+    "topics": [
+      "ai",
+      "llm",
+      "natural-language",
+      "types"
+    ],
+    "size": 651,
+    "keywords": [
+      "schema",
+      "LLM",
+      "prompt",
+      "TypeScript",
+      "validation"
+    ],
+    "name": "typechat",
+    "stars": 6912,
+    "description": "TypeChat is a library that makes it easy to build natural language interfaces using types."
   }
 }
