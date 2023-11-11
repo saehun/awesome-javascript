@@ -6573,5 +6573,20 @@
     "name": "typechat",
     "stars": 6912,
     "description": "TypeChat is a library that makes it easy to build natural language interfaces using types."
+  },
+  "joshmarinacci/node-pureimage": {
+    "repo": "node-pureimage",
+    "owner": "joshmarinacci",
+    "topics": [
+      "canvas",
+      "javascript",
+      "png",
+      "drawing"
+    ],
+    "size": 2909,
+    "keywords": [],
+    "name": "pureimage",
+    "stars": 674,
+    "description": "Pure JS implementation of the HTML Canvas 2D drawing API"
   }
 }
