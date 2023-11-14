@@ -6588,5 +6588,22 @@
     "name": "pureimage",
     "stars": 674,
     "description": "Pure JS implementation of the HTML Canvas 2D drawing API"
+  },
+  "loro-dev/loro": {
+    "repo": "loro",
+    "owner": "loro-dev",
+    "topics": [
+      "crdt",
+      "local-first",
+      "offline-first",
+      "p2p",
+      "rich-text",
+      "collaborative-editing"
+    ],
+    "size": 7450,
+    "keywords": [],
+    "name": "loro",
+    "stars": 518,
+    "description": "Reimagine state management with CRDTs. Make your app state synchronized and collaborative effortlessly."
   }
 }
