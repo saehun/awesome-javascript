@@ -978,19 +978,21 @@
     "topics": [
       "json-schema",
       "typescript",
-      "static-types",
-      "runtime-typechecking"
+      "typecheck",
+      "validate",
+      "open-api",
+      "ajv"
     ],
-    "size": 7224,
+    "size": 13287,
     "keywords": [
-      "json-schema",
       "typescript",
-      "static-types",
-      "runtime-typechecking"
+      "json-schema",
+      "validate",
+      "typecheck"
     ],
     "name": "@sinclair/typebox",
-    "stars": 1368,
-    "description": "JSON Schema Type Builder with Static Type Resolution for TypeScript"
+    "stars": 3553,
+    "description": "Json Schema Type Builder with Static Type Resolution for TypeScript"
   },
   "mscdex/busboy": {
     "repo": "busboy",
