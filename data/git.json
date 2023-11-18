@@ -6607,5 +6607,26 @@
     "name": "loro",
     "stars": 518,
     "description": "Reimagine state management with CRDTs. Make your app state synchronized and collaborative effortlessly."
+  },
+  "flodlc/http-wizard": {
+    "repo": "http-wizard",
+    "owner": "flodlc",
+    "topics": [
+      "api",
+      "client",
+      "fastify",
+      "js",
+      "typebox",
+      "typescript",
+      "json-schema",
+      "zod",
+      "react-query",
+      "tanstack-query"
+    ],
+    "size": 60575,
+    "keywords": [],
+    "name": "http-wizard",
+    "stars": 45,
+    "description": "Http-wizard weaves TypeScript magic, offering a type-safe API client and ensuring a delightful end-to-end developer experience."
   }
 }
