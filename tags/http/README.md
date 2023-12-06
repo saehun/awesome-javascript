@@ -8,3 +8,4 @@
 - [undici](https://github.com/nodejs/undici) An HTTP/1.1 client, written from scratch for Node.js
 - [@zodios/core](https://github.com/ecyrbe/zodios) typescript http client and server with zod validation
 - [hetty](https://github.com/dstotijn/hetty) An HTTP toolkit for security research.
+- [http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) HTTP Man In The Middle (MITM) Proxy

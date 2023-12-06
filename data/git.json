@@ -6628,5 +6628,22 @@
     "name": "http-wizard",
     "stars": 45,
     "description": "Http-wizard weaves TypeScript magic, offering a type-safe API client and ensuring a delightful end-to-end developer experience."
+  },
+  "joeferner/node-http-mitm-proxy": {
+    "repo": "node-http-mitm-proxy",
+    "owner": "joeferner",
+    "topics": [],
+    "size": 409,
+    "keywords": [
+      "mitm",
+      "http",
+      "https",
+      "ssl",
+      "websocket",
+      "proxy"
+    ],
+    "name": "http-mitm-proxy",
+    "stars": 600,
+    "description": "HTTP Man In The Middle (MITM) Proxy"
   }
 }
