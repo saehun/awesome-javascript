@@ -10,3 +10,4 @@
 - [@zodios/core](https://github.com/ecyrbe/zodios) typescript http client and server with zod validation
 - [msw](https://github.com/mswjs/msw) Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [http-wizard](https://github.com/flodlc/http-wizard) Http-wizard weaves TypeScript magic, offering a type-safe API client and ensuring a delightful end-to-end developer experience.
+- [jira.js](https://github.com/MrRefactoring/jira.js) A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API

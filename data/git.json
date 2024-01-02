@@ -6645,5 +6645,39 @@
     "name": "http-mitm-proxy",
     "stars": 600,
     "description": "HTTP Man In The Middle (MITM) Proxy"
+  },
+  "MrRefactoring/jira.js": {
+    "repo": "jira.js",
+    "owner": "MrRefactoring",
+    "topics": [
+      "jira",
+      "jira-client",
+      "jira-js",
+      "javascript",
+      "typescript",
+      "agile",
+      "cloud",
+      "service-desk",
+      "api",
+      "rest",
+      "atlassian",
+      "nodejs",
+      "typescipt"
+    ],
+    "size": 106969,
+    "keywords": [
+      "jira",
+      "javascript",
+      "typescript",
+      "nodejs",
+      "browser",
+      "atlassian",
+      "api",
+      "client",
+      "library"
+    ],
+    "name": "jira.js",
+    "stars": 233,
+    "description": "A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API"
   }
 }
