@@ -9,3 +9,4 @@
 - [@zodios/core](https://github.com/ecyrbe/zodios) typescript http client and server with zod validation
 - [hetty](https://github.com/dstotijn/hetty) An HTTP toolkit for security research.
 - [http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) HTTP Man In The Middle (MITM) Proxy
+- [@mswjs/interceptors](https://github.com/mswjs/interceptors) Low-level network interception library.

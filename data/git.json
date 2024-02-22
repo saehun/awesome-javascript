@@ -6720,5 +6720,39 @@
     "name": "@open-draft/logger",
     "stars": 13,
     "description": "Environment-agnostic, ESM-friendly logger for simple needs."
+  },
+  "mswjs/interceptors": {
+    "repo": "interceptors",
+    "owner": "mswjs",
+    "topics": [
+      "node",
+      "http",
+      "https",
+      "xhr",
+      "request",
+      "mock",
+      "intercept",
+      "interceptor",
+      "nodejs",
+      "request-interception",
+      "fetch"
+    ],
+    "size": 1843,
+    "keywords": [
+      "request",
+      "intercept",
+      "http",
+      "https",
+      "xmlhttprequest",
+      "xhr",
+      "fetch",
+      "low-level",
+      "mock",
+      "spy",
+      "testing"
+    ],
+    "name": "@mswjs/interceptors",
+    "stars": 470,
+    "description": "Low-level network interception library."
   }
 }
