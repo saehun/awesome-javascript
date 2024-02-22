@@ -6698,5 +6698,27 @@
     "name": "@gr2m/net-interceptor",
     "stars": 5,
     "description": "Intercept outgoing network TCP/TLS connections"
+  },
+  "open-draft/logger": {
+    "repo": "logger",
+    "owner": "open-draft",
+    "topics": [
+      "debug",
+      "info",
+      "log",
+      "logger",
+      "warn"
+    ],
+    "size": 136,
+    "keywords": [
+      "log",
+      "logger",
+      "logging",
+      "universal",
+      "tiny"
+    ],
+    "name": "@open-draft/logger",
+    "stars": 13,
+    "description": "Environment-agnostic, ESM-friendly logger for simple needs."
   }
 }
