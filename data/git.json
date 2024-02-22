@@ -6679,5 +6679,24 @@
     "name": "jira.js",
     "stars": 233,
     "description": "A JavaScript/TypeScript wrapper for the JIRA Cloud, Service Desk and Agile REST API"
+  },
+  "gr2m/node-net-interceptor": {
+    "repo": "node-net-interceptor",
+    "owner": "gr2m",
+    "topics": [],
+    "size": 69,
+    "keywords": [
+      "net",
+      "intercept",
+      "interception",
+      "network",
+      "socket",
+      "tcp",
+      "tls",
+      "test"
+    ],
+    "name": "@gr2m/net-interceptor",
+    "stars": 5,
+    "description": "Intercept outgoing network TCP/TLS connections"
   }
 }
