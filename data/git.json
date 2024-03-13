@@ -1651,8 +1651,8 @@
     "stars": 497,
     "description": "Find unused exports in a typescript project. 🛀"
   },
-  "minidonut/gute": {
-    "repo": "gute",
+  "saehun/gute": {
+    "repo": "saehun",
     "owner": "minidonut",
     "topics": [
       "webgame",
@@ -6754,5 +6754,15 @@
     "name": "@mswjs/interceptors",
     "stars": 470,
     "description": "Low-level network interception library."
+  },
+  "obsidianmd/jsoncanvas": {
+    "repo": "jsoncanvas",
+    "owner": "obsidianmd",
+    "topics": [],
+    "size": 60,
+    "keywords": [],
+    "name": "jsoncanvas",
+    "stars": 1153,
+    "description": "An open file format for infinite canvas data."
   }
 }

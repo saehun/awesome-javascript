@@ -5,7 +5,7 @@
   "description": "A curated list of awesome JavaScript frameworks, libraries and software.",
   "license": "MIT",
   "main": "dist/index.js",
-  "repository": "minidonut/awesome-javascript",
+  "repository": "saehun/awesome-javascript",
   "scripts": {
     "build": "tsc",
     "postbuild": "./scripts/postbuild.sh",
