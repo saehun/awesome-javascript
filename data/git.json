@@ -6764,5 +6764,15 @@
     "name": "jsoncanvas",
     "stars": 1153,
     "description": "An open file format for infinite canvas data."
+  },
+  "soorajshankar/logScreen": {
+    "repo": "logScreen",
+    "owner": "soorajshankar",
+    "topics": [],
+    "size": 383,
+    "keywords": [],
+    "name": "logscreen",
+    "stars": 340,
+    "description": "Loglines can be messy, read it better on a browser, `command | npx logscreen`"
   }
 }
