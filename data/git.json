@@ -6774,5 +6774,31 @@
     "name": "logscreen",
     "stars": 340,
     "description": "Loglines can be messy, read it better on a browser, `command | npx logscreen`"
+  },
+  "larswaechter/voici.js": {
+    "repo": "voici.js",
+    "owner": "larswaechter",
+    "topics": [
+      "console",
+      "terminal",
+      "data-science",
+      "shell",
+      "tty",
+      "typescript",
+      "javascript"
+    ],
+    "size": 640,
+    "keywords": [
+      "shell",
+      "console",
+      "terminal",
+      "typescript",
+      "tty",
+      "data",
+      "data-science"
+    ],
+    "name": "voici.js",
+    "stars": 288,
+    "description": "A Node.js library for pretty printing your data on the terminal🎨"
   }
 }
