@@ -6800,5 +6800,26 @@
     "name": "voici.js",
     "stars": 288,
     "description": "A Node.js library for pretty printing your data on the terminal🎨"
+  },
+  "fastify/light-my-request": {
+    "repo": "light-my-request",
+    "owner": "fastify",
+    "topics": [
+      "http",
+      "injection",
+      "fastify-library",
+      "nodejs"
+    ],
+    "size": 515,
+    "keywords": [
+      "http",
+      "inject",
+      "fake",
+      "request",
+      "server"
+    ],
+    "name": "light-my-request",
+    "stars": 304,
+    "description": "Fake HTTP injection library"
   }
 }
