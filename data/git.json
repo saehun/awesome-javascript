@@ -6821,5 +6821,27 @@
     "name": "light-my-request",
     "stars": 304,
     "description": "Fake HTTP injection library"
+  },
+  "basecamp/trix": {
+    "repo": "trix",
+    "owner": "basecamp",
+    "topics": [
+      "rich-text-editor",
+      "wysiwyg-editor",
+      "wysiwyg",
+      "javascript",
+      "custom-elements",
+      "editor",
+      "text-editor"
+    ],
+    "size": 5912,
+    "keywords": [
+      "rich text",
+      "wysiwyg",
+      "editor"
+    ],
+    "name": "trix",
+    "stars": 18416,
+    "description": "A rich text editor for everyday writing"
   }
 }
