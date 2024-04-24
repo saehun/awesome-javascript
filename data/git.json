@@ -3826,14 +3826,14 @@
     "repo": "node-pool",
     "owner": "coopernurse",
     "topics": [],
-    "size": 605,
+    "size": 600,
     "keywords": [
       "pool",
       "pooling",
       "throttle"
     ],
     "name": "generic-pool",
-    "stars": 2155,
+    "stars": 2359,
     "description": "Generic resource pooling for node.js"
   },
   "DirtyHairy/async-mutex": {
