@@ -6843,5 +6843,31 @@
     "name": "trix",
     "stars": 18416,
     "description": "A rich text editor for everyday writing"
+  },
+  "CapSoftware/Cap": {
+    "repo": "Cap",
+    "owner": "CapSoftware",
+    "topics": [
+      "app",
+      "cap",
+      "coss",
+      "mac",
+      "open-source",
+      "oss",
+      "react",
+      "record",
+      "screen-capture",
+      "screen-recorder",
+      "screenshot",
+      "tauri",
+      "tauri-app",
+      "typescript",
+      "vite"
+    ],
+    "size": 16310,
+    "keywords": [],
+    "name": "cap",
+    "stars": 2326,
+    "description": "Effortless, instant screen sharing. Open-source and cross-platform."
   }
 }

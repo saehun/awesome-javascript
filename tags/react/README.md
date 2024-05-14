@@ -21,3 +21,4 @@
 - [tsdx](https://github.com/jaredpalmer/tsdx) Zero-config CLI for TypeScript package development
 - [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System
 - [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.
+- [cap](https://github.com/CapSoftware/Cap) Effortless, instant screen sharing. Open-source and cross-platform.
