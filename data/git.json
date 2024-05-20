@@ -6869,5 +6869,15 @@
     "name": "cap",
     "stars": 2326,
     "description": "Effortless, instant screen sharing. Open-source and cross-platform."
+  },
+  "charlesguse/run-script-os": {
+    "repo": "run-script-os",
+    "owner": "charlesguse",
+    "topics": [],
+    "size": 76,
+    "keywords": [],
+    "name": "run-script-os",
+    "stars": 184,
+    "description": "run-script-os will let you use OS specific operations in npm scripts without specifying which OS you are on. It's not magic though... you still have to write OS specific scripts."
   }
 }
