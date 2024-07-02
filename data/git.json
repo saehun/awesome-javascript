@@ -6879,5 +6879,27 @@
     "name": "run-script-os",
     "stars": 184,
     "description": "run-script-os will let you use OS specific operations in npm scripts without specifying which OS you are on. It's not magic though... you still have to write OS specific scripts."
+  },
+  "ts-rest/ts-rest": {
+    "repo": "ts-rest",
+    "owner": "ts-rest",
+    "topics": [
+      "rpc",
+      "typescript",
+      "api",
+      "openapi",
+      "rest",
+      "fastify",
+      "nestjs",
+      "nextjs",
+      "react",
+      "react-query",
+      "solid"
+    ],
+    "size": 7869,
+    "keywords": [],
+    "name": "ts-rest",
+    "stars": 2125,
+    "description": "RPC-like client, contract, and server implementation for a pure REST API"
   }
 }

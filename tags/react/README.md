@@ -22,3 +22,4 @@
 - [@nx/nx-source](https://github.com/nrwl/nx) Smart, Fast and Extensible Build System
 - [root](https://github.com/textlint/textlint) The pluggable natural language linter for text and markdown.
 - [cap](https://github.com/CapSoftware/Cap) Effortless, instant screen sharing. Open-source and cross-platform.
+- [ts-rest](https://github.com/ts-rest/ts-rest) RPC-like client, contract, and server implementation for a pure REST API
