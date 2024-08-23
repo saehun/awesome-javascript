@@ -6901,5 +6901,25 @@
     "name": "ts-rest",
     "stars": 2125,
     "description": "RPC-like client, contract, and server implementation for a pure REST API"
+  },
+  "PlasmoHQ/plasmo": {
+    "repo": "plasmo",
+    "owner": "PlasmoHQ",
+    "topics": [
+      "browser-extension",
+      "chrome-extension",
+      "parcel",
+      "reactjs",
+      "sdk",
+      "typescript",
+      "bundler",
+      "edge-addon",
+      "firefox-addon"
+    ],
+    "size": 5264,
+    "keywords": [],
+    "name": "p1asm0",
+    "stars": 9800,
+    "description": "🧩 The Browser Extension Framework"
   }
 }
