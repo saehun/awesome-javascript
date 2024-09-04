@@ -6921,5 +6921,23 @@
     "name": "p1asm0",
     "stars": 9800,
     "description": "🧩 The Browser Extension Framework"
+  },
+  "dahlia/logtape": {
+    "repo": "logtape",
+    "owner": "dahlia",
+    "topics": [
+      "bun",
+      "deno",
+      "javascript",
+      "logging",
+      "nodejs",
+      "typescript",
+      "log"
+    ],
+    "size": 1367,
+    "keywords": [],
+    "name": "logtape",
+    "stars": 398,
+    "description": "Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions"
   }
 }
