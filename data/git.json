@@ -6939,5 +6939,27 @@
     "name": "logtape",
     "stars": 398,
     "description": "Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions"
+  },
+  "elysiajs/elysia": {
+    "repo": "elysia",
+    "owner": "elysiajs",
+    "topics": [
+      "framework",
+      "typescript",
+      "bun",
+      "web",
+      "http",
+      "server"
+    ],
+    "size": 55333,
+    "keywords": [
+      "bun",
+      "http",
+      "web",
+      "server"
+    ],
+    "name": "elysia",
+    "stars": 9765,
+    "description": "Ergonomic Framework for Humans"
   }
 }

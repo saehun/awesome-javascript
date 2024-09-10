@@ -11,3 +11,4 @@
 - [http-mitm-proxy](https://github.com/joeferner/node-http-mitm-proxy) HTTP Man In The Middle (MITM) Proxy
 - [@mswjs/interceptors](https://github.com/mswjs/interceptors) Low-level network interception library.
 - [light-my-request](https://github.com/fastify/light-my-request) Fake HTTP injection library
+- [elysia](https://github.com/elysiajs/elysia) Ergonomic Framework for Humans
