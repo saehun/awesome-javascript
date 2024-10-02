@@ -6961,5 +6961,34 @@
     "name": "elysia",
     "stars": 9765,
     "description": "Ergonomic Framework for Humans"
+  },
+  "Mintplex-Labs/anything-llm": {
+    "repo": "anything-llm",
+    "owner": "Mintplex-Labs",
+    "topics": [
+      "rag",
+      "lmstudio",
+      "localai",
+      "vector-database",
+      "ollama",
+      "local-llm",
+      "desktop-app",
+      "llama3",
+      "llm",
+      "llm-application",
+      "llm-webui",
+      "webui",
+      "ai-agents",
+      "crewai",
+      "multimodal",
+      "agent-framework-javascript",
+      "custom-ai-agents",
+      "nodejs"
+    ],
+    "size": 42163,
+    "keywords": [],
+    "name": "anything-llm",
+    "stars": 23825,
+    "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more."
   }
 }
