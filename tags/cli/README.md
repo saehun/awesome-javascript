@@ -24,3 +24,4 @@
 - [ionic-cli](https://github.com/ionic-team/ionic-cli) The Ionic command-line interface
 - [lesyjs](https://github.com/lokesh-coder/lesyjs) Node JS based CLI framework to build modern Command line applications (in Beta )
 - [@clerc/monorepo](https://github.com/clercjs/clerc) 🖖🏻 Clerc: The full-featured cli library.
+- [consola](https://github.com/unjs/consola) 🐨 Elegant Console Logger for Node.js and Browser 

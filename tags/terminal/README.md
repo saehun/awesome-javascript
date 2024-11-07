@@ -8,3 +8,4 @@
 - [listr2](https://github.com/listr2/listr2) NodeJS Task List derived from the best! Create beautiful CLI interfaces via easy and logical to implement task lists that feel alive and interactive.
 - [lesyjs](https://github.com/lokesh-coder/lesyjs) Node JS based CLI framework to build modern Command line applications (in Beta )
 - [voici.js](https://github.com/larswaechter/voici.js) A Node.js library for pretty printing your data on the terminal🎨
+- [consola](https://github.com/unjs/consola) 🐨 Elegant Console Logger for Node.js and Browser 

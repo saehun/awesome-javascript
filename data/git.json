@@ -6990,5 +6990,35 @@
     "name": "anything-llm",
     "stars": 23825,
     "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more."
+  },
+  "unjs/consola": {
+    "repo": "consola",
+    "owner": "unjs",
+    "topics": [
+      "console",
+      "node",
+      "terminal",
+      "fancy",
+      "log",
+      "cli"
+    ],
+    "size": 2743,
+    "keywords": [
+      "console",
+      "logger",
+      "reporter",
+      "elegant",
+      "cli",
+      "universal",
+      "unified",
+      "prompt",
+      "clack",
+      "format",
+      "error",
+      "stacktrace"
+    ],
+    "name": "consola",
+    "stars": 6104,
+    "description": "🐨 Elegant Console Logger for Node.js and Browser "
   }
 }
